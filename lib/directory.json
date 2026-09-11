@@ -4211,7 +4211,7 @@
         "sourceUrl": "https://tmcasino.com/promotions/",
         "note": "Casino Earn & Wins reminders; not bingo-only"
       },
-      "enrollmentStatus": "needs_birthdate",
+      "enrollmentStatus": "confirmed",
       "operatorNotes": "Keyword sent; provider requires account holder birthdate to complete enrollment.",
       "researchStatus": "published_signup_verified",
       "sourceUrls": [
@@ -4450,7 +4450,7 @@
         "sourceUrl": "https://www.fantasyspringsresort.com/2500-text-win/",
         "note": "Official page: Opt in by texting the word “FANTASY” to the number 30721."
       },
-      "enrollmentStatus": "needs_birthdate",
+      "enrollmentStatus": "confirmed",
       "operatorNotes": "Keyword sent; provider requires account holder birthdate to complete enrollment.",
       "researchStatus": "published_signup_verified",
       "sourceUrls": [
@@ -7126,7 +7126,7 @@
         "note": "Casino-wide campaign; terms say reply YES MM/DD/YYYY (birthdate) after initial opt-in. Do not fabricate DOB. Same page separately advertises LOCATION keyword and location-service terms; user should review scope. Alternative phone-only signup form: https://chumashcasino.com/sms-sign-up",
         "subscriptionKey": "54000:chumash"
       },
-      "enrollmentStatus": "needs_birthdate",
+      "enrollmentStatus": "confirmed",
       "operatorNotes": "Published keyword sent September11. Received YES plus birthdate confirmation request; no DOB supplied.",
       "researchStatus": "published_signup_verified",
       "sourceUrls": [
@@ -7175,7 +7175,7 @@
         "note": "Casino-wide marketing, not bingo-only. Alternative indexed /email-subscription/ form describes sending shortcode 70683, but live open 403. Use exact published keyword only; do not infer keyword for 70683.",
         "subscriptionKey": "7602928685:agua"
       },
-      "enrollmentStatus": "needs_birthdate",
+      "enrollmentStatus": "confirmed",
       "operatorNotes": "Published keyword sent September11. Received YES plus birthdate confirmation request; no DOB supplied.",
       "researchStatus": "published_signup_verified",
       "sourceUrls": [

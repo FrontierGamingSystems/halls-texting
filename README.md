@@ -6,7 +6,7 @@ Cards sort by the latest promotional message and open **View details** with webs
 
 The September 11 research pass added 33 listings to the previous 296. It manually updated 81 existing records, recorded 93 published schedules, and checked 107 city-search entries. Automated rescanning attempted all 296 original records and fetched 833 pages, including likely signup, calendar and sales pages. Detailed source evidence and caveats are in research/; excerpts from the automated scan are candidates, not verified claims. The 329 listings include historical, paused, community and event-only leads and are not a complete statewide census.
 
-Two newly verified casino-wide SMS routes, Chumash and Agua Caliente, were contacted. Both require a YES plus birthdate reply and remain pending, along with Fantasy Springs and Table Mountain. No birthdate was invented. Confirmed SMS enrollment does not prove a venue currently operates: Industry's published suspension is recorded separately.
+Chumash, Agua Caliente, Fantasy Springs and Table Mountain confirmed enrollment after the requested replies were completed, bringing the confirmed hall count to 19. These casino-wide lists are not bingo-exclusive. Table Mountain's additional JACKPOT alerts were requested separately and still await confirmation. Confirmed SMS enrollment does not prove a venue currently operates: Industry's published suspension is recorded separately.
 
 ## Runtime and database
 
