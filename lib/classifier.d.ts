@@ -1,0 +1,1 @@
+export function classify(message:{from:string;to?:string;body:string;receivedAt:string;messageId?:string},directory:{halls:import('./types').Hall[]}):{hallId:string|null;candidateHallIds:string[];status:string;reason:string};

@@ -1,0 +1,4951 @@
+{
+  "scope": "California bingo promotional SMS; text only",
+  "updatedOn": "2026-09-11",
+  "forwardingEmail": "texting@frontiergamingsystems.com",
+  "receivingNumber": "+12793469150",
+  "proposedNumber": "+12793469150",
+  "provisioningStatus": "phone_and_email_verified_forwarding_saved",
+  "forwardingStatus": "saved_in_provider_settings",
+  "forwardingConfiguredOn": "2026-09-11",
+  "accountVerificationStatus": "phone_and_email_verified",
+  "deliveryTestStatus": "self_test_received_and_forwarded_to_texting_group",
+  "coverage": "City-by-city research in progress. A missing response indicates a possibly inactive signup, not a confirmed hall closure. Not a complete statewide census.",
+  "halls": [
+    {
+      "id": "scout-st-joseph-of-cupertino-bingo",
+      "name": "St. Joseph of Cupertino Bingo",
+      "address": "10110 N De Anza Blvd, Cupertino, CA 95014",
+      "city": "Cupertino",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://stjosephcupertino.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://stjosephcupertino.org/bingo"
+      ]
+    },
+    {
+      "id": "scout-tuesday-night-bingo-morgan-hill-ccc",
+      "name": "Tuesday Night Bingo (Morgan Hill CCC)",
+      "address": "17000 Monterey Rd, Morgan Hill, CA 95037",
+      "city": "Morgan Hill",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.mhbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.mhbingo.com/",
+        "https://www.mhbingo.com/contact",
+        "https://morganhilltimes.com/b-i-n-g-o/"
+      ]
+    },
+    {
+      "id": "scout-live-oak-emerald-regime-bingo",
+      "name": "Live Oak Emerald Regime Bingo",
+      "address": "80 W Central Ave, Morgan Hill, CA 95037",
+      "city": "Morgan Hill",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.yelp.com/biz/live-oak-emerald-regime-bingo-morgan-hill",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.yelp.com/biz/live-oak-emerald-regime-bingo-morgan-hill"
+      ]
+    },
+    {
+      "id": "scout-san-mateo-elks-lodge-1112",
+      "name": "San Mateo Elks Lodge #1112",
+      "address": "229 W 20th Ave, San Mateo, CA 94403",
+      "city": "San Mateo",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.sanmateoelks1112.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.sanmateoelks1112.org/bingo"
+      ]
+    },
+    {
+      "id": "scout-boys-girls-club-orange-park-ssf",
+      "name": "Boys & Girls Club Orange Park (SSF)",
+      "address": "200 W Orange Ave (Orange Park Clubhouse), South San Francisco, CA 94080",
+      "city": "South San Francisco",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://theclubs.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://theclubs.org/"
+      ]
+    },
+    {
+      "id": "scout-sacbc-bingo-union-city",
+      "name": "SACBC Bingo (Union City)",
+      "address": "32975 Alvarado Niles Rd, Union City, CA 94587",
+      "city": "Union City",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.yelp.com/biz/sacbc-bingo-union-city",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.yelp.com/biz/sacbc-bingo-union-city"
+      ]
+    },
+    {
+      "id": "scout-ohp-bingo-at-carpenters-hall",
+      "name": "OHP Bingo at Carpenters Hall",
+      "address": "1050 Mattox Rd (Carpenters Union Hall), Hayward, CA 94544",
+      "city": "Hayward",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.facebook.com/bingoatcarpentershall/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.facebook.com/bingoatcarpentershall/"
+      ]
+    },
+    {
+      "id": "scout-santa-clara-sporting-club-bingo",
+      "name": "Santa Clara Sporting Club Bingo",
+      "address": "284 Brokaw Rd, Santa Clara, CA 95050",
+      "city": "Santa Clara",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.santaclarasporting.com/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.santaclarasporting.com/bingo"
+      ]
+    },
+    {
+      "id": "scout-st-cecilia-collins-center-bingo",
+      "name": "St. Cecilia Collins Center Bingo",
+      "address": "2560 18th Ave, San Francisco, CA 94116",
+      "city": "San Francisco",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.stcecilia.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.stcecilia.com/"
+      ]
+    },
+    {
+      "id": "scout-st-kevin-s-wednesday-night-bingo",
+      "name": "St. Kevin's Wednesday Night Bingo",
+      "address": "704 Cortland Ave, San Francisco, CA 94110",
+      "city": "San Francisco",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "http://www.stkevinsf.org/wednesday-night-bingo.htm",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "http://www.stkevinsf.org/wednesday-night-bingo.htm"
+      ]
+    },
+    {
+      "id": "scout-all-souls-friday-night-bingo",
+      "name": "All Souls Friday Night Bingo",
+      "address": "315 Walnut Ave, South San Francisco, CA 94080",
+      "city": "South San Francisco",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.allsoulsbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.allsoulsbingo.com/"
+      ]
+    },
+    {
+      "id": "scout-doelger-senior-center-bingo",
+      "name": "Doelger Senior Center Bingo",
+      "address": "101 Lake Merced Blvd, Daly City, CA 94015",
+      "city": "Daly City",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "http://www.doelgercenter.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "http://www.doelgercenter.com/"
+      ]
+    },
+    {
+      "id": "scout-san-bruno-senior-center-bingo",
+      "name": "San Bruno Senior Center Bingo",
+      "address": "1555 Crystal Springs Rd, San Bruno, CA 94066",
+      "city": "San Bruno",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://sanbruno.ca.gov/332/Bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://sanbruno.ca.gov/332/Bingo"
+      ]
+    },
+    {
+      "id": "scout-st-timothy-s-parish-friday-bingo",
+      "name": "St. Timothy's Parish Friday Bingo",
+      "address": "1515 Dolan Ave, San Mateo, CA 94401",
+      "city": "San Mateo",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "http://www.sttims.us",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "http://www.sttims.us"
+      ]
+    },
+    {
+      "id": "scout-bingo4chef-livermore",
+      "name": "Bingo4CHEF Livermore",
+      "address": "3070 Pacific Ave, Livermore, CA 94550",
+      "city": "Livermore",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.bingo4chef.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.bingo4chef.org/"
+      ]
+    },
+    {
+      "id": "scout-moose-lodge-1491-bingo",
+      "name": "Moose Lodge 1491 Bingo",
+      "address": "20835 Rutledge Rd, Castro Valley, CA 94546",
+      "city": "Castro Valley",
+      "region": "Bay Area & North Coast",
+      "website": "https://castrovalleymoose.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-vfw-post-6435-bingo-antioch",
+      "name": "VFW Post 6435 Bingo (Antioch)",
+      "address": "815 Fulton Shipyard Rd, Antioch, CA 94509",
+      "city": "Antioch",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "http://vfw6435.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "http://vfw6435.org/bingo/"
+      ]
+    },
+    {
+      "id": "scout-v1st-veterans-first-bingo",
+      "name": "V1ST Veterans First Bingo",
+      "address": "3010 Willow Pass Rd, Concord, CA 94519",
+      "city": "Concord",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://v1stbingo.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://v1stbingo.org/"
+      ]
+    },
+    {
+      "id": "scout-antioch-senior-center-bingo",
+      "name": "Antioch Senior Center Bingo",
+      "address": "415 W 2nd St, Antioch, CA 94509",
+      "city": "Antioch",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.antiochca.gov/recreation/senior-center/senior-center-activities/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.antiochca.gov/recreation/senior-center/senior-center-activities/"
+      ]
+    },
+    {
+      "id": "scout-east-bay-charitable-fund-bingo-carpenter-s-hall",
+      "name": "East Bay Charitable Fund Bingo (Carpenter's Hall)",
+      "address": "1050 Mattox Rd, Hayward, CA 94544",
+      "city": "Hayward",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.multiplayerbingo.com/mobile/directory/us/california.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.multiplayerbingo.com/mobile/directory/us/california.html"
+      ]
+    },
+    {
+      "id": "scout-ashland-little-league-bingo-carpenter-s-hall",
+      "name": "Ashland Little League Bingo (Carpenter's Hall)",
+      "address": "1050 Mattox Rd, Hayward, CA 94544",
+      "city": "Hayward",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.ashlandlittleleague.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.ashlandlittleleague.org/"
+      ]
+    },
+    {
+      "id": "scout-napa-bingo-emporium",
+      "name": "Napa Bingo Emporium",
+      "address": "601 Silverado Trail, Napa, CA 94559",
+      "city": "Napa",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://napabingoemporium.com/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Napa",
+        "destination": "7076812030",
+        "subscriptionKey": "7076812030:napa",
+        "sourceUrl": "https://napabingoemporium.com/",
+        "note": "Current official homepage publishes the signup in its scrolling text."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS verified in provider inbox Sept 11, between 02:26 and 02:30 Pacific. Timestamp here is confirmation-check time.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://napabingoemporium.com/"
+      ]
+    },
+    {
+      "id": "scout-777-bingo-hall",
+      "name": "777 Bingo Hall",
+      "address": "777 Sereno Dr, Vallejo, CA 94589",
+      "city": "Vallejo",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.yelp.com/biz/777-bingo-vallejo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.yelp.com/biz/777-bingo-vallejo"
+      ]
+    },
+    {
+      "id": "scout-san-rafael-goldenaires-bingo",
+      "name": "San Rafael Goldenaires Bingo",
+      "address": "618 B St, San Rafael, CA 94901",
+      "city": "San Rafael",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.srgoldenaires.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.srgoldenaires.org/"
+      ]
+    },
+    {
+      "id": "scout-refpa-friday-night-bingo-petaluma",
+      "name": "REFPA Friday Night Bingo (Petaluma)",
+      "address": "320 N McDowell Blvd, Petaluma, CA 94954",
+      "city": "Petaluma",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://refpa.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://refpa.org/bingo/"
+      ]
+    },
+    {
+      "id": "scout-italian-men-s-club-bingo-sj-elks-lodge",
+      "name": "Italian Men's Club Bingo (SJ Elks Lodge)",
+      "address": "444 W Alma Ave, San Jose, CA 95110",
+      "city": "San Jose",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://italianmensclub.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://italianmensclub.org/"
+      ]
+    },
+    {
+      "id": "scout-tafatolu-bingo",
+      "name": "Tafatolu Bingo",
+      "address": "3200 Patrick Henry Dr, Santa Clara, CA 95054",
+      "city": "Santa Clara",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.tafatolubingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.cylex.us.com/company/tafatolu-bingo-27725688.html",
+        "https://maps.apple.com/place?place-id=IF9A689848647E34B",
+        "https://www.tafatolubingo.com/"
+      ]
+    },
+    {
+      "id": "scout-st-frances-cabrini-parish-bingo",
+      "name": "St. Frances Cabrini Parish Bingo",
+      "address": "15333 Woodard Rd, San Jose, CA 95124",
+      "city": "San Jose",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://sfcabrini.org/parish-life/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://sfcabrini.org/parish-life/bingo/"
+      ]
+    },
+    {
+      "id": "scout-rainbow-bingo-at-the-defrank-center",
+      "name": "Rainbow Bingo at the DeFrank Center",
+      "address": "938 The Alameda, San Jose, CA 95126",
+      "city": "San Jose",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.defrankcenter.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.defrankcenter.org/"
+      ]
+    },
+    {
+      "id": "scout-saratoga-knights-of-columbus-bingo",
+      "name": "Saratoga Knights of Columbus Bingo",
+      "address": "19770 Saratoga-Los Gatos Rd, Saratoga, CA 95070",
+      "city": "Los Gatos",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": null,
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "Prior website was outside California; California hall identity needs verification.",
+      "researchStatus": "wrong_geography_source_removed",
+      "sourceUrls": [
+        "https://www.saratogakofc246.com/bingo"
+      ]
+    },
+    {
+      "id": "scout-santa-cruz-portuguese-hall-thursday-bingo",
+      "name": "Santa Cruz Portuguese Hall Thursday Bingo",
+      "address": "216 Evergreen St, Santa Cruz, CA 95060",
+      "city": "Santa Cruz",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.santacruzportuguesehall.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.santacruzportuguesehall.org/bingo"
+      ]
+    },
+    {
+      "id": "scout-slv-boosters-bingo",
+      "name": "SLV Boosters Bingo",
+      "address": "216 Evergreen St (Portuguese Hall), Santa Cruz, CA 95060",
+      "city": "Santa Cruz",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://slvboosters.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://slvboosters.org/bingo/"
+      ]
+    },
+    {
+      "id": "scout-watsonville-lions-wednesday-night-bingo",
+      "name": "Watsonville Lions Wednesday Night Bingo",
+      "address": "2601 E Lake Ave (Santa Cruz County Fairgrounds), Watsonville, CA 95076",
+      "city": "Watsonville",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.santacruzcountyfair.com/santa-cruz-county-fairgrounds-events/7-weekly-wednesday-night-bingo-7-20-22",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.santacruzcountyfair.com/santa-cruz-county-fairgrounds-events/7-weekly-wednesday-night-bingo-7-20-22"
+      ]
+    },
+    {
+      "id": "scout-aslsc-aptos-bingo",
+      "name": "ASLSC Aptos Bingo",
+      "address": "2555 Mar Vista Dr, Aptos, CA 95003",
+      "city": "Aptos",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.aslsc.com/bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.aslsc.com/bingo.html"
+      ]
+    },
+    {
+      "id": "scout-salinas-park-n-play-bingo",
+      "name": "Salinas Park n Play Bingo",
+      "address": "333 N Main St, Salinas, CA 93901",
+      "city": "Salinas",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.salinasparknplaybingo.com/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Winner",
+        "destination": "18447611844",
+        "subscriptionKey": "18447611844:winner",
+        "sourceUrl": "https://www.salinasparknplaybingo.com/",
+        "note": "Toll-free destination; daily promotions."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS verified in provider inbox Sept 11, between 02:26 and 02:30 Pacific. Timestamp here is confirmation-check time.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.salinasparknplaybingo.com/"
+      ]
+    },
+    {
+      "id": "scout-marina-831-bingo",
+      "name": "Marina 831 Bingo",
+      "address": "192 Paddon Pl, Marina, CA 93933",
+      "city": "Marina",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.marina831bingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.marina831bingo.com/"
+      ]
+    },
+    {
+      "id": "scout-monterey-peninsula-avenue-of-flags-bingo",
+      "name": "Monterey Peninsula Avenue of Flags Bingo",
+      "address": "986 Hilby Ave (Oldemeyer Center), Seaside, CA 93955",
+      "city": "Seaside",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.facebook.com/MPAOFSEASIDE/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.facebook.com/MPAOFSEASIDE/"
+      ]
+    },
+    {
+      "id": "scout-winners-bingo-stockton",
+      "name": "Winners Bingo Stockton",
+      "address": "1658 S Airport Way, Stockton, CA 95206",
+      "city": "Stockton",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://www.winnersbingostockton.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-winners-bingo-tracy-uneed2",
+      "name": "Winners Bingo Tracy (Uneed2)",
+      "address": "1005 E Pescadero Ave Ste 167, Tracy, CA 95304",
+      "city": "Tracy",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://www.winnersbingotracy.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-bingo-ranch",
+      "name": "Bingo Ranch",
+      "address": "2200 Hoover Ave, Modesto, CA 95354",
+      "city": "Modesto",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://www.yelp.com/biz/bingo-ranch-modesto",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-urhai-bingo-assyrian-club",
+      "name": "Urhai Bingo (Assyrian Club)",
+      "address": "2016 N Central Ave, Ceres, CA 95307",
+      "city": "Ceres",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.facebook.com/UrhaiBingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-castle-bingo",
+      "name": "Castle Bingo",
+      "address": "3119 S Central Ave, Ceres, CA 95307",
+      "city": "Ceres",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.yelp.com/biz/castle-bingo-ceres",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-monday-manteca-bingo-emory-hall",
+      "name": "Monday Manteca Bingo (Emory Hall)",
+      "address": "1028 W Yosemite Ave, Manteca, CA 95337",
+      "city": "Manteca",
+      "region": "Bay Area & North Coast",
+      "website": "https://oneloveco.org/monday-manteca-bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-friday-lodi-bingo-eagles-lodge",
+      "name": "Friday Lodi Bingo (Eagles Lodge)",
+      "address": "217 E Lodi Ave (Aerie 848), Lodi, CA 95240",
+      "city": "Lodi",
+      "region": "Bay Area & North Coast",
+      "website": "https://oneloveco.org/friday-lodi-bingo-1",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-lodi-italian-club-bingo",
+      "name": "Lodi Italian Club Bingo",
+      "address": "1041 S Miwok Dr, Lodi, CA 95240",
+      "city": "Lodi",
+      "region": "Bay Area & North Coast",
+      "website": "https://thelodiitalianclub.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-loel-senior-center-bingo",
+      "name": "LOEL Senior Center Bingo",
+      "address": "105 S Washington St, Lodi, CA 95240",
+      "city": "Lodi",
+      "region": "Bay Area & North Coast",
+      "website": "https://loelcenter.org/programs/games/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-stockton-elks-lodge-218-bingo",
+      "name": "Stockton Elks Lodge #218 Bingo",
+      "address": "8900 Thornton Rd Ste 1, Stockton, CA 95209",
+      "city": "Stockton",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://stockton-ca-218.elks.club/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-modesto-elks-lodge-1282-bingo",
+      "name": "Modesto Elks Lodge #1282 Bingo",
+      "address": "645 Charity Way, Modesto, CA 95356",
+      "city": "Modesto",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1282",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-tracy-elks-lodge-2031-bingo",
+      "name": "Tracy Elks Lodge #2031 Bingo",
+      "address": "6400 W 11th St, Tracy, CA 95304",
+      "city": "Tracy",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://tracy-ca-2031.elks.club/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-manteca-senior-center-bingo",
+      "name": "Manteca Senior Center Bingo",
+      "address": "295 Cherry Ln, Manteca, CA 95337",
+      "city": "Manteca",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.manteca.gov/departments/recreation-community-services/senior-center",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-lathrop-park-and-play-bingo",
+      "name": "Lathrop Park and Play Bingo",
+      "address": "15707 5th St (Senior Ctr lot), Lathrop, CA 95330",
+      "city": "Lathrop",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.ci.lathrop.ca.us/parksrec/page/park-and-play-bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "hawaiian-gardens",
+      "name": "The Bingo Club of Hawaiian Gardens",
+      "address": "21900 Norwalk Blvd, Hawaiian Gardens, CA 90716",
+      "city": "Hawaiian Gardens",
+      "region": "Bay Area & North Coast",
+      "website": "https://hawaiiangardensbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "mcalister",
+      "name": "McAlister Institute Bingo",
+      "address": "1365 N Johnson Ave, El Cajon, CA 92020",
+      "city": "El Cajon",
+      "region": "San Diego & Imperial",
+      "website": "https://mcalisterinc.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://mcalisterinc.org/bingo/"
+      ]
+    },
+    {
+      "id": "bosco",
+      "name": "Bosco Bingo · St. John Bosco High School",
+      "address": "13640 Bellflower Blvd, Bellflower, CA 90706",
+      "city": "Bellflower",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.bosco.org/get-involved/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "vai-o-le-ola",
+      "name": "Vai O Le Ola Bingo",
+      "address": "5420 Clark Ave, Lakewood, CA 90712",
+      "city": "Lakewood",
+      "region": "Los Angeles",
+      "website": "https://vaioleola.org/bingo-program",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://vaioleola.org/bingo-program"
+      ]
+    },
+    {
+      "id": "duarte-elks",
+      "name": "Duarte Elks Bingo",
+      "address": "2436 Huntington Dr, Duarte, CA 91010",
+      "city": "Duarte",
+      "region": "Los Angeles",
+      "website": "https://www.duarteelks.org/Bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://duarteelks.org/Bingo.html"
+      ]
+    },
+    {
+      "id": "simi-valley-elks",
+      "name": "Simi Valley Elks Bingo",
+      "address": "1561 Kuehner Dr, Simi Valley, CA 93063",
+      "city": "Simi Valley",
+      "region": "Central Coast",
+      "website": "https://simivalleyelks.com/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://simivalleyelks.com/bingo"
+      ]
+    },
+    {
+      "id": "simi-knights",
+      "name": "Simi Knights Bingo",
+      "address": "4191 Cochran St, Simi Valley, CA 93063",
+      "city": "Simi Valley",
+      "region": "Bay Area & North Coast",
+      "website": "https://kc5803.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "arcadia-elks",
+      "name": "Arcadia Elks Bingo",
+      "address": "27 W Huntington Dr, Arcadia, CA 91006",
+      "city": "Arcadia",
+      "region": "Los Angeles",
+      "website": "https://arcadiaelks.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://arcadiaelks.org/bingo"
+      ]
+    },
+    {
+      "id": "garden-grove-elks",
+      "name": "Garden Grove Elks Bingo",
+      "address": "11551 Trask Ave, Garden Grove, CA 92843",
+      "city": "Garden Grove",
+      "region": "Orange County",
+      "website": "https://elks1952.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://elks1952.org/bingo/"
+      ]
+    },
+    {
+      "id": "sapolu-academy",
+      "name": "Sapolu Destined Academy Bingo",
+      "address": "1661 N Raymond Ave, Suite 200, Anaheim, CA 92801",
+      "city": "Anaheim",
+      "region": "Bay Area & North Coast",
+      "website": "https://sda-foundation.org/bingo-fundraiser/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "russian-river-sisters",
+      "name": "Russian River Sisters Bingo",
+      "address": "Santa Rosa Veterans Hall, Lodge Room, 1351 Maple Avenue, Santa Rosa, CA",
+      "city": "Santa Rosa",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.rrsisters.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.rrsisters.org/bingo"
+      ]
+    },
+    {
+      "id": "davis-odd-fellows",
+      "name": "Davis Odd Fellows Second Sunday Bingo",
+      "address": "415 Second Street, Davis, CA 95616",
+      "city": "Davis",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.davislodge.org/odd-fellows-events/second-sunday-bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.davislodge.org/odd-fellows-events/second-sunday-bingo/"
+      ]
+    },
+    {
+      "id": "durant-square",
+      "name": "Durant Square Bingo Hall",
+      "address": "10800 International Boulevard, Oakland, CA 94603",
+      "city": "Oakland",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.durantbingo.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.durantbingo.org/"
+      ]
+    },
+    {
+      "id": "merced-elks",
+      "name": "Merced Elks Lodge #1240 Bingo",
+      "address": "1910 M Street, Merced, CA 95340",
+      "city": "Merced",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "woodland-elks",
+      "name": "Woodland Elks Lodge #1299 Bingo",
+      "address": "500 Bush Street, Woodland, CA 95695",
+      "city": "Woodland",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1299",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1299"
+      ]
+    },
+    {
+      "id": "san-luis-obispo-elks",
+      "name": "San Luis Obispo Elks Lodge #322 Bingo",
+      "address": "222 Elks Lane, San Luis Obispo, CA 93401",
+      "city": "San Luis Obispo",
+      "region": "Bay Area & North Coast",
+      "website": "https://elks322.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "santa-cruz-elks",
+      "name": "Santa Cruz Elks Lodge #824 Bingo",
+      "address": "150 Jewell Street, Santa Cruz, CA 95060",
+      "city": "Santa Cruz",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://santacruzelks.org/newsite/?page_id=739",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://santacruzelks.org/newsite/?page_id=814"
+      ]
+    },
+    {
+      "id": "ventura-elks",
+      "name": "Ventura Elks Lodge 1430 Bingo",
+      "address": "2126 Knoll Drive, Ventura, CA 93003",
+      "city": "Ventura",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.venturaelks.us/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "daub-4-kids",
+      "name": "Daub 4 Kids Bingo",
+      "address": "2107 Main Street, Oakley, CA 94561",
+      "city": "Oakley",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.daub4kidsbingo.com/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Join",
+        "destination": "9256661233",
+        "subscriptionKey": "9256661233:join",
+        "sourceUrl": "https://www.daub4kidsbingo.com/",
+        "note": "Local number; first pilot signup."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Provider inbox welcome message confirms subscription on September 11.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.daub4kidsbingo.com/"
+      ]
+    },
+    {
+      "id": "broadway-salinas",
+      "name": "Broadway Bingo",
+      "address": "19 West Bernal Drive, Salinas, CA 93906",
+      "city": "Salinas",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.broadway.bingo/",
+      "signup": {
+        "method": "web_form",
+        "url": "https://optin.mobiniti.com/broadwaybingo",
+        "sourceUrl": "https://www.broadway.bingo/",
+        "note": "Broadway Texting Club form verified in browser. Enter the dedicated number and complete its requested fields and SMS consent."
+      },
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.broadway.bingo/"
+      ]
+    },
+    {
+      "id": "park-place",
+      "name": "Park Place Bingo",
+      "address": "1045 South Main Street, Salinas, CA 93901",
+      "city": "Salinas",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://parkplacebingo.com/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Ppbingo",
+        "destination": "71441",
+        "subscriptionKey": "71441:ppbingo",
+        "sourceUrl": "https://parkplacebingo.com/pricing/",
+        "note": "Short-code pilot; pricing and promotions."
+      },
+      "enrollmentStatus": "possibly_inactive_no_response",
+      "operatorNotes": "",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://parkplacebingo.com/pricing/",
+        "https://parkplacebingo.com/"
+      ]
+    },
+    {
+      "id": "fremont-elks",
+      "name": "Fremont Elks Lodge 2121 Bingo",
+      "address": "38991 Farwell Drive, Fremont, CA 94536",
+      "city": "Fremont",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.fremontelks.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.fremontelks.org/bingo/"
+      ]
+    },
+    {
+      "id": "aquamaids",
+      "name": "Aquamaids Bingo",
+      "address": "1600 Martin Avenue, Santa Clara, CA 95050",
+      "city": "Santa Clara",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.aquamaidsbingo.com/",
+      "signup": {
+        "method": "web_form",
+        "url": "https://login.bseennow.net/kiosk.jsf?code=3UE7BKUJ",
+        "sourceUrl": "https://www.aquamaidsbingo.com/",
+        "note": "Official homepage links to the Aquamaids BSeenNow signup."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS confirmed in provider inbox; check time shown.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.aquamaidsbingo.com/"
+      ]
+    },
+    {
+      "id": "area-sycuan-casino-resort-bingo",
+      "name": "Sycuan Casino Resort Bingo",
+      "address": "5469 Casino Way, El Cajon, CA 92019",
+      "city": "El Cajon",
+      "region": "San Diego & Imperial",
+      "website": "https://www.sycuan.com/casino/sycuan-casino-bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.sycuan.com/casino/sycuan-casino-bingo/",
+        "https://www.sycuan.com/about-us/sycuan-casino-privacy-policy/",
+        "https://www.sycuan.com/club-sycuan/"
+      ]
+    },
+    {
+      "id": "area-viejas-bingo-slot-parlor",
+      "name": "Viejas Bingo & Slot Parlor",
+      "address": "5000 Willows Rd, Alpine, CA 91901",
+      "city": "Alpine",
+      "region": "San Diego & Imperial",
+      "website": "https://viejas.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://viejas.com/bingo/"
+      ]
+    },
+    {
+      "id": "area-pleasant-valley-recreation-park-foundation-bingo",
+      "name": "Pleasant Valley Recreation & Park Foundation Bingo",
+      "address": "1605 E Burnley St, Camarillo, CA 93010",
+      "city": "Camarillo",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.pvrpd.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "area-goebel-adult-center-bingo",
+      "name": "Goebel Adult Center Bingo",
+      "address": "1385 E Janss Rd, Thousand Oaks, CA 91362",
+      "city": "Thousand Oaks",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.crpd.org/bingo-games-technology",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "area-placentia-platinum-bingo",
+      "name": "Placentia Platinum Bingo",
+      "address": "901 N Bradford Ave, Placentia, CA 92870",
+      "city": "Placentia",
+      "region": "Bay Area & North Coast",
+      "website": "https://platinumbingo.net/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "area-cypress-bingo-hall",
+      "name": "Cypress Bingo Hall",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Bay Area & North Coast",
+      "website": "https://cypressbingohall.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "area-bosco-tech-bingo",
+      "name": "Bosco Tech Bingo",
+      "address": "1151 San Gabriel Blvd, Rosemead, CA 91770",
+      "city": "Rosemead",
+      "region": "Los Angeles",
+      "website": "https://www.boscotech.edu/giving/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.boscotech.edu/giving/bingo",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "area-trabuco-hills-music-boosters-bingo",
+      "name": "Trabuco Hills Music Boosters Bingo",
+      "address": "27501 Mustang Run, Mission Viejo, CA 92691",
+      "city": "Mission Viejo",
+      "region": "Bay Area & North Coast",
+      "website": "https://thhsmusic.com/2024_2025/Music_Boosters/Bingo.asp",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "area-wine-country-bingo",
+      "name": "Wine Country Bingo",
+      "address": "Santa Rosa Veterans Memorial Building, Lodge Room, 1351 Maple Avenue, Santa Rosa, CA 95404",
+      "city": "Santa Rosa",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://winecountrytrykes.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://winecountrytrykes.org/bingo"
+      ]
+    },
+    {
+      "id": "area-optimist-bingo-sacramento",
+      "name": "Optimist Bingo Sacramento",
+      "address": "3399 Arden Way, Sacramento, CA 95825",
+      "city": "Sacramento",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://optimistsbc.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://optimistsbc.com/"
+      ]
+    },
+    {
+      "id": "area-optimist-bingo-at-grand-oaks",
+      "name": "Optimist Bingo at Grand Oaks",
+      "address": "7919 Auburn Boulevard, Citrus Heights, CA 95610",
+      "city": "Citrus Heights",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://optimistgo.com/home",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://optimistgo.com/home",
+        "https://feedingthefoothills.galaxydigital.com/agency/detail/?agency_id=146844"
+      ]
+    },
+    {
+      "id": "area-bd-bingo-sacramento-at-mandarins-event-center",
+      "name": "BD Bingo Sacramento at Mandarins Event Center",
+      "address": "9792 Business Park Drive, Rancho Cordova, CA 95827",
+      "city": "Rancho Cordova",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://bluedevils.org/bingo/sacramento/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Sacramento",
+        "destination": "70503",
+        "subscriptionKey": "70503:sacramento",
+        "sourceUrl": "https://bluedevils.org/bingo/sacramento/",
+        "note": "Shared short code; separate subscription from MCB."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS verified in provider inbox Sept 11, between 02:26 and 02:30 Pacific. Timestamp here is confirmation-check time.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://bluedevils.org/bingo/sacramento/"
+      ]
+    },
+    {
+      "id": "area-24th-street-bingo",
+      "name": "24th Street Bingo",
+      "address": "2350 Florin Road, Sacramento, CA 95822",
+      "city": "Sacramento",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://24thstreet.bingo/",
+      "signup": {
+        "method": "web_form",
+        "url": "https://login.bseennow.net/p?c=k1kt54",
+        "sourceUrl": "https://24thstreet.bingo/",
+        "note": "Use Get Text Updates; do not use the separate email newsletter form."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS verified in provider inbox Sept 11, between 02:26 and 02:30 Pacific. Timestamp here is confirmation-check time.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://24thstreet.bingo/"
+      ]
+    },
+    {
+      "id": "area-american-legion-fresno-federal-post-509-bingo",
+      "name": "American Legion Fresno Federal Post 509 Bingo",
+      "address": "3509 N. First Street, Fresno, CA 93726",
+      "city": "Fresno",
+      "region": "Bay Area & North Coast",
+      "website": "https://www.ffp509.org/events",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-modesto-bingo-at-princeton-event-center",
+      "name": "Modesto Bingo at Princeton Event Center",
+      "address": "1640 Princeton Ave, Modesto, CA 95350",
+      "city": "Modesto",
+      "region": "Sacramento & Northern Interior",
+      "website": "https://www.princetoneventcenter.org/bingo",
+      "signup": {
+        "method": "web_form",
+        "url": "https://www.princetoneventcenter.org/bingo",
+        "sourceUrl": "https://www.princetoneventcenter.org/bingo",
+        "note": "Use SMS & BINGO Message form, 11-digit number starting with 1, and Opt-In START consent. Published sender is 209-961-1069; do not assume it accepts signup keywords."
+      },
+      "enrollmentStatus": "needs_captcha",
+      "operatorNotes": "Submitted dedicated number and opt-in consent; website returned error and reCAPTCHA. Enrollment not confirmed.",
+      "researchStatus": "published_signup_verified"
+    },
+    {
+      "id": "scout-vanguard-bingo-santa-clara",
+      "name": "Vanguard Bingo – Santa Clara",
+      "address": "1795 Space Park Drive, Santa Clara, CA 95054",
+      "city": "Santa Clara",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.scvanguard.org/bingo/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Vanguard",
+        "destination": "70503",
+        "subscriptionKey": "70503:vanguard",
+        "sourceUrl": "https://www.scvanguard.org/bingo/#texts",
+        "note": "Full-update list. Do not choose Moderate or Event for comprehensive coverage."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS verified in provider inbox Sept 11, between 02:26 and 02:30 Pacific. Timestamp here is confirmation-check time.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.scvanguard.org/bingo/"
+      ]
+    },
+    {
+      "id": "scout-vanguard-bingo-redwood-city",
+      "name": "Vanguard Bingo – Redwood City",
+      "address": "651 El Camino Real, American Legion Post 105, Redwood City, CA 94063",
+      "city": "Redwood City",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.scvanguard.org/bingo-rc/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Vanguard",
+        "destination": "70503",
+        "subscriptionKey": "70503:vanguard",
+        "sourceUrl": "https://www.scvanguard.org/bingo-rc/#texts",
+        "note": "Same keyword and number as Santa Clara; submit once, then verify which locations appear in received messages."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS verified in provider inbox Sept 11, between 02:26 and 02:30 Pacific. Timestamp here is confirmation-check time.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.scvanguard.org/bingo-rc/"
+      ]
+    },
+    {
+      "id": "scout-fairgrounds-bingo",
+      "name": "Fairgrounds Bingo",
+      "address": "344 Tully Road, Gate C, San Jose, CA 95111",
+      "city": "San Jose",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.thefairgrounds.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.thefairgrounds.org/bingo/"
+      ]
+    },
+    {
+      "id": "scout-foothill-square-bingo",
+      "name": "Foothill Square Bingo",
+      "address": "10700 MacArthur Boulevard, Oakland, CA 94605",
+      "city": "Oakland",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.facebook.com/foothillsquarebingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.facebook.com/foothillsquarebingo/"
+      ]
+    },
+    {
+      "id": "scout-hot-shots-bingo",
+      "name": "Hot Shots Bingo",
+      "address": "961 Garcia Avenue, Suites E & F, Pittsburg, CA 94565",
+      "city": "Pittsburg",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.norcalhotshots.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://www.norcalhotshots.com/bingo/"
+      ]
+    },
+    {
+      "id": "scout-bd-bingo-concord-blue-devils-aquanuts",
+      "name": "BD Bingo Concord (Blue Devils / Aquanuts)",
+      "address": "4065 Nelson Avenue, Concord, CA 94520",
+      "city": "Concord",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://bluedevils.org/bingo/concord/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Concord",
+        "destination": "70503",
+        "subscriptionKey": "70503:concord",
+        "sourceUrl": "https://login.bseennow.net/p?c=z0ULbw",
+        "note": "Linked from current official BD Concord page; replaces historical 40691 route."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Concord welcome received after YES at 02:37 Pacific.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://bluedevils.org/bingo/concord/"
+      ]
+    },
+    {
+      "id": "scout-bd-bingo-pleasanton-alameda-county-fairgrounds",
+      "name": "BD Bingo Pleasanton (Alameda County Fairgrounds)",
+      "address": "Alameda County Fairgrounds, 2100 Valley Avenue, Pleasanton, CA 94566",
+      "city": "Pleasanton",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://bluedevils.org/bingo/pleasanton/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Pleasanton",
+        "destination": "70503",
+        "subscriptionKey": "70503:pleasanton",
+        "sourceUrl": "https://pleasantonotb.com/bingo/",
+        "note": "Venue page publishes signup; page also contains older event copy, so successful enrollment still needs testing."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Welcome SMS confirmed in provider inbox; check time shown.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://pleasantonotb.com/bingo/",
+        "https://bluedevils.org/bingo/pleasanton/"
+      ]
+    },
+    {
+      "id": "milpitas-charity",
+      "name": "Milpitas Charity Bingo",
+      "address": "461 South Milpitas Boulevard, Suite 3, Milpitas, CA 95035",
+      "city": "Milpitas",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://milpitascharitybingo.com/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "MCB",
+        "destination": "70503",
+        "subscriptionKey": "70503:mcb",
+        "sourceUrl": "https://milpitascharitybingo.com/",
+        "note": "Shared short code; keep keyword and hall together."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "Provider inbox welcome message confirms subscription on September 11.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://milpitascharitybingo.com/"
+      ]
+    },
+    {
+      "id": "area-atascadero-elks-lodge-2733-bingo",
+      "name": "Atascadero Elks Lodge #2733 Bingo",
+      "address": "1516 El Camino Real, Atascadero, CA 93422",
+      "city": "Atascadero",
+      "region": "Bay Area & North Coast",
+      "website": "https://elks2733.org/events/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research"
+    },
+    {
+      "id": "scout-mcc-bingo-american-legion-post-564",
+      "name": "MCC Bingo (American Legion Post 564)",
+      "address": "2120 Walsh Avenue, Santa Clara, CA 95050",
+      "city": "Santa Clara",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://mccbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "operatorNotes": "",
+      "researchStatus": "needs_signup_research",
+      "sourceUrls": [
+        "https://mccbingo.com/"
+      ]
+    },
+    {
+      "id": "bd-bingo-suisun-city",
+      "name": "BD Bingo Suisun City",
+      "address": "200 Marina Center, Building 601, Suisun City, CA 94585",
+      "city": "Suisun City",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://bluedevils.org/bingo/suisun-city/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Suisun",
+        "destination": "70503",
+        "subscriptionKey": "70503:suisun",
+        "sourceUrl": "https://login.bseennow.net/p?c=q6h5ne",
+        "note": "Linked from current official BD Suisun City page; replaces historical routes."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://bluedevils.org/bingo/suisun-city/"
+      ]
+    },
+    {
+      "id": "bd-bingo-industry",
+      "name": "BD Industry Bingo",
+      "address": "Industry Hills Expo Center, City of Industry, CA",
+      "city": "City of Industry",
+      "region": "Los Angeles",
+      "website": "https://bluedevils.org/bingo/industry/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "Industry",
+        "destination": "70503",
+        "subscriptionKey": "70503:industry",
+        "sourceUrl": "https://bluedevils.org/bingo/industry/",
+        "note": "Reopening updates. Official page says operation suspended during Pavilion renovations."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://bluedevils.org/bingo/industry/"
+      ]
+    },
+    {
+      "id": "house-bingo-lax",
+      "name": "House Bingo LAX",
+      "address": "685 S La Brea Ave, Inglewood, CA 90301",
+      "city": "Inglewood",
+      "region": "Los Angeles",
+      "website": "https://www.housebingolax.com/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "LAX",
+        "destination": "70503",
+        "subscriptionKey": "70503:lax",
+        "sourceUrl": "https://www.bingo4fun.com/viewer.html?open_file=CAApr26Web_compressed.pdf",
+        "note": "Hall advertisement publishes keyword; current hall website and BingoMeNow listing confirm Inglewood venue."
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/viewer.html?open_file=CAApr26Web_compressed.pdf",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf",
+        "https://www.housebingolax.com/"
+      ]
+    },
+    {
+      "id": "hall-47be051d516e",
+      "name": "All Souls Bingo",
+      "address": "29 S Electric Ave, Alhambra, CA 91801",
+      "city": "Alhambra",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html"
+      ]
+    },
+    {
+      "id": "hall-2a3b6a336072",
+      "name": "New Hope Presbyterian Bingo",
+      "address": "2580 W Orange Ave, Anaheim, CA 92804",
+      "city": "Anaheim",
+      "region": "Orange County",
+      "website": "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-4c39a6429111",
+      "name": "SDA Foundation Bingo",
+      "address": "1661 N Raymond Ave, Anaheim, CA 92801",
+      "city": "Anaheim",
+      "region": "Orange County",
+      "website": "https://sda-foundation.org/bingo-fundraiser/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://sda-foundation.org/bingo-fundraiser/",
+        "https://tally.so/r/q4RD9k",
+        "https://tally.so/r/Xxl5X4"
+      ]
+    },
+    {
+      "id": "hall-f073f9226673",
+      "name": "Frontier Senior Center Bingo",
+      "address": "2081 Frontier Trail, Anderson, CA 96007",
+      "city": "Anderson",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.frontierseniorcenter.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.frontierseniorcenter.com/",
+        "https://www.icarol.info/ResourceView2.aspx?agencynum=7155246&org=2273"
+      ]
+    },
+    {
+      "id": "hall-ed8b3219981b",
+      "name": "Atascadero Elks Bingo",
+      "address": "1516 El Camino Real, Atascadero, CA 93422",
+      "city": "Atascadero",
+      "region": "Central Coast",
+      "website": "https://elks2733.org/events/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://elks2733.org/events/bingo/"
+      ]
+    },
+    {
+      "id": "hall-ab5322469118",
+      "name": "Castle Atwater Kiwanis Bingo",
+      "address": "3rd & Elm, Atwater, CA 95301",
+      "city": "Atwater",
+      "region": "Central Valley",
+      "website": "https://www.ildado.com/bingo_halls_usa_california.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ildado.com/bingo_halls_usa_california.html"
+      ]
+    },
+    {
+      "id": "hall-c75d6713aaca",
+      "name": "Tarmac Event Venue",
+      "address": "1930 Airdrome Entry, Atwater, CA 95301",
+      "city": "Atwater",
+      "region": "Central Valley",
+      "website": "https://tarmaceventvenue.com/2026-event-season",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://tarmaceventvenue.com/2026-event-season"
+      ]
+    },
+    {
+      "id": "hall-f27b369fbabe",
+      "name": "Auburn Senior Center Penny Bingo",
+      "address": "Auburn Senior Center Dance Hall (street not verified)",
+      "city": "Auburn",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.auburnseniorcenter.com/activities",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.auburnseniorcenter.com/activities"
+      ]
+    },
+    {
+      "id": "hall-fc8fcf81d1f9",
+      "name": "Bakersfield Bingo Hall",
+      "address": "4704 New Horizon Blvd, Bakersfield, CA 93313",
+      "city": "Bakersfield",
+      "region": "Central Valley",
+      "website": "https://bakersfieldbingohall.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://bakersfieldbingohall.com/"
+      ]
+    },
+    {
+      "id": "hall-ecfd7f9c60fc",
+      "name": "Friends of the Kern County Fair Bingo",
+      "address": "1142 South P Street, Bakersfield, CA 93307",
+      "city": "Bakersfield",
+      "region": "Central Valley",
+      "website": "https://www.ildado.com/bingo_halls_usa_california.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ildado.com/bingo_halls_usa_california.html"
+      ]
+    },
+    {
+      "id": "hall-80fe5883b499",
+      "name": "Garces Bingo",
+      "address": "2800 Loma Linda Drive, Bakersfield, CA 93305",
+      "city": "Bakersfield",
+      "region": "Central Valley",
+      "website": "https://www.ildado.com/bingo_halls_usa_california.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ildado.com/bingo_halls_usa_california.html"
+      ]
+    },
+    {
+      "id": "hall-45bf01a1fd71",
+      "name": "St. John the Baptist Bingo",
+      "address": "3848 Stewart Ave, Baldwin Park, CA 91706",
+      "city": "Baldwin Park",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-b559f51d3655",
+      "name": "Barstow Senior Center",
+      "address": "555 Melissa Ave, Barstow, CA 92311",
+      "city": "Barstow",
+      "region": "Inland Empire & Desert",
+      "website": "https://barstowseniorcenter.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://barstowseniorcenter.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-fb0c9393d555",
+      "name": "J&S Bingo at Eagles",
+      "address": "9816 Cedar St, Bellflower, CA 90706",
+      "city": "Bellflower",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html"
+      ]
+    },
+    {
+      "id": "hall-a043d4b841db",
+      "name": "St. Bernard School Bingo",
+      "address": "9647 Beach St, Bellflower, CA 90706",
+      "city": "Bellflower",
+      "region": "Los Angeles",
+      "website": "https://www.stbernardcatholicschool.com/bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.stbernardcatholicschool.com/bingo.html",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-5528f36ab9f1",
+      "name": "St. Dominic Savio Bingo",
+      "address": "",
+      "city": "Bellflower",
+      "region": "Los Angeles",
+      "website": "https://www.saintdominicsavio.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf",
+        "https://www.saintdominicsavio.org/"
+      ]
+    },
+    {
+      "id": "hall-5613419d4a40",
+      "name": "St. John Bosco Bingo",
+      "address": "13640 Bellflower Blvd, Bellflower, CA 90706",
+      "city": "Bellflower",
+      "region": "Los Angeles",
+      "website": "https://www.bosco.org/get-involved/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bosco.org/get-involved/bingo",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-6600044a8f1e",
+      "name": "Benicia Senior Center Bingo",
+      "address": "Benicia Senior Center (street not verified)",
+      "city": "Benicia",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.ci.benicia.ca.us/?SEC=93C5C205-0338-4826-90E0-6EB8E71EEA2A&Type=B_BASIC",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ci.benicia.ca.us/?SEC=93C5C205-0338-4826-90E0-6EB8E71EEA2A&Type=B_BASIC"
+      ]
+    },
+    {
+      "id": "hall-dc97efc77926",
+      "name": "Women's Club Bingo at Big Bear Senior Center",
+      "address": "42651 Big Bear Blvd, Big Bear Lake, CA 92315",
+      "city": "Big Bear Lake",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.blpublishing.net/big-bear-senior-center",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.blpublishing.net/big-bear-senior-center"
+      ]
+    },
+    {
+      "id": "hall-b612a812bbf2",
+      "name": "Brentwood Senior Activity Center Bingo",
+      "address": "193 Griffith Lane, Brentwood, CA",
+      "city": "Brentwood",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.brentwoodca.gov/home/showpublisheddocument/10534/638784196594000000",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.brentwoodca.gov/home/showpublisheddocument/10534/638784196594000000"
+      ]
+    },
+    {
+      "id": "hall-ff15b1082f3b",
+      "name": "Bell-Jeff / Burbank Social Bingo",
+      "address": "465 E Olive Ave, Burbank, CA 91501",
+      "city": "Burbank",
+      "region": "Los Angeles",
+      "website": "https://www.burbankbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.burbankbingo.com/"
+      ]
+    },
+    {
+      "id": "hall-480361350f4a",
+      "name": "Casino Morongo Bingo",
+      "address": "49750 Seminole Dr, Cabazon, CA 92230",
+      "city": "Cabazon",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.morongocasinoresort.com/gaming/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.morongocasinoresort.com/gaming/bingo"
+      ]
+    },
+    {
+      "id": "hall-72a82f6d3d61",
+      "name": "Bingo Palace",
+      "address": "310 Rockwood Ave, Calexico, CA 92231",
+      "city": "Calexico",
+      "region": "San Diego & Imperial",
+      "website": "https://www.yellowpages.com/imperial-ca/bingo-halls",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.yellowpages.com/imperial-ca/bingo-halls"
+      ]
+    },
+    {
+      "id": "hall-7705129c46e8",
+      "name": "Calexico Community Center",
+      "address": "707 Dool Avenue, Calexico, CA 92231",
+      "city": "Calexico",
+      "region": "San Diego & Imperial",
+      "website": "https://www.calexicorecreation.org/seniors",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.calexicorecreation.org/seniors"
+      ]
+    },
+    {
+      "id": "hall-206f47987e20",
+      "name": "Camarillo Community Center Bingo",
+      "address": "1605 E Burnley St, Camarillo, CA 93010",
+      "city": "Camarillo",
+      "region": "Central Coast",
+      "website": "https://www.pvrpd.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.pvrpd.org/bingo"
+      ]
+    },
+    {
+      "id": "hall-97edbc5575f5",
+      "name": "Our Lady of the Valley / Knights of Columbus Bingo",
+      "address": "21433 Strathern St, Canoga Park, CA 91304",
+      "city": "Canoga Park",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-382a7d0e9dfb",
+      "name": "YMAF Bingo",
+      "address": "21433 Strathern St, Canoga Park, CA 91304",
+      "city": "Canoga Park",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/ymaf-bingo-canoga-park.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/ymaf-bingo-canoga-park.html"
+      ]
+    },
+    {
+      "id": "hall-cb80e9127afe",
+      "name": "Carlsbad Senior Center",
+      "address": "799 Pine Avenue, Carlsbad, CA",
+      "city": "Carlsbad",
+      "region": "San Diego & Imperial",
+      "website": "https://www.carlsbadca.gov/departments/parks-recreation/adults-50",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.carlsbadca.gov/departments/parks-recreation/adults-50"
+      ]
+    },
+    {
+      "id": "hall-dca20533f5e7",
+      "name": "Cathedral City Senior Center",
+      "address": "37171 W Buddy Rogers Avenue, Cathedral City, CA 92234",
+      "city": "Cathedral City",
+      "region": "Inland Empire & Desert",
+      "website": "https://cathedralcenter.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cathedralcenter.org/"
+      ]
+    },
+    {
+      "id": "hall-e9a096efec38",
+      "name": "Chico CARD Senior Luncheon Bingo",
+      "address": "Chico CARD luncheon venue (street not verified)",
+      "city": "Chico",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.chicorec.gov/senior-luncheons",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.chicorec.gov/senior-luncheons"
+      ]
+    },
+    {
+      "id": "hall-1fdbce55d414",
+      "name": "Chico VFW1555 and Auxiliary Bingo",
+      "address": "554 Rio Lindo Avenue, Chico, CA 95926",
+      "city": "Chico",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952"
+      ]
+    },
+    {
+      "id": "hall-fe2c3508cb52",
+      "name": "Chino Senior Center",
+      "address": "",
+      "city": "Chino",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.cityofchino.org/DocumentCenter/View/6434/SC-WEEKLY-SCHEDULE-42925?bidId=",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cityofchino.org/DocumentCenter/View/6434/SC-WEEKLY-SCHEDULE-42925?bidId="
+      ]
+    },
+    {
+      "id": "hall-f4ab10561396",
+      "name": "Bingo in the Barn / Chino Hills 55+ Club",
+      "address": "14280 Peyton Drive, Chino Hills, CA 91709",
+      "city": "Chino Hills",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.chinohillsbingo.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.chinohillsbingo.org/"
+      ]
+    },
+    {
+      "id": "hall-8a89232d0deb",
+      "name": "Chino Hills High School Bingo",
+      "address": "16150 Pomona Rincon Rd, Chino Hills, CA 91709",
+      "city": "Chino Hills",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.blpublishing.net/chino-hills-highschool",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.blpublishing.net/chino-hills-highschool",
+        "https://drive.google.com/file/d/1OsR3asD8q4HH8sqMvZURANFcPXHuN-6p/view?usp=sharing"
+      ]
+    },
+    {
+      "id": "hall-fa2629627fdb",
+      "name": "Grand Oaks Bingo",
+      "address": "7919 Auburn Boulevard, Citrus Heights, CA 95610",
+      "city": "Citrus Heights",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://grandoaksbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://grandoaksbingo.com/"
+      ]
+    },
+    {
+      "id": "hall-466455c66763",
+      "name": "Palace Bingo Corp legacy listing",
+      "address": "7687 Auburn Boulevard, Citrus Heights, CA 95610",
+      "city": "Citrus Heights",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.yellowpages.com/citrus-heights-ca/mip/palace-bingo-corp-467222496",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.yellowpages.com/citrus-heights-ca/mip/palace-bingo-corp-467222496"
+      ]
+    },
+    {
+      "id": "hall-12aad7dbf776",
+      "name": "Clovis Bingo Hall",
+      "address": "80 W Bullard Ave Suite110, Clovis, CA 93612",
+      "city": "Clovis",
+      "region": "Central Valley",
+      "website": "https://maps.apple.com/place?place-id=I44DD99C4156B689D",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://maps.apple.com/place?place-id=I44DD99C4156B689D"
+      ]
+    },
+    {
+      "id": "hall-0b920ddebeb7",
+      "name": "Welborn Recreation Center",
+      "address": "",
+      "city": "Coalinga",
+      "region": "Central Valley",
+      "website": "https://coalingapress.org/events/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://coalingapress.org/events/"
+      ]
+    },
+    {
+      "id": "hall-dc4fc5d98070",
+      "name": "Hutton Community Center 50+ Club",
+      "address": "",
+      "city": "Colton",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.coltonca.gov/275/Daily-50-Programs",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.coltonca.gov/275/Daily-50-Programs"
+      ]
+    },
+    {
+      "id": "hall-cc725ab79145",
+      "name": "Colusa Casino Resort Bingo",
+      "address": "3770 Highway45, Colusa, CA 95932",
+      "city": "Colusa",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.colusacasino.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.colusacasino.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-9b1d6cd22959",
+      "name": "Corning Senior Center Bingo",
+      "address": "1015 Fourth Avenue, Corning, CA 96021",
+      "city": "Corning",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://business.corningcachamber.org/list/member/corning-senior-center-71",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://business.corningcachamber.org/list/member/corning-senior-center-71"
+      ]
+    },
+    {
+      "id": "hall-54e559288b77",
+      "name": "Maywood Grange Bingo legacy lead",
+      "address": "2739 Highway99, Corning, CA (2008 listing)",
+      "city": "Corning",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://archive.redding.com/entertainment/356081921.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://archive.redding.com/entertainment/356081921.html"
+      ]
+    },
+    {
+      "id": "hall-993bffa78d09",
+      "name": "Corona Elks Lodge 2045",
+      "address": "912 E 6th Street, Corona, CA 92879",
+      "city": "Corona",
+      "region": "Inland Empire & Desert",
+      "website": "https://coronaelkslodge2045.wordpress.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://coronaelkslodge2045.wordpress.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-a44a19307151",
+      "name": "Corona Senior Center",
+      "address": "921 South Belle Avenue, Corona, CA 92882",
+      "city": "Corona",
+      "region": "Inland Empire & Desert",
+      "website": "https://localbingohalls.com/coronaseniorcenter/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://localbingohalls.com/coronaseniorcenter/"
+      ]
+    },
+    {
+      "id": "hall-527c7260c6ea",
+      "name": "Coronado Senior Association at John D. Spreckels Center",
+      "address": "",
+      "city": "Coronado",
+      "region": "San Diego & Imperial",
+      "website": "https://www.coronado.ca.us/347/John-D-Spreckels-Center-Bowling-Green",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.coronado.ca.us/347/John-D-Spreckels-Center-Bowling-Green"
+      ]
+    },
+    {
+      "id": "hall-4ed84b65143b",
+      "name": "Elk Valley Casino Bingo",
+      "address": "2021 Elk Ranch Road, Crescent City, CA 95531",
+      "city": "Crescent City",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.elkvalleycasino.com/playbingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elkvalleycasino.com/playbingo"
+      ]
+    },
+    {
+      "id": "hall-9b1cc95ef4a0",
+      "name": "Cupertino Senior Center Bingo",
+      "address": "Cupertino Senior Center (street not verified)",
+      "city": "Cupertino",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.cupertino.gov/Parks-Recreation/Senior-Center/Socials",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cupertino.gov/Parks-Recreation/Senior-Center/Socials"
+      ]
+    },
+    {
+      "id": "hall-86ba29263505",
+      "name": "Cypress Bingo Hall – Cypress Athletics Sunday",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Orange County",
+      "website": "https://cypressbingohall.com/sunday/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cypressbingohall.com/sunday/"
+      ]
+    },
+    {
+      "id": "hall-8b39b068ad0a",
+      "name": "Cypress Bingo Hall – Cypress Sound in Motion Saturday",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Orange County",
+      "website": "https://cypressbingohall.com/saturday/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cypressbingohall.com/saturday/"
+      ]
+    },
+    {
+      "id": "hall-6389dbff7726",
+      "name": "Cypress Bingo Hall – Los Alamitos Band Thursday",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Orange County",
+      "website": "https://cypressbingohall.com/thursday/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cypressbingohall.com/thursday/"
+      ]
+    },
+    {
+      "id": "hall-f4e93e081817",
+      "name": "Cypress Bingo Hall – Los Alamitos Choir Tuesday",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Orange County",
+      "website": "https://cypressbingohall.com/tuesday/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cypressbingohall.com/tuesday/"
+      ]
+    },
+    {
+      "id": "hall-44b81df40d7a",
+      "name": "Cypress Bingo Hall – Los Alamitos Rugby Monday",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Orange County",
+      "website": "https://cypressbingohall.com/monday/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cypressbingohall.com/monday/"
+      ]
+    },
+    {
+      "id": "hall-87de8996483a",
+      "name": "Cypress Bingo Hall – Pacifica Band Friday",
+      "address": "5856 Corporate Ave, Cypress, CA 90630",
+      "city": "Cypress",
+      "region": "Orange County",
+      "website": "https://cypressbingohall.com/friday/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cypressbingohall.com/friday/"
+      ]
+    },
+    {
+      "id": "hall-04503439ea18",
+      "name": "Danville Senior Center Bingo",
+      "address": "Danville Senior Center Community Hall (street not verified)",
+      "city": "Danville",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.danville.ca.gov/DocumentCenter/View/12853/Spring-2026-Activity-Guide",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.danville.ca.gov/DocumentCenter/View/12853/Spring-2026-Activity-Guide"
+      ]
+    },
+    {
+      "id": "hall-770b12431627",
+      "name": "Davis Sunset Rotary Bingo legacy lead",
+      "address": "Davis (venue not verified)",
+      "city": "Davis",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://localwiki.org/davis/Davis_Sunset_Rotary_Bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://localwiki.org/davis/Davis_Sunset_Rotary_Bingo"
+      ]
+    },
+    {
+      "id": "hall-1c6d2df20ab6",
+      "name": "Dinuba Senior Center",
+      "address": "437 N Eaton Ave, Dinuba, CA 93618",
+      "city": "Dinuba",
+      "region": "Central Valley",
+      "website": "https://www.dinuba.org/senior-citizens",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.dinuba.org/senior-citizens"
+      ]
+    },
+    {
+      "id": "hall-30bd53003d42",
+      "name": "Dos Palos Senior Club at Del Hale Hall",
+      "address": "Center Avenue and Loraine Street, Dos Palos, CA",
+      "city": "Dos Palos",
+      "region": "Central Valley",
+      "website": "https://dospalos.gov/board-meetings/senior-club-1741719600",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://dospalos.gov/board-meetings/senior-club-1741719600"
+      ]
+    },
+    {
+      "id": "hall-da5877a2a042",
+      "name": "Women's Improvement Club at American Legion Hall",
+      "address": "1601 Mable Drive, Dos Palos, CA",
+      "city": "Dos Palos",
+      "region": "Central Valley",
+      "website": "https://thewestsideexpress.com/2023/12/05/whistle-stop-events-12-6-23/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://thewestsideexpress.com/2023/12/05/whistle-stop-events-12-6-23/"
+      ]
+    },
+    {
+      "id": "hall-56202ac4dd90",
+      "name": "Woman's Club of Downey Bingo",
+      "address": "9813 Paramount Blvd, Downey, CA 90240",
+      "city": "Downey",
+      "region": "Los Angeles",
+      "website": "https://womansclubofdowney.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://womansclubofdowney.org/bingo"
+      ]
+    },
+    {
+      "id": "hall-8e969f980fa9",
+      "name": "Club Mirage NAF El Centro",
+      "address": "Bldg 227 B Street, NAF El Centro, CA 92243",
+      "city": "El Centro",
+      "region": "San Diego & Imperial",
+      "website": "https://elcentro.navylifesw.com/activity/dabee6dc-1a41-4e59-b2d7-a3ea152c9659",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://elcentro.navylifesw.com/activity/dabee6dc-1a41-4e59-b2d7-a3ea152c9659"
+      ]
+    },
+    {
+      "id": "hall-715c4bf768c9",
+      "name": "Elk Grove Elks2577 Bingo",
+      "address": "9240 Survey Road, Elk Grove, CA 95624",
+      "city": "Elk Grove",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://elkgroveelks2577.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://elkgroveelks2577.com/"
+      ]
+    },
+    {
+      "id": "hall-9c4fd20845a0",
+      "name": "Elk Grove Senior Center Bingo lead",
+      "address": "Elk Grove Senior Center (street not verified)",
+      "city": "Elk Grove",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.reddit.com/r/ElkGrove/comments/1p4vfzj/bingo_halls/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.reddit.com/r/ElkGrove/comments/1p4vfzj/bingo_halls/"
+      ]
+    },
+    {
+      "id": "hall-11d43ecde03f",
+      "name": "Eureka Moose Lodge636 Bingo",
+      "address": "4328 Campton Road, Eureka, CA 95503",
+      "city": "Eureka",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.eurekamoose636.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.eurekamoose636.com/"
+      ]
+    },
+    {
+      "id": "hall-4ef560f8f791",
+      "name": "Exeter Woman's Club",
+      "address": "201 N Kaweah Ave, Exeter, CA 93221",
+      "city": "Exeter",
+      "region": "Central Valley",
+      "website": "https://business.exeterchamber.com/community-calendar/Details/bingo-night-exeter-woman-s-club-1599368?sourceTypeId=Website",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://business.exeterchamber.com/community-calendar/Details/bingo-night-exeter-woman-s-club-1599368?sourceTypeId=Website"
+      ]
+    },
+    {
+      "id": "hall-fd113f6b6492",
+      "name": "Fairfield North Texas Bingo legacy listing",
+      "address": "2475 N Texas Street, Fairfield, CA 94533 (legacy)",
+      "city": "Fairfield",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://bingohalls.net/?p=263",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://bingohalls.net/?p=263"
+      ]
+    },
+    {
+      "id": "hall-84453aa1082d",
+      "name": "Fairfield Senior Center Bingo",
+      "address": "1200 Civic Center Drive, Fairfield, CA 94533",
+      "city": "Fairfield",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://localbingohalls.com/fairfield-senior-center/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://localbingohalls.com/fairfield-senior-center/",
+        "https://www.fairfield.ca.gov/government/city-departments/parks-and-recreation/adult-programs/"
+      ]
+    },
+    {
+      "id": "hall-003d5a44fd1d",
+      "name": "Rainbow Valley Grange",
+      "address": "2160 Rainbow Valley Blvd, Fallbrook, CA 92028",
+      "city": "Fallbrook",
+      "region": "San Diego & Imperial",
+      "website": "https://fallbrookchamberofcommerce.growthzoneapp.com/community-events/Details/monthly-bingo-at-the-rainbow-valley-grange-1672301?sourceTypeId=Website",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://fallbrookchamberofcommerce.growthzoneapp.com/community-events/Details/monthly-bingo-at-the-rainbow-valley-grange-1672301?sourceTypeId=Website"
+      ]
+    },
+    {
+      "id": "hall-889d2a42d768",
+      "name": "Folsom Senior Center Bingo",
+      "address": "48 Natoma Street, Folsom, CA",
+      "city": "Folsom",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.folsom.ca.us/home/showpublisheddocument/23158/638996578018500000",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.folsom.ca.us/home/showpublisheddocument/23158/638996578018500000"
+      ]
+    },
+    {
+      "id": "hall-d46b644bea29",
+      "name": "Fountain Valley High School Bingo",
+      "address": "17816 Bushard St, Fountain Valley, CA 92708",
+      "city": "Fountain Valley",
+      "region": "Orange County",
+      "website": "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-orange-county.html"
+      ]
+    },
+    {
+      "id": "hall-ec3a979a2988",
+      "name": "American Legion Fresno Federal Post509",
+      "address": "3509 N First St, Fresno, CA 93726",
+      "city": "Fresno",
+      "region": "Central Valley",
+      "website": "https://www.ffp509.org/events",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ffp509.org/events"
+      ]
+    },
+    {
+      "id": "hall-4518bf8e83e1",
+      "name": "Fresno Charity Bingo",
+      "address": "3880 N 10th Street, Fresno, CA",
+      "city": "Fresno",
+      "region": "Central Valley",
+      "website": "https://www.lgbtqfresno.com/event/fresno-charity-bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.lgbtqfresno.com/event/fresno-charity-bingo/"
+      ]
+    },
+    {
+      "id": "hall-6de5ecb34eee",
+      "name": "Fresno Elks #439",
+      "address": "",
+      "city": "Fresno",
+      "region": "Central Valley",
+      "website": "https://hq.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=0439",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://hq.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=0439"
+      ]
+    },
+    {
+      "id": "hall-707ecd62e7a8",
+      "name": "LGBTQ+ Bingo Night at Queer Collective",
+      "address": "3032 Tulare St, Fresno, CA",
+      "city": "Fresno",
+      "region": "Central Valley",
+      "website": "https://www.lgbtcn.org/events/lgbtq-bingo-night/?occurrence=2903-10-10",
+      "signup": {
+        "method": "keyword",
+        "keyword": "BINGO",
+        "destination": "5598621040",
+        "url": null,
+        "subscriptionKey": "5598621040:bingo",
+        "sourceUrl": "https://www.lgbtcn.org/events/lgbtq-bingo-night/?occurrence=2903-10-10",
+        "note": "Free community prize bingo; current schedule unverified"
+      },
+      "enrollmentStatus": "confirmed",
+      "operatorNotes": "BINGO keyword sent. Community prize bingo; current schedule needs verification.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.lgbtcn.org/events/lgbtq-bingo-night/?occurrence=2903-10-10"
+      ]
+    },
+    {
+      "id": "hall-16413e848b2f",
+      "name": "Table Mountain Casino Resort",
+      "address": "777 Jackpot Lane, Friant, CA 93626",
+      "city": "Friant",
+      "region": "Central Valley",
+      "website": "https://tmcasino.com/bingo/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "EARN",
+        "destination": "54828",
+        "url": null,
+        "subscriptionKey": "54828:earn",
+        "sourceUrl": "https://tmcasino.com/promotions/",
+        "note": "Casino Earn & Wins reminders; not bingo-only"
+      },
+      "enrollmentStatus": "needs_birthdate",
+      "operatorNotes": "Keyword sent; provider requires account holder birthdate to complete enrollment.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://tmcasino.com/promotions/",
+        "https://tmcasino.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-bc2e1a9acae0",
+      "name": "Fullerton Elks Bingo",
+      "address": "1400 Elks View Lane, Fullerton, CA 92835",
+      "city": "Fullerton",
+      "region": "Orange County",
+      "website": "https://fullertonelks.org/events/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://fullertonelks.org/events/"
+      ]
+    },
+    {
+      "id": "hall-e2bf7ae1529a",
+      "name": "Gardena Elks Bingo",
+      "address": "",
+      "city": "Gardena",
+      "region": "Los Angeles",
+      "website": "https://www.elks.org/lodges/home.cfm?LodgeNumber=1919",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?LodgeNumber=1919"
+      ]
+    },
+    {
+      "id": "hall-c69bee96606d",
+      "name": "VFW Post 3261 Bingo",
+      "address": "1822 W 162nd St, Gardena, CA 90247",
+      "city": "Gardena",
+      "region": "Los Angeles",
+      "website": "https://vfw3261.org/di/vfw/v2/default.asp?pid=118474",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://vfw3261.org/di/vfw/v2/default.asp?pid=118474",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-46d5dcd48317",
+      "name": "Gilroy VFW6309 Bingo",
+      "address": "74 W6th Street, Gilroy, CA",
+      "city": "Gilroy",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.sscvmemorialdistrict.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.sscvmemorialdistrict.org/bingo"
+      ]
+    },
+    {
+      "id": "hall-47373497fe2f",
+      "name": "St. Mary's Armenian Church Bingo",
+      "address": "500 S Central Ave, Glendale, CA 91204",
+      "city": "Glendale",
+      "region": "Los Angeles",
+      "website": "https://stmarysglendale.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://stmarysglendale.org/",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-a0cbf44504aa",
+      "name": "In & Out Bingo / Granada Pavilion",
+      "address": "11128 Balboa Blvd, Granada Hills, CA",
+      "city": "Granada Hills",
+      "region": "Los Angeles",
+      "website": "https://www.granadapavilion.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cbsnews.com/losangeles/news/best-places-to-play-bingo-in-los-angeles/",
+        "https://www.granadapavilion.com/"
+      ]
+    },
+    {
+      "id": "hall-e03d420d97b8",
+      "name": "Auburn-Grass Valley Elks538 Bingo legacy lead",
+      "address": "109 S School Street, Grass Valley, CA (2008 event address)",
+      "city": "Grass Valley",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.elks.org/Lodges/CalendarDetail.cfm?EventID=641379&LodgeNumber=538",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/Lodges/CalendarDetail.cfm?EventID=641379&LodgeNumber=538"
+      ]
+    },
+    {
+      "id": "hall-b181432e5178",
+      "name": "Emmanuel Episcopal Church Spaghetti and Bingo",
+      "address": "235 S Church Street, Grass Valley, CA 95945",
+      "city": "Grass Valley",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.emmanuelgv.org/spaghetti--bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.emmanuelgv.org/spaghetti--bingo.html"
+      ]
+    },
+    {
+      "id": "hall-5de3d4c644dd",
+      "name": "Sierra Gold Community Senior Center",
+      "address": "231 Colfax Avenue, Grass Valley, CA 95945",
+      "city": "Grass Valley",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.goldcountryservices.org/activities-classes/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.goldcountryservices.org/activities-classes/"
+      ]
+    },
+    {
+      "id": "hall-2f0315c79882",
+      "name": "Hawaiian Gardens Bingo Club",
+      "address": "21900 Norwalk Blvd, Hawaiian Gardens, CA 90716",
+      "city": "Hawaiian Gardens",
+      "region": "Los Angeles",
+      "website": "https://hawaiiangardensbingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://hawaiiangardensbingo.com/",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-c2cabca0e545",
+      "name": "Hemet Elks #1740",
+      "address": "1305 W Florida Ave, Hemet, CA",
+      "city": "Hemet",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.blpublishing.net/hemet-elkslodge1740",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.blpublishing.net/hemet-elkslodge1740"
+      ]
+    },
+    {
+      "id": "hall-b9ab3729f42e",
+      "name": "Our Lady of the Valley Bingo",
+      "address": "780 S State St, Hemet, CA 92543",
+      "city": "Hemet",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.olvhemet.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.olvhemet.org/"
+      ]
+    },
+    {
+      "id": "hall-00a2fc3694dc",
+      "name": "Hesperia Leisure League",
+      "address": "9122 Third Ave, Hesperia, CA 92345",
+      "city": "Hesperia",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.blpublishing.net/hesperialeisureleague",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.blpublishing.net/hesperialeisureleague",
+        "https://drive.google.com/file/d/1gWvjN2ZciZvqQxZbS4HUqBHx_PhbDPrf/view?usp=sharing"
+      ]
+    },
+    {
+      "id": "hall-0c73da83746b",
+      "name": "Highland Senior Center",
+      "address": "",
+      "city": "Highland",
+      "region": "Inland Empire & Desert",
+      "website": "https://highlandseniorcenter.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://highlandseniorcenter.com/"
+      ]
+    },
+    {
+      "id": "hall-20f21eae092e",
+      "name": "Fantasy Springs Resort Casino Bingo",
+      "address": "84-245 Indio Springs Pkwy, Indio, CA 92203",
+      "city": "Indio",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.fantasyspringsresort.com/bingo/",
+      "signup": {
+        "method": "keyword",
+        "keyword": "FANTASY",
+        "destination": "30721",
+        "url": null,
+        "subscriptionKey": "30721:fantasy",
+        "sourceUrl": "https://www.fantasyspringsresort.com/2500-text-win/",
+        "note": "Official page: Opt in by texting the word “FANTASY” to the number 30721."
+      },
+      "enrollmentStatus": "needs_birthdate",
+      "operatorNotes": "Keyword sent; provider requires account holder birthdate to complete enrollment.",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.fantasyspringsresort.com/2500-text-win/",
+        "https://www.fantasyspringsresort.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-b8f363d4f32a",
+      "name": "Kingsburg Senior Center",
+      "address": "",
+      "city": "Kingsburg",
+      "region": "Central Valley",
+      "website": "https://www.cityofkingsburg-ca.gov/DocumentCenter/View/3045/Senior-Center-Activities-2025",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cityofkingsburg-ca.gov/DocumentCenter/View/3045/Senior-Center-Activities-2025"
+      ]
+    },
+    {
+      "id": "hall-ea9acff06c89",
+      "name": "La Mesa Adult Enrichment Center",
+      "address": "8450 La Mesa Blvd, La Mesa, CA 91942",
+      "city": "La Mesa",
+      "region": "San Diego & Imperial",
+      "website": "https://localbingohalls.com/lamesaadult/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://localbingohalls.com/lamesaadult/"
+      ]
+    },
+    {
+      "id": "hall-2a166ceb3721",
+      "name": "St. Paul of the Cross Bingo",
+      "address": "14020 Foster Rd, La Mirada, CA 90638",
+      "city": "La Mirada",
+      "region": "Los Angeles",
+      "website": "https://lamiradacatholics.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://lamiradacatholics.org/",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-29ebd5958d3f",
+      "name": "Lake Elsinore Senior Center",
+      "address": "420 E Lakeshore Drive, Lake Elsinore, CA 92530",
+      "city": "Lake Elsinore",
+      "region": "Inland Empire & Desert",
+      "website": "https://localbingohalls.com/lakeelsinoresenior/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://localbingohalls.com/lakeelsinoresenior/"
+      ]
+    },
+    {
+      "id": "hall-e5376e20f407",
+      "name": "ARLS Bingo",
+      "address": "24416 Muirlands Blvd, Lake Forest, CA 92630",
+      "city": "Lake Forest",
+      "region": "Orange County",
+      "website": "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-orange-county.html"
+      ]
+    },
+    {
+      "id": "hall-590aee1ac45b",
+      "name": "St. Joseph High School Bingo",
+      "address": "5825 N Woodruff Ave, Lakewood, CA 90713",
+      "city": "Lakewood",
+      "region": "Los Angeles",
+      "website": "https://www.sj-jester.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.sj-jester.org/",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-7196b9e3c1c5",
+      "name": "Antelope Valley Fair Bingo",
+      "address": "2551 W Avenue H, Lancaster, CA 93536",
+      "city": "Lancaster",
+      "region": "Los Angeles",
+      "website": "https://avfair.com/events/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://avfair.com/events/"
+      ]
+    },
+    {
+      "id": "hall-e92353121fcf",
+      "name": "Lemon Grove Alano Club",
+      "address": "6901 Central Avenue, Lemon Grove, CA 91945",
+      "city": "Lemon Grove",
+      "region": "San Diego & Imperial",
+      "website": "https://www.lemongrovealanoclub.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.lemongrovealanoclub.org/"
+      ]
+    },
+    {
+      "id": "hall-f1e1278ba062",
+      "name": "Tachi Palace Casino Resort Yokut Hall",
+      "address": "",
+      "city": "Lemoore",
+      "region": "Central Valley",
+      "website": "https://www.tachipalace.com/casino/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.tachipalace.com/casino/bingo/"
+      ]
+    },
+    {
+      "id": "hall-075d679a1483",
+      "name": "Lincoln Community Foundation Monthly Bingo",
+      "address": "McBean Park Pavilion,65 McBean Park Drive, Lincoln, CA 95648",
+      "city": "Lincoln",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://lincolncommunityfoundation.org/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://lincolncommunityfoundation.org/bingo/",
+        "https://calendar.lincolnca.gov/default/Detail/2025-07-09-1730-LFC-BINGO-NIGHT"
+      ]
+    },
+    {
+      "id": "hall-d17df47980a6",
+      "name": "Lincoln Senior Center Bingo",
+      "address": "391 H Street, Lincoln, CA 95648",
+      "city": "Lincoln",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://seniorsfirst.org/lincoln-senior-center/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://seniorsfirst.org/lincoln-senior-center/"
+      ]
+    },
+    {
+      "id": "hall-2e03464dd387",
+      "name": "Granada Bingo / Granada Supporters Club",
+      "address": "400 Wall Street, Livermore, CA",
+      "city": "Livermore",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://good-expectations-655476.framer.app/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://good-expectations-655476.framer.app/",
+        "https://sites.google.com/lvjusd.org/willis/home"
+      ]
+    },
+    {
+      "id": "hall-1cbdff289e25",
+      "name": "Valley of the Flowers Half Century Club Bingo",
+      "address": "341 N N St, Lompoc, CA 93436",
+      "city": "Lompoc",
+      "region": "Central Coast",
+      "website": null,
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": []
+    },
+    {
+      "id": "hall-89693eee6045",
+      "name": "Los Banos Community Center",
+      "address": "645 7th St, Los Banos, CA 93635",
+      "city": "Los Banos",
+      "region": "Central Valley",
+      "website": "https://losbanos.org/wp-content/uploads/2021/12/Final-Bingo-Flyer-2_compressed.pdf",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://losbanos.org/wp-content/uploads/2021/12/Final-Bingo-Flyer-2_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-6e9961c388ed",
+      "name": "Live Oak Senior Nutrition Center Bingo",
+      "address": "111 Church Street, Los Gatos, CA 95030",
+      "city": "Los Gatos",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://liveoakseniorcenter.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://liveoakseniorcenter.org/"
+      ]
+    },
+    {
+      "id": "hall-5aa66af4aadf",
+      "name": "Elks Lodge 1918",
+      "address": "112 W 6th St, Madera, CA 93637",
+      "city": "Madera",
+      "region": "Central Valley",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1918",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1918"
+      ]
+    },
+    {
+      "id": "hall-982e0b8e7627",
+      "name": "Marina Senior Center Bingo",
+      "address": "211 Hillcrest Avenue, Marina, CA 93933",
+      "city": "Marina",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.cityofmarina.org/1275/Marina-Senior-Center",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cityofmarina.org/1275/Marina-Senior-Center"
+      ]
+    },
+    {
+      "id": "hall-e88fc2ef8aa9",
+      "name": "Tri-Counties Community Center Bingo",
+      "address": "1830 B Street, Marysville, CA 95901",
+      "city": "Marysville",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://triccmarysville.org/programs/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://triccmarysville.org/programs/"
+      ]
+    },
+    {
+      "id": "hall-70d12489d18e",
+      "name": "Elks Lodge 1240",
+      "address": "1910 M St, Merced, CA 95340",
+      "city": "Merced",
+      "region": "Central Valley",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1240"
+      ]
+    },
+    {
+      "id": "hall-b778c567a2e0",
+      "name": "Mission Viejo Elks Bingo",
+      "address": "25092 Marguerite Pkwy, Mission Viejo, CA 92692",
+      "city": "Mission Viejo",
+      "region": "Orange County",
+      "website": "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-orange-county.html"
+      ]
+    },
+    {
+      "id": "hall-16257d65c9ca",
+      "name": "Trabuco Hills High School Music Bingo",
+      "address": "",
+      "city": "Mission Viejo",
+      "region": "Orange County",
+      "website": "https://thhsmusic.com/2024_2025/Music_Boosters/Bingo.asp",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://thhsmusic.com/2024_2025/Music_Boosters/Bingo.asp"
+      ]
+    },
+    {
+      "id": "hall-53826eef954f",
+      "name": "Armenian Center Bingo",
+      "address": "410 W Washington Blvd, Montebello, CA 90640",
+      "city": "Montebello",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-e77f3bc735db",
+      "name": "Montebello Christian School Bingo",
+      "address": "136 S 7th St, Montebello, CA 90640",
+      "city": "Montebello",
+      "region": "Los Angeles",
+      "website": "https://montebellochristian.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://montebellochristian.com/",
+        "https://brokebingoaddict.com/episode/end-of-an-era-bosco-tech"
+      ]
+    },
+    {
+      "id": "hall-b37827d62c95",
+      "name": "Monterey Elks Lodge1285 Bingo",
+      "address": "150 Mar Vista Drive, Monterey, CA 93940",
+      "city": "Monterey",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://elks1285.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://elks1285.com/"
+      ]
+    },
+    {
+      "id": "hall-2aa7e1d173ca",
+      "name": "Moreno Valley Elks #2697",
+      "address": "12125 Day St V205, Moreno Valley, CA 92557",
+      "city": "Moreno Valley",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=2697",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=2697"
+      ]
+    },
+    {
+      "id": "hall-fd96c83bf44e",
+      "name": "Nevada City Elks518 Bingo",
+      "address": "Nevada City Elks Lodge518 (street not verified)",
+      "city": "Nevada City",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.nevadacityelks.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.nevadacityelks.com/",
+        "https://www.nevadacityelks.com/contact-us/"
+      ]
+    },
+    {
+      "id": "hall-5b7746bf3ce6",
+      "name": "LOV Bingo at Swiss Park",
+      "address": "5977 Mowry Avenue, Newark, CA (2021 ad; current venue unverified)",
+      "city": "Newark",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.lov.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.lov.org/"
+      ]
+    },
+    {
+      "id": "hall-b33f7331079a",
+      "name": "Norco Rotary / American Legion Bingo",
+      "address": "3888 Old Hamner Road, Norco, CA",
+      "city": "Norco",
+      "region": "Inland Empire & Desert",
+      "website": "https://norcorotary.com/events/american-legion-bingo-2026",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://norcorotary.com/events/american-legion-bingo-2026"
+      ]
+    },
+    {
+      "id": "hall-15fbc6ffd8f7",
+      "name": "Rose M. Eldridge Senior Center",
+      "address": "2690 Clark Avenue, Norco, CA 92860",
+      "city": "Norco",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.norco.ca.us/departments/community-services/senior-programs-resources/meetings-clubs",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.norco.ca.us/departments/community-services/senior-programs-resources/meetings-clubs"
+      ]
+    },
+    {
+      "id": "hall-24cc54a80d65",
+      "name": "CRI-Help Bingo",
+      "address": "8330 Lankershim Blvd, North Hollywood, CA",
+      "city": "North Hollywood",
+      "region": "Los Angeles",
+      "website": "https://cri-help.org/news-events/bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cri-help.org/news-events/bingo.html"
+      ]
+    },
+    {
+      "id": "hall-80ba66e5ec7a",
+      "name": "Novato Senior Citizens Club / Margaret Todd Bingo",
+      "address": "1560 Hill Road, Novato, CA 94947",
+      "city": "Novato",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.novatoseniors.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.novatoseniors.org/",
+        "https://localbingohalls.com/margaret/"
+      ]
+    },
+    {
+      "id": "hall-894ddc4e024d",
+      "name": "Oceanside Elks #1561",
+      "address": "444 Country Club Lane, Oceanside, CA 92054",
+      "city": "Oceanside",
+      "region": "San Diego & Imperial",
+      "website": "https://www.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=1561",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=1561"
+      ]
+    },
+    {
+      "id": "hall-1f07462187a7",
+      "name": "Canyon School Pride Bingo",
+      "address": "1030 N Lemon St, Orange, CA 92867",
+      "city": "Orange",
+      "region": "Orange County",
+      "website": "https://www.bingo4fun.com/canyon-bingo-orange.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/canyon-bingo-orange.html"
+      ]
+    },
+    {
+      "id": "hall-ea7485fb80ac",
+      "name": "Gold Country Casino Bingo",
+      "address": "4020 Olive Highway, Oroville, CA 95966",
+      "city": "Oroville",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.goldcountrycasino.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.goldcountrycasino.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-c4a92a333c66",
+      "name": "Sacred Heart Church Bingo",
+      "address": "43775 Deep Canyon Rd, Palm Desert, CA 92260",
+      "city": "Palm Desert",
+      "region": "Inland Empire & Desert",
+      "website": "https://church.sacredheartpalmdesert.com/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://church.sacredheartpalmdesert.com/bingo"
+      ]
+    },
+    {
+      "id": "hall-b7bf2aa71d20",
+      "name": "Palmdale Elks Bingo",
+      "address": "",
+      "city": "Palmdale",
+      "region": "Los Angeles",
+      "website": "https://www.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=2027",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=2027"
+      ]
+    },
+    {
+      "id": "hall-d0a1947c4c8b",
+      "name": "LiveLovePlay Bingo",
+      "address": "2242 E Foothill Blvd, Pasadena, CA 91107",
+      "city": "Pasadena",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/live-love-play-bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/live-love-play-bingo.html",
+        "https://nextdoor.com/pages/liveloveplay-bingo-pasadena-ca/",
+        "https://www.eventbrite.com/o/live-love-play-bingo-59721986873"
+      ]
+    },
+    {
+      "id": "hall-ea2a490c00d4",
+      "name": "909 Market Foundation Bingo at The Derby Room",
+      "address": "18700 Lake Perris Dr, Perris, CA 92571",
+      "city": "Perris",
+      "region": "Inland Empire & Desert",
+      "website": "https://business.perrischamber.net/event-calendar/Details/thursday-night-bingo-1735498?rendermode=print",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://business.perrischamber.net/event-calendar/Details/thursday-night-bingo-1735498?rendermode=print"
+      ]
+    },
+    {
+      "id": "hall-c17955c68a97",
+      "name": "Pittsburg Fifty Plus Senior Center Bingo",
+      "address": "300 Presidio Lane, Pittsburg, CA 94565",
+      "city": "Pittsburg",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://pittsburgfiftyplusclub.com/event-5419927",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://pittsburgfiftyplusclub.com/event-5419927"
+      ]
+    },
+    {
+      "id": "hall-f7cd974a2c55",
+      "name": "Winners Bingo Pittsburg",
+      "address": "961 Garcia Ave Ste E-F, Pittsburg, CA 94565",
+      "city": "Pittsburg",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.winnersbingopittsburg.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.winnersbingopittsburg.com/"
+      ]
+    },
+    {
+      "id": "hall-9df567758c37",
+      "name": "Platinum Bingo",
+      "address": "901 N Bradford Ave, Placentia, CA 92870",
+      "city": "Placentia",
+      "region": "Orange County",
+      "website": "https://platinumbingo.net/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://platinumbingo.net/"
+      ]
+    },
+    {
+      "id": "hall-e73343b5441c",
+      "name": "Pleasant Hill Senior Center Bingo",
+      "address": "Senior Center Chateau Room (street not verified)",
+      "city": "Pleasant Hill",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://pleasanthillrec.com/343/Activities",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://pleasanthillrec.com/343/Activities"
+      ]
+    },
+    {
+      "id": "hall-69d7fbf3c2aa",
+      "name": "Derby Room Charity Bingo",
+      "address": "",
+      "city": "Pomona",
+      "region": "Los Angeles",
+      "website": "https://www.thederbyroom.com/pomonaevents",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.thederbyroom.com/pomonaevents"
+      ]
+    },
+    {
+      "id": "hall-236816c3d8e3",
+      "name": "Elks Lodge 1342",
+      "address": "386 N Main St, Porterville, CA 93257",
+      "city": "Porterville",
+      "region": "Central Valley",
+      "website": "https://www.elks.org/lodges/CalendarDetail.cfm?LodgeNumber=1342&eventid=1633324",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/CalendarDetail.cfm?LodgeNumber=1342&eventid=1633324"
+      ]
+    },
+    {
+      "id": "hall-d19d6f8b0e09",
+      "name": "PACC Bingo at First Christian Church",
+      "address": "1020 N Prospect St, Porterville, CA 93257",
+      "city": "Porterville",
+      "region": "Central Valley",
+      "website": "https://paccprovides.org/events.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://paccprovides.org/events.html"
+      ]
+    },
+    {
+      "id": "hall-d13ec6f94730",
+      "name": "Ramona Senior Center",
+      "address": "434 Aqua Lane, Ramona, CA 92065",
+      "city": "Ramona",
+      "region": "San Diego & Imperial",
+      "website": "https://ramonaseniorcenter.com/activities/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://ramonaseniorcenter.com/activities/"
+      ]
+    },
+    {
+      "id": "hall-236eb49afe01",
+      "name": "Ramona Woman's Club",
+      "address": "",
+      "city": "Ramona",
+      "region": "San Diego & Imperial",
+      "website": "https://www.ramonawomansclub.com/programs",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ramonawomansclub.com/programs"
+      ]
+    },
+    {
+      "id": "hall-ca3c9bcbe66d",
+      "name": "Neil Orchard Senior Activities Center Bingo",
+      "address": "Neil Orchard Senior Activities Center (street not verified)",
+      "city": "Rancho Cordova",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.cordovarpd.gov/201/Active-Adults-Seniors",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cordovarpd.gov/201/Active-Adults-Seniors"
+      ]
+    },
+    {
+      "id": "hall-5a466faa16e2",
+      "name": "James L. Brulte Senior Center",
+      "address": "",
+      "city": "Rancho Cucamonga",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.cityofrc.us/community-services/seniors",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cityofrc.us/community-services/seniors"
+      ]
+    },
+    {
+      "id": "hall-0927e16c9dd7",
+      "name": "Red Bluff Community and Senior Center Bingo",
+      "address": "1500 S Jackson Street, Red Bluff, CA 96080",
+      "city": "Red Bluff",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://redbluff.recdesk.com/Community/Facility/Detail?facilityId=1",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://redbluff.recdesk.com/Community/Facility/Detail?facilityId=1"
+      ]
+    },
+    {
+      "id": "hall-1c9db00cfb1e",
+      "name": "Our Lady of Mercy Bingo legacy lead",
+      "address": "2060 Shasta View Drive, Redding, CA (2008 listing)",
+      "city": "Redding",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://archive.redding.com/entertainment/356081921.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://archive.redding.com/entertainment/356081921.html"
+      ]
+    },
+    {
+      "id": "hall-9dbf70d162cf",
+      "name": "Redding Moose Bingo legacy lead",
+      "address": "320 Lake Boulevard, Redding, CA (2008 listing)",
+      "city": "Redding",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://archive.redding.com/entertainment/356081921.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://archive.redding.com/entertainment/356081921.html"
+      ]
+    },
+    {
+      "id": "hall-7011dccd9402",
+      "name": "Redding Senior Center Bingo",
+      "address": "2290 Benton Drive, Redding, CA 96003",
+      "city": "Redding",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://files.cityofredding.gov/government/departments/parks_and_recreation/community_services_/senior_center.php",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://files.cityofredding.gov/government/departments/parks_and_recreation/community_services_/senior_center.php"
+      ]
+    },
+    {
+      "id": "hall-9737e2170690",
+      "name": "Win-River Resort and Casino Bingo",
+      "address": "2100 Redding Rancheria Road, Redding, CA",
+      "city": "Redding",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://winriver.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://winriver.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-27eae74134b5",
+      "name": "Joslyn Senior Center Bingo",
+      "address": "21 Grant Street, Redlands, CA",
+      "city": "Redlands",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.redlands.gov/bingo-2/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.redlands.gov/bingo-2/"
+      ]
+    },
+    {
+      "id": "hall-a0f717465090",
+      "name": "Grace Vargas Senior Center",
+      "address": "1411 S Riverside Avenue, Rialto, CA 92376",
+      "city": "Rialto",
+      "region": "Inland Empire & Desert",
+      "website": "https://rialtoca.gov/278/Grace-Vargas-Senior-Center",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://rialtoca.gov/278/Grace-Vargas-Senior-Center"
+      ]
+    },
+    {
+      "id": "hall-be48bd043155",
+      "name": "Elks Lodge 1913",
+      "address": "201 E Church Ave, Ridgecrest, CA 93555",
+      "city": "Ridgecrest",
+      "region": "Central Valley",
+      "website": "https://www.elks.org/lodges/LodgeFacilities.cfm?LodgeNumber=1913",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/LodgeFacilities.cfm?LodgeNumber=1913"
+      ]
+    },
+    {
+      "id": "hall-bc075a7c606f",
+      "name": "Janet Goeske Foundation Bingo",
+      "address": "5257 Sierra St, Riverside, CA 92504",
+      "city": "Riverside",
+      "region": "Inland Empire & Desert",
+      "website": "https://riversideca.gov/calendar/event/bingo-5",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://riversideca.gov/calendar/event/bingo-5"
+      ]
+    },
+    {
+      "id": "hall-b7c951de79ca",
+      "name": "Riverside Elks #643",
+      "address": "6166 Brockton Ave, Riverside, CA 92506",
+      "city": "Riverside",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=643",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=643"
+      ]
+    },
+    {
+      "id": "hall-f3707fd2392c",
+      "name": "Entrepreneurs of Tomorrow / EOT Bingo",
+      "address": "Rohnert Park Senior Center (street not verified)",
+      "city": "Rohnert Park",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.entrepreneurtomorrow.org/eot-bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.entrepreneurtomorrow.org/eot-bingo"
+      ]
+    },
+    {
+      "id": "hall-1b0b594657d0",
+      "name": "Roseville Eagles Aerie1582 Bingo",
+      "address": "210 Lincoln Street entrance /124 Vernon Street mailing, Roseville, CA 95678",
+      "city": "Roseville",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.rosevilleeagles.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.rosevilleeagles.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-def9af63cbf0",
+      "name": "Sun City Roseville Foundation Bingo",
+      "address": "Sun City Roseville (street not verified)",
+      "city": "Roseville",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://scrfoundation.org/events/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://scrfoundation.org/events/"
+      ]
+    },
+    {
+      "id": "hall-93ad65c02d68",
+      "name": "Mayhew Center / older Mandarins Bingo listing",
+      "address": "9333 Tech Center Drive, Sacramento, CA 95826 (legacy listing)",
+      "city": "Sacramento",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.yellowpages.com/sacramento-ca/bingo-centers",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.yellowpages.com/sacramento-ca/bingo-centers"
+      ]
+    },
+    {
+      "id": "hall-c9a2dd6e7606",
+      "name": "Elks Lodge 836",
+      "address": "",
+      "city": "San Bernardino",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.blpublishing.net/sanbernardinoelkslodge-836",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.blpublishing.net/sanbernardinoelkslodge-836"
+      ]
+    },
+    {
+      "id": "hall-ce82b564a4dc",
+      "name": "UPSES Portuguese Hall",
+      "address": "2818 Avenida De Portugal, San Diego, CA 92106",
+      "city": "San Diego",
+      "region": "San Diego & Imperial",
+      "website": "https://upses.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://upses.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-af5f75042630",
+      "name": "St. Ferdinand Bingo",
+      "address": "",
+      "city": "San Fernando",
+      "region": "Los Angeles",
+      "website": "https://stfoutreach.org/bingo.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://stfoutreach.org/bingo.html"
+      ]
+    },
+    {
+      "id": "hall-e207a3cb3b8b",
+      "name": "San Luis Obispo Elks Bingo",
+      "address": "222 Elks Ln, San Luis Obispo, CA 93401",
+      "city": "San Luis Obispo",
+      "region": "Central Coast",
+      "website": "https://elks322.org/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://elks322.org/"
+      ]
+    },
+    {
+      "id": "hall-d958fefada79",
+      "name": "Alcosta Senior Community Center Bingo",
+      "address": "Alcosta Senior Community Center (street not verified)",
+      "city": "San Ramon",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/File/Our%20City/Departments/Parks%20%26%20Comm%20Srvs/Adults%2055/ASCC%20Drop%20In%20Classes.pdf",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/File/Our%20City/Departments/Parks%20%26%20Comm%20Srvs/Adults%2055/ASCC%20Drop%20In%20Classes.pdf"
+      ]
+    },
+    {
+      "id": "hall-94d93c7ab55f",
+      "name": "American Legion Post 23",
+      "address": "1502 O St, Sanger, CA 93657",
+      "city": "Sanger",
+      "region": "Central Valley",
+      "website": "https://www.loc8nearme.com/california/sanger/american-legion-post-23/7891305/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.loc8nearme.com/california/sanger/american-legion-post-23/7891305/"
+      ]
+    },
+    {
+      "id": "hall-8543c6a13581",
+      "name": "Sanger Senior Center",
+      "address": "730 Recreation Ave, Sanger, CA 93657",
+      "city": "Sanger",
+      "region": "Central Valley",
+      "website": "https://www.ci.sanger.ca.us/DocumentCenter/View/3224/October-Newsletter-2025",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ci.sanger.ca.us/DocumentCenter/View/3224/October-Newsletter-2025"
+      ]
+    },
+    {
+      "id": "hall-96ce42abac37",
+      "name": "40 Martyrs Bingo",
+      "address": "5315 W McFadden Ave, Santa Ana, CA 92704",
+      "city": "Santa Ana",
+      "region": "Orange County",
+      "website": "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-orange-county.html",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-55ec7628337d",
+      "name": "Santa Ana Elks Bingo",
+      "address": "1751 S Elks Lane, Santa Ana, CA 92705",
+      "city": "Santa Ana",
+      "region": "Orange County",
+      "website": "https://www.saelks.com/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.saelks.com/bingo",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ]
+    },
+    {
+      "id": "hall-22bfd0acbd5c",
+      "name": "Santa Barbara Elks Bingo",
+      "address": "150 N Kellogg Ave, Santa Barbara, CA 93111",
+      "city": "Santa Barbara",
+      "region": "Central Coast",
+      "website": "https://www.elks.org/lodges/LodgeFacilities.cfm?LodgeNumber=613",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/LodgeFacilities.cfm?LodgeNumber=613"
+      ]
+    },
+    {
+      "id": "hall-d190038988c2",
+      "name": "Santa Maria Elks Bingo",
+      "address": "1309 N Bradley Rd, Santa Maria, CA 93454",
+      "city": "Santa Maria",
+      "region": "Central Coast",
+      "website": "https://www.elks.org/lodges/lodgefacilities.cfm?lodgenumber=1538",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/lodgefacilities.cfm?lodgenumber=1538"
+      ]
+    },
+    {
+      "id": "hall-bc1e6bbdcce5",
+      "name": "Scotts Valley Senior Center Bingo",
+      "address": "Scotts Valley Senior Center (street not verified)",
+      "city": "Scotts Valley",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.scottsvalley.gov/ArchiveCenter/ViewFile/Item/61",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.scottsvalley.gov/ArchiveCenter/ViewFile/Item/61"
+      ]
+    },
+    {
+      "id": "hall-4c47b280d6ac",
+      "name": "Seaside Senior Bingo",
+      "address": "986 Hilby Avenue, Seaside, CA 93955",
+      "city": "Seaside",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.ci.seaside.ca.us/Calendar.aspx?EID=12113&calType=0&day=10&month=6&year=2026",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.ci.seaside.ca.us/Calendar.aspx?EID=12113&calType=0&day=10&month=6&year=2026"
+      ]
+    },
+    {
+      "id": "hall-89af8335b15d",
+      "name": "Selma Senior Center",
+      "address": "",
+      "city": "Selma",
+      "region": "Central Valley",
+      "website": "https://www.cityofselma.com/departments/recreation/seniors_services.php",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.cityofselma.com/departments/recreation/seniors_services.php"
+      ]
+    },
+    {
+      "id": "hall-b82b8ff2fa3e",
+      "name": "Shafter Lions Club at Veterans Hall",
+      "address": "",
+      "city": "Shafter",
+      "region": "Central Valley",
+      "website": "https://www.theshafterpress.com/section/news/2651",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.theshafterpress.com/section/news/2651"
+      ]
+    },
+    {
+      "id": "hall-a7878962c2ce",
+      "name": "Knights of Columbus Council 5803 Bingo",
+      "address": "4191 Cochran St, Simi Valley, CA 93063",
+      "city": "Simi Valley",
+      "region": "Central Coast",
+      "website": "https://kc5803.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://kc5803.org/bingo"
+      ]
+    },
+    {
+      "id": "hall-4847cd02b1fc",
+      "name": "Simi Valley Senior Center Bingo",
+      "address": "3900 Avenida Simi, Simi Valley, CA 93063",
+      "city": "Simi Valley",
+      "region": "Central Coast",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html"
+      ]
+    },
+    {
+      "id": "hall-9f84cbcaa5cd",
+      "name": "Tiger Bingo / South Pasadena High School",
+      "address": "1411 Diamond Ave, South Pasadena, CA 91030",
+      "city": "South Pasadena",
+      "region": "Los Angeles",
+      "website": "https://sphsboosters.org/tiger-bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://sphsboosters.org/tiger-bingo/"
+      ]
+    },
+    {
+      "id": "hall-c326bf54f4c7",
+      "name": "Diamond Mountain Casino Bingo historical lead",
+      "address": "900 Skyline Drive, Susanville, CA 96130",
+      "city": "Susanville",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://dmcah.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://dmcah.com/"
+      ]
+    },
+    {
+      "id": "hall-1475df123462",
+      "name": "West Side Recreation & Park District Bingo",
+      "address": "500 Cascade Place, Taft, CA 93268",
+      "city": "Taft",
+      "region": "Central Valley",
+      "website": "https://wsrpdonline.myrec.com/info/activities/program_details.aspx?ProgramID=29972",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://wsrpdonline.myrec.com/info/activities/program_details.aspx?ProgramID=29972"
+      ]
+    },
+    {
+      "id": "hall-7c5e470aaed8",
+      "name": "American Legion Post 221",
+      "address": "",
+      "city": "Tehachapi",
+      "region": "Central Valley",
+      "website": "https://post221.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://post221.org/bingo"
+      ]
+    },
+    {
+      "id": "hall-108ab4d2a935",
+      "name": "Goebel Adult Community Center Bingo",
+      "address": "1385 E Janss Rd, Thousand Oaks, CA 91362",
+      "city": "Thousand Oaks",
+      "region": "Central Coast",
+      "website": "https://www.crpd.org/bingo-games-technology",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.crpd.org/bingo-games-technology"
+      ]
+    },
+    {
+      "id": "hall-fb0e46e69d76",
+      "name": "The Heights Casino / Cher-Ae Heights",
+      "address": "27 Scenic Drive, Trinidad, CA 95570",
+      "city": "Trinidad",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.funattheheights.com/casino-gaming/bingo-hall/",
+      "signup": {
+        "method": "web_form",
+        "keyword": null,
+        "destination": null,
+        "url": "https://www.funattheheights.com/email-signup/",
+        "subscriptionKey": "https://www.funattheheights.com/email-signup/",
+        "sourceUrl": "https://www.funattheheights.com/email-signup/",
+        "note": "NEW route. Form is titled Email Signup but includes SMS. General casino offers, not bingo-exclusive.21+ requirement; name/birthdate/CrownClub fields appear; processing up to30days. Required-field details need browser review."
+      },
+      "enrollmentStatus": "not_enrolled",
+      "researchStatus": "published_signup_verified",
+      "sourceUrls": [
+        "https://www.funattheheights.com/casino-gaming/bingo-hall/",
+        "https://www.funattheheights.com/email-signup/"
+      ]
+    },
+    {
+      "id": "hall-6eccd9e50655",
+      "name": "Tulare Senior Community Center",
+      "address": "201 N F St, Tulare, CA",
+      "city": "Tulare",
+      "region": "Central Valley",
+      "website": "https://www.tulare.ca.gov/government/departments/community-services/senior-services/tulare-senior-services/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.tulare.ca.gov/government/departments/community-services/senior-services/tulare-senior-services/bingo"
+      ]
+    },
+    {
+      "id": "hall-43a1e9b6131b",
+      "name": "Tulare Veterans Memorial Building",
+      "address": "1771 E Tulare Ave, Tulare, CA 93274",
+      "city": "Tulare",
+      "region": "Central Valley",
+      "website": "https://www.eventbrite.com/e/bingo-bash-tickets-1986440448856?aff=erelexpmlt",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.eventbrite.com/e/bingo-bash-tickets-1986440448856?aff=erelexpmlt"
+      ]
+    },
+    {
+      "id": "hall-54b9f5770ab0",
+      "name": "Twentynine Palms Elks Bingo",
+      "address": "6501 Barranca Street, Twentynine Palms, CA 92277",
+      "city": "Twentynine Palms",
+      "region": "Inland Empire & Desert",
+      "website": "https://tockify.com/29palmschambercalendar/detail/239/1782522000000",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://tockify.com/29palmschambercalendar/detail/239/1782522000000"
+      ]
+    },
+    {
+      "id": "hall-4812d63285d3",
+      "name": "Ukiah Senior Center Bingo",
+      "address": "499 Leslie Street, Ukiah, CA 95482",
+      "city": "Ukiah",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://ukiahseniorcenter.org/activities/games",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://ukiahseniorcenter.org/activities/games"
+      ]
+    },
+    {
+      "id": "hall-e7810f53fc63",
+      "name": "SDES Alvarado Portuguese Cultural Center Bingo",
+      "address": "30846 Watkins Street, Union City, CA 94587",
+      "city": "Union City",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://www.sdesalvaradohall.org/bingo",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.sdesalvaradohall.org/bingo"
+      ]
+    },
+    {
+      "id": "hall-00f44ce4b4a7",
+      "name": "Vaca Valley Bingo",
+      "address": "190 Bella Vista Road, Vacaville, CA 95687",
+      "city": "Vacaville",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.vacavalleybingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.vacavalleybingo.com/"
+      ]
+    },
+    {
+      "id": "hall-f573ae723544",
+      "name": "Ventura Elks Bingo",
+      "address": "2126 Knoll Dr, Ventura, CA 93003",
+      "city": "Ventura",
+      "region": "Central Coast",
+      "website": "https://www.elks.org/lodges/lodgefacilities.cfm?lodgenumber=1430",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/lodgefacilities.cfm?lodgenumber=1430"
+      ]
+    },
+    {
+      "id": "hall-ca39276eca3a",
+      "name": "Community Bingo Hall",
+      "address": "12234 Hesperia Rd, Victorville, CA 92395",
+      "city": "Victorville",
+      "region": "Inland Empire & Desert",
+      "website": "https://yourcommunitybingo.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://yourcommunitybingo.com/"
+      ]
+    },
+    {
+      "id": "hall-e290ca335366",
+      "name": "Victorville Senior Citizens Club",
+      "address": "",
+      "city": "Victorville",
+      "region": "Inland Empire & Desert",
+      "website": "https://www.victorvilleseniorcitizensclub.com/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.victorvilleseniorcitizensclub.com/"
+      ]
+    },
+    {
+      "id": "hall-d015174c4c33",
+      "name": "Senior Pride Bingo at Veterans Memorial Building",
+      "address": "609 W Center St, Visalia, CA",
+      "city": "Visalia",
+      "region": "Central Valley",
+      "website": "https://www.thegoodlifesv.com/home/cms_data/dfault/photos/stories/id/5/2/1252/5727730.pdf",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.thegoodlifesv.com/home/cms_data/dfault/photos/stories/id/5/2/1252/5727730.pdf"
+      ]
+    },
+    {
+      "id": "hall-59336e924e1d",
+      "name": "Japanese-American Cultural Center of Vista",
+      "address": "150 Cedar Rd B, Vista, CA 92083",
+      "city": "Vista",
+      "region": "San Diego & Imperial",
+      "website": "https://jaccofvista.com/bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://jaccofvista.com/bingo/"
+      ]
+    },
+    {
+      "id": "hall-6caa94e7f9a2",
+      "name": "Vista Elks #1968",
+      "address": "1947 E Vista Way, Vista, CA 92084",
+      "city": "Vista",
+      "region": "San Diego & Imperial",
+      "website": "https://localbingohalls.com/vista-elks-bingo/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://localbingohalls.com/vista-elks-bingo/"
+      ]
+    },
+    {
+      "id": "hall-77aa8c0d7193",
+      "name": "Walnut Creek Seniors Club Bingo",
+      "address": "1375 Civic Drive, Walnut Creek, CA 94596",
+      "city": "Walnut Creek",
+      "region": "Bay Area, Monterey Bay and North Coast",
+      "website": "https://wcseniorsclub2020.wordpress.com/category/activities/",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://wcseniorsclub2020.wordpress.com/category/activities/"
+      ]
+    },
+    {
+      "id": "hall-ffe9efb624ee",
+      "name": "Lake Elsinore/Wildomar Elks #2591",
+      "address": "33700 Mission Trail, Wildomar, CA 92595",
+      "city": "Wildomar",
+      "region": "Inland Empire & Desert",
+      "website": "https://hq.elks.org/lodges/home.cfm?LodgeNumber=2591",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://hq.elks.org/lodges/home.cfm?LodgeNumber=2591"
+      ]
+    },
+    {
+      "id": "hall-01eb9f62d70e",
+      "name": "Woodland Senior Center Bingo",
+      "address": "Woodland Senior Center (street not verified)",
+      "city": "Woodland",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://cityofwoodland.gov/369/Social-Games",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cityofwoodland.gov/369/Social-Games"
+      ]
+    },
+    {
+      "id": "hall-ce84967a8a91",
+      "name": "American Legion Post 826 Bingo",
+      "address": "5320 Fallbrook Ave, Woodland Hills, CA 91367",
+      "city": "Woodland Hills",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html"
+      ]
+    },
+    {
+      "id": "hall-fa6c20422d9d",
+      "name": "St. Mel Bingo",
+      "address": "20870 Ventura Blvd, Woodland Hills, CA 91364",
+      "city": "Woodland Hills",
+      "region": "Los Angeles",
+      "website": "https://www.bingo4fun.com/places-to-play-in-los-angeles.html",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.bingo4fun.com/places-to-play-in-los-angeles.html"
+      ]
+    },
+    {
+      "id": "hall-50a77397eb89",
+      "name": "Yreka Elks1980 Bingo",
+      "address": "332 W Miner Street, Yreka, CA 96097",
+      "city": "Yreka",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://www.elks.org/lodges/lodgeFacilities.cfm?lodgenumber=1980",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/lodgeFacilities.cfm?lodgenumber=1980",
+        "https://www.elks.org/lodges/home.cfm?LodgeNumber=1980"
+      ]
+    },
+    {
+      "id": "hall-03f13e1045f4",
+      "name": "Yuba City Senior Activity Center Friday Bingo",
+      "address": "777 Ainsley Avenue, Yuba City, CA",
+      "city": "Yuba City",
+      "region": "Sacramento metro, northern interior, foothills and far north",
+      "website": "https://cms3.revize.com/revize/yubacity/Document%20Center/Departments/Park%20%26%20Recreation/Senior%20Center/Senior%20Center%20tri-fold%20brochure%202025.pdf",
+      "signup": null,
+      "enrollmentStatus": "not_enrolled",
+      "sourceUrls": [
+        "https://cms3.revize.com/revize/yubacity/Document%20Center/Departments/Park%20%26%20Recreation/Senior%20Center/Senior%20Center%20tri-fold%20brochure%202025.pdf"
+      ]
+    }
+  ],
+  "cityCoverage": [
+    {
+      "city": "Alameda"
+    },
+    {
+      "city": "Alhambra"
+    },
+    {
+      "city": "Alpine"
+    },
+    {
+      "city": "Anaheim"
+    },
+    {
+      "city": "Anderson"
+    },
+    {
+      "city": "Antioch"
+    },
+    {
+      "city": "Apple Valley"
+    },
+    {
+      "city": "Aptos"
+    },
+    {
+      "city": "Arcadia"
+    },
+    {
+      "city": "Arcata"
+    },
+    {
+      "city": "Atascadero"
+    },
+    {
+      "city": "Atwater"
+    },
+    {
+      "city": "Auburn"
+    },
+    {
+      "city": "Bakersfield"
+    },
+    {
+      "city": "Baldwin Park"
+    },
+    {
+      "city": "Banning"
+    },
+    {
+      "city": "Barstow"
+    },
+    {
+      "city": "Beaumont"
+    },
+    {
+      "city": "Bellflower"
+    },
+    {
+      "city": "Belmont"
+    },
+    {
+      "city": "Benicia"
+    },
+    {
+      "city": "Berkeley"
+    },
+    {
+      "city": "Big Bear Lake"
+    },
+    {
+      "city": "Bonsall"
+    },
+    {
+      "city": "Brawley"
+    },
+    {
+      "city": "Brentwood"
+    },
+    {
+      "city": "Burbank"
+    },
+    {
+      "city": "Cabazon"
+    },
+    {
+      "city": "Calexico"
+    },
+    {
+      "city": "Camarillo"
+    },
+    {
+      "city": "Campbell"
+    },
+    {
+      "city": "Canoga Park"
+    },
+    {
+      "city": "Carlsbad"
+    },
+    {
+      "city": "Carson"
+    },
+    {
+      "city": "Cathedral City"
+    },
+    {
+      "city": "Chico"
+    },
+    {
+      "city": "Chino"
+    },
+    {
+      "city": "Chino Hills"
+    },
+    {
+      "city": "Chowchilla"
+    },
+    {
+      "city": "Chula Vista"
+    },
+    {
+      "city": "Citrus Heights"
+    },
+    {
+      "city": "City of Industry"
+    },
+    {
+      "city": "Clovis"
+    },
+    {
+      "city": "Coachella"
+    },
+    {
+      "city": "Coalinga"
+    },
+    {
+      "city": "Colton"
+    },
+    {
+      "city": "Colusa"
+    },
+    {
+      "city": "Compton"
+    },
+    {
+      "city": "Concord"
+    },
+    {
+      "city": "Corning"
+    },
+    {
+      "city": "Corona"
+    },
+    {
+      "city": "Coronado"
+    },
+    {
+      "city": "Crescent City"
+    },
+    {
+      "city": "Cupertino"
+    },
+    {
+      "city": "Cypress"
+    },
+    {
+      "city": "Daly City"
+    },
+    {
+      "city": "Danville"
+    },
+    {
+      "city": "Davis"
+    },
+    {
+      "city": "Del Mar"
+    },
+    {
+      "city": "Delano"
+    },
+    {
+      "city": "Dinuba"
+    },
+    {
+      "city": "Dos Palos"
+    },
+    {
+      "city": "Downey"
+    },
+    {
+      "city": "Duarte"
+    },
+    {
+      "city": "Dublin"
+    },
+    {
+      "city": "Eastvale"
+    },
+    {
+      "city": "El Cajon"
+    },
+    {
+      "city": "El Centro"
+    },
+    {
+      "city": "Elk Grove"
+    },
+    {
+      "city": "Encinitas"
+    },
+    {
+      "city": "Escondido"
+    },
+    {
+      "city": "Eureka"
+    },
+    {
+      "city": "Exeter"
+    },
+    {
+      "city": "Fairfield"
+    },
+    {
+      "city": "Fallbrook"
+    },
+    {
+      "city": "Folsom"
+    },
+    {
+      "city": "Fontana"
+    },
+    {
+      "city": "Fort Bragg"
+    },
+    {
+      "city": "Fountain Valley"
+    },
+    {
+      "city": "Fremont"
+    },
+    {
+      "city": "Fresno"
+    },
+    {
+      "city": "Friant"
+    },
+    {
+      "city": "Fullerton"
+    },
+    {
+      "city": "Garden Grove"
+    },
+    {
+      "city": "Gardena"
+    },
+    {
+      "city": "Gilroy"
+    },
+    {
+      "city": "Glendale"
+    },
+    {
+      "city": "Granada Hills"
+    },
+    {
+      "city": "Grass Valley"
+    },
+    {
+      "city": "Hanford"
+    },
+    {
+      "city": "Hawaiian Gardens"
+    },
+    {
+      "city": "Hayward"
+    },
+    {
+      "city": "Hemet"
+    },
+    {
+      "city": "Hesperia"
+    },
+    {
+      "city": "Highland"
+    },
+    {
+      "city": "Hollister"
+    },
+    {
+      "city": "Huntington Beach"
+    },
+    {
+      "city": "Imperial"
+    },
+    {
+      "city": "Imperial Beach"
+    },
+    {
+      "city": "Indio"
+    },
+    {
+      "city": "Inglewood"
+    },
+    {
+      "city": "Irvine"
+    },
+    {
+      "city": "Jurupa Valley"
+    },
+    {
+      "city": "Kingsburg"
+    },
+    {
+      "city": "La Mesa"
+    },
+    {
+      "city": "La Mirada"
+    },
+    {
+      "city": "Lake Elsinore"
+    },
+    {
+      "city": "Lake Forest"
+    },
+    {
+      "city": "Lakewood"
+    },
+    {
+      "city": "Lancaster"
+    },
+    {
+      "city": "Lemon Grove"
+    },
+    {
+      "city": "Lemoore"
+    },
+    {
+      "city": "Lincoln"
+    },
+    {
+      "city": "Lindsay"
+    },
+    {
+      "city": "Livermore"
+    },
+    {
+      "city": "Livingston"
+    },
+    {
+      "city": "Loma Linda"
+    },
+    {
+      "city": "Lompoc"
+    },
+    {
+      "city": "Long Beach"
+    },
+    {
+      "city": "Los Angeles"
+    },
+    {
+      "city": "Los Banos"
+    },
+    {
+      "city": "Los Gatos"
+    },
+    {
+      "city": "Madera"
+    },
+    {
+      "city": "Marina"
+    },
+    {
+      "city": "Martinez"
+    },
+    {
+      "city": "Marysville"
+    },
+    {
+      "city": "Menifee"
+    },
+    {
+      "city": "Menlo Park"
+    },
+    {
+      "city": "Merced"
+    },
+    {
+      "city": "Milpitas"
+    },
+    {
+      "city": "Mission Viejo"
+    },
+    {
+      "city": "Monrovia"
+    },
+    {
+      "city": "Montebello"
+    },
+    {
+      "city": "Monterey"
+    },
+    {
+      "city": "Moreno Valley"
+    },
+    {
+      "city": "Morgan Hill"
+    },
+    {
+      "city": "Mountain View"
+    },
+    {
+      "city": "Murrieta"
+    },
+    {
+      "city": "Napa"
+    },
+    {
+      "city": "National City"
+    },
+    {
+      "city": "Nevada City"
+    },
+    {
+      "city": "Newark"
+    },
+    {
+      "city": "Newport Beach"
+    },
+    {
+      "city": "Norco"
+    },
+    {
+      "city": "North Hollywood"
+    },
+    {
+      "city": "Norwalk"
+    },
+    {
+      "city": "Novato"
+    },
+    {
+      "city": "Oakland"
+    },
+    {
+      "city": "Oakley"
+    },
+    {
+      "city": "Oceanside"
+    },
+    {
+      "city": "Ontario"
+    },
+    {
+      "city": "Orange"
+    },
+    {
+      "city": "Oroville"
+    },
+    {
+      "city": "Oxnard"
+    },
+    {
+      "city": "Palm Desert"
+    },
+    {
+      "city": "Palm Springs"
+    },
+    {
+      "city": "Palmdale"
+    },
+    {
+      "city": "Palo Alto"
+    },
+    {
+      "city": "Pasadena"
+    },
+    {
+      "city": "Paso Robles"
+    },
+    {
+      "city": "Perris"
+    },
+    {
+      "city": "Petaluma"
+    },
+    {
+      "city": "Pittsburg"
+    },
+    {
+      "city": "Placentia"
+    },
+    {
+      "city": "Pleasant Hill"
+    },
+    {
+      "city": "Pleasanton"
+    },
+    {
+      "city": "Pomona"
+    },
+    {
+      "city": "Porterville"
+    },
+    {
+      "city": "Poway"
+    },
+    {
+      "city": "Ramona"
+    },
+    {
+      "city": "Rancho Cordova"
+    },
+    {
+      "city": "Rancho Cucamonga"
+    },
+    {
+      "city": "Red Bluff"
+    },
+    {
+      "city": "Redding"
+    },
+    {
+      "city": "Redlands"
+    },
+    {
+      "city": "Redwood City"
+    },
+    {
+      "city": "Reedley"
+    },
+    {
+      "city": "Rialto"
+    },
+    {
+      "city": "Richmond"
+    },
+    {
+      "city": "Ridgecrest"
+    },
+    {
+      "city": "Riverside"
+    },
+    {
+      "city": "Rocklin"
+    },
+    {
+      "city": "Rohnert Park"
+    },
+    {
+      "city": "Rosemead"
+    },
+    {
+      "city": "Roseville"
+    },
+    {
+      "city": "Sacramento"
+    },
+    {
+      "city": "Salinas"
+    },
+    {
+      "city": "San Bernardino"
+    },
+    {
+      "city": "San Bruno"
+    },
+    {
+      "city": "San Carlos"
+    },
+    {
+      "city": "San Clemente"
+    },
+    {
+      "city": "San Diego"
+    },
+    {
+      "city": "San Fernando"
+    },
+    {
+      "city": "San Francisco"
+    },
+    {
+      "city": "San Jacinto"
+    },
+    {
+      "city": "San Jose"
+    },
+    {
+      "city": "San Leandro"
+    },
+    {
+      "city": "San Luis Obispo"
+    },
+    {
+      "city": "San Marcos"
+    },
+    {
+      "city": "San Mateo"
+    },
+    {
+      "city": "San Rafael"
+    },
+    {
+      "city": "San Ramon"
+    },
+    {
+      "city": "Sand City"
+    },
+    {
+      "city": "Sanger"
+    },
+    {
+      "city": "Santa Ana"
+    },
+    {
+      "city": "Santa Barbara"
+    },
+    {
+      "city": "Santa Clara"
+    },
+    {
+      "city": "Santa Cruz"
+    },
+    {
+      "city": "Santa Maria"
+    },
+    {
+      "city": "Santa Rosa"
+    },
+    {
+      "city": "Santee"
+    },
+    {
+      "city": "Saratoga"
+    },
+    {
+      "city": "Scotts Valley"
+    },
+    {
+      "city": "Seaside"
+    },
+    {
+      "city": "Selma"
+    },
+    {
+      "city": "Shafter"
+    },
+    {
+      "city": "Sierra Madre"
+    },
+    {
+      "city": "Simi Valley"
+    },
+    {
+      "city": "Solana Beach"
+    },
+    {
+      "city": "Sonoma"
+    },
+    {
+      "city": "South Pasadena"
+    },
+    {
+      "city": "South San Francisco"
+    },
+    {
+      "city": "Suisun City"
+    },
+    {
+      "city": "Sunnyvale"
+    },
+    {
+      "city": "Susanville"
+    },
+    {
+      "city": "Taft"
+    },
+    {
+      "city": "Tehachapi"
+    },
+    {
+      "city": "Temecula"
+    },
+    {
+      "city": "Thousand Oaks"
+    },
+    {
+      "city": "Torrance"
+    },
+    {
+      "city": "Trinidad"
+    },
+    {
+      "city": "Tulare"
+    },
+    {
+      "city": "Twentynine Palms"
+    },
+    {
+      "city": "Ukiah"
+    },
+    {
+      "city": "Union City"
+    },
+    {
+      "city": "Upland"
+    },
+    {
+      "city": "Vacaville"
+    },
+    {
+      "city": "Vallejo"
+    },
+    {
+      "city": "Valley Center"
+    },
+    {
+      "city": "Ventura"
+    },
+    {
+      "city": "Victorville"
+    },
+    {
+      "city": "Visalia"
+    },
+    {
+      "city": "Vista"
+    },
+    {
+      "city": "Walnut Creek"
+    },
+    {
+      "city": "Wasco"
+    },
+    {
+      "city": "Watsonville"
+    },
+    {
+      "city": "Whittier"
+    },
+    {
+      "city": "Wildomar"
+    },
+    {
+      "city": "Willows"
+    },
+    {
+      "city": "Winchester"
+    },
+    {
+      "city": "Woodland"
+    },
+    {
+      "city": "Woodland Hills"
+    },
+    {
+      "city": "Yreka"
+    },
+    {
+      "city": "Yuba City"
+    },
+    {
+      "city": "Yucaipa"
+    },
+    {
+      "city": "Yucca Valley"
+    }
+  ],
+  "researchSummary": {
+    "sourceFiles": 4,
+    "rawHallRecords": 266,
+    "normalizedHallLeads": 266,
+    "exactDuplicateRecordsMerged": 0,
+    "cityLedgerEntries": 256,
+    "sharedVenueAliasGroups": 4,
+    "uniqueRecordedSignupRoutes": 21,
+    "publishedVerifiedUniqueRoutes": 17,
+    "unverifiedOrReviewSignupRoutes": 4,
+    "hallsWithNoVerifiedRoute": 248
+  }
+}
