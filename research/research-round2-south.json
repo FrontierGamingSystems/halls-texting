@@ -1,0 +1,1411 @@
+{
+  "checkedAt": "2026-09-11",
+  "scope": "Round 2 Southern California discovery and SMS/presales rescan. Web search plus one actual Google browser search; not a census. No forms submitted or messages sent. Null signup means no verified promotional SMS route on inspected material; access failures are recorded separately.",
+  "cityCoverage": [
+    {
+      "city": "Chula Vista",
+      "queries": [
+        "Chula Vista bingo church Elks VFW cash bingo",
+        "\"Chula Vista\" bingo senior center"
+      ],
+      "checkedUrls": [
+        "https://www.chulavistaca.gov/departments/parks-and-recreation/community-centers/norman-park-senior-center"
+      ],
+      "notes": "Official Norman Park page and newsletter link identified; no bingo session or SMS verified in extracted page."
+    },
+    {
+      "city": "National City",
+      "queries": [
+        "National City bingo church senior center cash"
+      ],
+      "checkedUrls": [
+        "https://www.nationalcityca.gov/home/showpublisheddocument/22923/637079514206170000"
+      ],
+      "notes": "Historical Kimball Senior Center bingo lead, not added as currently verified."
+    },
+    {
+      "city": "Escondido",
+      "queries": [
+        "Escondido bingo Knights Columbus Elks",
+        "\"Escondido\" \"bingo\" \"center\""
+      ],
+      "checkedUrls": [
+        "https://www.escondido.gov/facilities/facility/details/Park-Avenue-Community-Center-3"
+      ],
+      "notes": "New senior-center lead; exclude historical 1986 church/news from active-hall evidence."
+    },
+    {
+      "city": "San Marcos",
+      "queries": [
+        "San Marcos California bingo hall senior center"
+      ],
+      "checkedUrls": [
+        "https://www.sanmarcosca.gov/Parks-Recreation/Senior-Center"
+      ],
+      "notes": "New city bingo lead; dated renovation venue and inaccessible September PDF leave current schedule unresolved. Texas results excluded."
+    },
+    {
+      "city": "Huntington Beach",
+      "queries": [
+        "\"Huntington Beach\" \"Elks\" \"Bingo\""
+      ],
+      "checkedUrls": [
+        "https://hbelks.com/",
+        "https://hbelks.com/contact/"
+      ],
+      "notes": "Elks new record; current site plus archived official bingo flyers. Current schedule not established."
+    },
+    {
+      "city": "Oxnard",
+      "queries": [
+        "\"Oxnard\" \"bingo\" church"
+      ],
+      "checkedUrls": [
+        "https://www.santaclaraparish.org/social-seniors"
+      ],
+      "notes": "Santa Clara parish senior potluck/bingo group found; no regular cash hall or SMS route verified. Not counted as a distinct confirmed hall."
+    },
+    {
+      "city": "Santa Clarita",
+      "queries": [
+        "\"Santa Clarita\" bingo text",
+        "Santa Clarita Elks bingo 2379"
+      ],
+      "checkedUrls": [
+        "https://scelks2379.org/"
+      ],
+      "notes": "Current public Thursday/Sunday Elks bingo found."
+    },
+    {
+      "city": "Long Beach",
+      "queries": [
+        "\"Long Beach\" bingo \"Elks\""
+      ],
+      "checkedUrls": [
+        "https://www.elksonline.org/embed_longbeach/"
+      ],
+      "notes": "Long Beach#1937 is Washington, excluded. Lakewood/Bellflower#888 lead is in Hawaiian Gardens, not a new Long Beach hall."
+    },
+    {
+      "city": "Brawley",
+      "queries": [
+        "\"Brawley\" bingo senior center"
+      ],
+      "checkedUrls": [
+        "https://cityofbrawley.recdesk.com/Community/Facility/Detail?facilityId=3",
+        "https://icadrc.org/senior-life-community/"
+      ],
+      "notes": "Senior center identified; exact bingo program not verified, no record added."
+    },
+    {
+      "city": "Costa Mesa",
+      "queries": [
+        "\"Costa Mesa\" \"bingo\" senior center"
+      ],
+      "checkedUrls": [
+        "https://cmhsbingo.yourwebsitespace.com/"
+      ],
+      "notes": "Booster Tuesday bingo shares senior-center venue, counted once."
+    },
+    {
+      "city": "Santa Paula",
+      "queries": [
+        "\"Santa Paula\" \"bingo\""
+      ],
+      "checkedUrls": [],
+      "notes": "Results were legal code and 2009 Piru event; no current qualifying hall or route verified."
+    },
+    {
+      "city": "La Habra",
+      "queries": [
+        "\"La Habra\" bingo cash"
+      ],
+      "checkedUrls": [],
+      "notes": "Results primarily licensing and neighboring Placentia. No city-specific hall verified."
+    },
+    {
+      "city": "Buena Park",
+      "queries": [
+        "\"Buena Park\" bingo senior center"
+      ],
+      "checkedUrls": [
+        "https://cms7files1.revize.com/buenaparkca/January%202023%20KEY.pdf"
+      ],
+      "notes": "Historical city senior bingo lead; not added as currently verified. Placentia near-Buena-Park SEO page not a hall here."
+    },
+    {
+      "city": "Yorba Linda",
+      "queries": [
+        "\"Yorba Linda\" bingo center"
+      ],
+      "checkedUrls": [
+        "https://www.yorbalindaca.gov/facilities/facility/details/Yorba-Linda-Community-Center-1",
+        "https://ucanr.edu/site/uc-master-gardeners-orange-county/event/house-plant-bingo-yorba-linda"
+      ],
+      "notes": "Senior bingo historical lead; library houseplant-prize event not treated as ongoing cash hall."
+    },
+    {
+      "city": "Westminster",
+      "queries": [
+        "\"Westminster\" California bingo senior"
+      ],
+      "checkedUrls": [
+        "https://www.westminster-ca.gov/Home/Components/Calendar/Event/2056/16?curm=1&cury=2026"
+      ],
+      "notes": "New dated 2026 senior bingo event lead; recurrence unresolved."
+    },
+    {
+      "city": "Simi Valley",
+      "queries": [
+        "\"bingo\" \"text\" \"Simi Valley\"",
+        "\"Simi Valley\" \"St. Peter Claver\" bingo",
+        "St Peter Claver Simi Valley bingo site:saintpeterclaver.org"
+      ],
+      "checkedUrls": [
+        "https://www.saintpeterclaver.org/copy-of-blood-drive",
+        "https://simivalleyelks.com/bingo",
+        "https://kc5803.org/bingo"
+      ],
+      "notes": "New St. Peter Claver; Elks and Knights rescanned. Flocknote blocked, no bingo SMS inferred."
+    },
+    {
+      "city": "Santa Barbara",
+      "queries": [
+        "\"Santa Barbara\" \"bingo\" \"Davis\""
+      ],
+      "checkedUrls": [],
+      "notes": "Focused query did not establish another hall. Chumash bingo nearby Santa Ynez separately verified, not assigned to Santa Barbara."
+    },
+    {
+      "city": "Ojai",
+      "queries": [
+        "\"Ojai\" \"bingo\""
+      ],
+      "checkedUrls": [
+        "https://www.ojai.ca.gov/599/The-Thursday-Social-Club",
+        "https://www.ojaihub.com/event/american-legion-auxiliary-bingo/"
+      ],
+      "notes": "American Legion Auxiliary 2023 Tuesday event and city social bingo lead; current conventional cash hall not established."
+    },
+    {
+      "city": "Camarillo",
+      "queries": [
+        "\"Camarillo\" \"bingo\" \"American Legion\""
+      ],
+      "checkedUrls": [
+        "https://camlegion.org/flyers"
+      ],
+      "notes": "New Post 741 lead with indexed every-other-Sunday recurrence; direct snapshot flyer differs."
+    },
+    {
+      "city": "Palm Springs",
+      "queries": [
+        "\"Palm Springs\" \"bingo\" \"senior\"",
+        "Southern California bingo SMS text signup [Google browser]"
+      ],
+      "checkedUrls": [
+        "https://www.aguacalientecasinos.com/agua-special/ps-hot-spot-bingo/",
+        "https://www.aguacalientecasinos.com/casino/emailsignup/"
+      ],
+      "notes": "Google led to current Agua Hot Spot Bingo; public official SMS keyword verified. Florida results excluded."
+    },
+    {
+      "city": "Banning",
+      "queries": [
+        "\"Banning\" \"bingo\" \"center\""
+      ],
+      "checkedUrls": [],
+      "notes": "Query returned unrelated bans rather than a verified city hall; remains research gap."
+    },
+    {
+      "city": "Yucca Valley",
+      "queries": [
+        "\"Yucca Valley\" \"bingo\" \"senior\""
+      ],
+      "checkedUrls": [
+        "https://www.yucca-valley.org/home/showpublisheddocument/9722/639131468353230000"
+      ],
+      "notes": "New senior-club Friday bingo lead; May 2026 schedule."
+    },
+    {
+      "city": "San Jacinto",
+      "queries": [
+        "\"San Jacinto\" \"bingo\""
+      ],
+      "checkedUrls": [
+        "https://www.sanjacintoca.gov/community/parks_facilities/san_jacinto_community_center"
+      ],
+      "notes": "New community center bingo confirmed; exact weekday not published."
+    },
+    {
+      "city": "Santa Ynez",
+      "queries": [
+        "Southern California bingo SMS text signup [Google browser]",
+        "site:chumashcasino.com bingo 2026"
+      ],
+      "checkedUrls": [
+        "https://chumashcasino.com/casino/bingo",
+        "https://chumashcasino.com/sms-sign-up",
+        "https://chumashcasino.com/footer-links/sms-help"
+      ],
+      "notes": "New current Chumash bingo and public SMS signup."
+    },
+    {
+      "city": "Palmdale",
+      "queries": [
+        "\"bingo\" \"Palmdale\" \"text\""
+      ],
+      "checkedUrls": [],
+      "notes": "No qualifying promotional SMS found; supply-shop Giftly texts and college wellbeing short code excluded."
+    },
+    {
+      "city": "Ventura",
+      "queries": [
+        "\"bingo\" \"Ventura\" \"SMS\""
+      ],
+      "checkedUrls": [],
+      "notes": "No new verified route; unrelated person named Bingo Ventura excluded."
+    },
+    {
+      "city": "Cypress",
+      "queries": [
+        "\"bingo\" \"text\" \"Cypress\""
+      ],
+      "checkedUrls": [
+        "https://cypressbingohall.com/friday/",
+        "https://cypressbingohall.com/monday/"
+      ],
+      "notes": "Friday contact number 6576985197 is questions only. Later fetches timed out; six sponsor nights remain one physical hall. No new subscription found."
+    },
+    {
+      "city": "Hawaiian Gardens",
+      "queries": [
+        "\"bingo\" \"text\" \"Hawaiian Gardens\""
+      ],
+      "checkedUrls": [],
+      "notes": "Historical articles only in focused query; no new SMS found."
+    },
+    {
+      "city": "Santa Ana",
+      "queries": [
+        "\"bingo\" \"text\" \"Santa Ana\""
+      ],
+      "checkedUrls": [
+        "https://www.saelks.com/bingo",
+        "https://www.saelks.com/contact-3"
+      ],
+      "notes": "Elks Monday schedule and contact reviewed; non-California Santa Ana results excluded."
+    },
+    {
+      "city": "Mission Viejo",
+      "queries": [
+        "\"bingo\" \"text\" \"Trabuco\""
+      ],
+      "checkedUrls": [
+        "https://thhsmusic.com/2019_2020/Music_Boosters/Fundraisers.asp"
+      ],
+      "notes": "Historical Trabuco fundraiser page has volunteer online signup, not promotional SMS. Current hall schedule not newly verified."
+    }
+  ],
+  "newHalls": [
+    {
+      "name": "Chumash Casino Resort Bingo",
+      "city": "Santa Ynez",
+      "address": "3400 East Highway 246, Santa Ynez, CA 93460",
+      "addressSourceUrl": "https://chumashcasino.com/sms-sign-up",
+      "region": "Southern California",
+      "website": "https://chumashcasino.com/casino/bingo",
+      "sourceUrls": [
+        "https://chumashcasino.com/casino/bingo",
+        "https://chumashcasino.com/casino",
+        "https://chumashcasino.com/sms-sign-up",
+        "https://chumashcasino.com/footer-links/sms-help"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "CHUMASH",
+        "destination": "54000",
+        "sourceUrl": "https://chumashcasino.com/footer-links/sms-help",
+        "note": "Casino-wide campaign; terms say reply YES MM/DD/YYYY (birthdate) after initial opt-in. Do not fabricate DOB. Same page separately advertises LOCATION keyword and location-service terms; user should review scope. Alternative phone-only signup form: https://chumashcasino.com/sms-sign-up"
+      },
+      "evidence": "Current September 2026 bingo calendar and standalone SMS form. SMS Help specifies CHUMASH to 54000, followed by YES plus birthdate. Campaign is casino-wide; bingo-only selection not verified.",
+      "confidence": "high",
+      "schedule": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Saturday"
+        ],
+        "details": "Regular Sunday 1 pm and Monday–Wednesday 6 pm. September specials: Saturday Sep 12 7:30 pm and Sep 26 6 pm; Sunday Sep 20 mini marathon and Sep 27 HAKU at 1 pm. Saturday is date-specific, not every Saturday.",
+        "sourceUrl": "https://chumashcasino.com/casino/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://chumashcasino.com/casino/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "published_recurring"
+    },
+    {
+      "name": "Agua Caliente Palm Springs — Hot Spot Bingo",
+      "city": "Palm Springs",
+      "address": "401 E Amado Road, Palm Springs, CA 92262",
+      "addressSourceUrl": "https://www.aguacalientecasinos.com/agua-special/ps-hot-spot-bingo/",
+      "region": "Southern California",
+      "website": "https://www.aguacalientecasinos.com/agua-special/ps-hot-spot-bingo/",
+      "sourceUrls": [
+        "https://www.aguacalientecasinos.com/agua-special/ps-hot-spot-bingo/",
+        "https://www.aguacalientecasinos.com/casino/emailsignup/",
+        "https://www.aguacalientecasinos.com/email-subscription/"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "AGUA",
+        "destination": "7602928685",
+        "sourceUrl": "https://www.aguacalientecasinos.com/casino/emailsignup/",
+        "note": "Casino-wide marketing, not bingo-only. Alternative indexed /email-subscription/ form describes sending shortcode 70683, but live open 403. Use exact published keyword only; do not infer keyword for 70683."
+      },
+      "evidence": "Official 2026 Monday event in Cascade Lounge. Free ACE Club admission; played on phones and awards slot free play rather than cash. Official newsletter/SMS page publishes AGUA to 7602928685. Property-wide marketing, not bingo-only.",
+      "confidence": "high",
+      "schedule": {
+        "days": [
+          "Monday"
+        ],
+        "details": "Mondays March 2–December 21, 2026, 7–8:30 pm. Check-in times on page conflict (5:30 pm event details / 6 pm rules); no reserved seating.",
+        "sourceUrl": "https://www.aguacalientecasinos.com/agua-special/ps-hot-spot-bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "Official event explicitly first-come seating and no reservations; free ACE Club admission, not a buy-in checkout.",
+        "sourceUrl": "https://www.aguacalientecasinos.com/agua-special/ps-hot-spot-bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "published_recurring"
+    },
+    {
+      "name": "Santa Clarita Elks Lodge #2379 Bingo",
+      "city": "Santa Clarita",
+      "address": "17766 Sierra Hwy, Santa Clarita, CA 91351",
+      "addressSourceUrl": "https://scelks2379.org/",
+      "region": "Southern California",
+      "website": "https://scelks2379.org/",
+      "sourceUrls": [
+        "https://scelks2379.org/",
+        "https://www.elks.org/lodges/lodgefacilities.cfm?lodgenumber=2379",
+        "https://www.blpublishing.net/santaclaritaelks",
+        "https://file.lacounty.gov/SDSInter/bos/supdocs/216758.pdf"
+      ],
+      "signup": null,
+      "evidence": "Official site explicitly opens bingo to public. Publisher lists Thursday doors 5 pm/early bird 6:15 pm/regular 7 pm, differing from current lodge's 6 pm. County 2026 license application corroborates venue. No SMS route found on home/contact/footer text.",
+      "confidence": "high",
+      "schedule": {
+        "days": [
+          "Thursday",
+          "Sunday"
+        ],
+        "details": "Thursday bingo 6 pm; Sunday 12:30 pm per official lodge home. Publisher's Thursday timing differs; confirm before travel.",
+        "sourceUrl": "https://scelks2379.org/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://scelks2379.org/",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "published_recurring"
+    },
+    {
+      "name": "Costa Mesa Boosters Bingo at Costa Mesa Senior Center",
+      "city": "Costa Mesa",
+      "address": "695 West 19th Street, Costa Mesa, CA 92627",
+      "addressSourceUrl": "https://cmhsbingo.yourwebsitespace.com/",
+      "region": "Southern California",
+      "website": "https://cmhsbingo.yourwebsitespace.com/",
+      "sourceUrls": [
+        "https://cmhsbingo.yourwebsitespace.com/",
+        "https://cmhsbingo.yourwebsitespace.com/about"
+      ],
+      "signup": null,
+      "evidence": "Operator site advertises Tuesday cash paper/pull-tab bingo supporting students. Phone and email are contacts, no SMS invitation. Site is undated; current operation should be confirmed.",
+      "confidence": "medium",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "Every Tuesday; doors 5 pm, early bird 6 pm. Regular main-game time not separately stated.",
+        "sourceUrl": "https://cmhsbingo.yourwebsitespace.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://cmhsbingo.yourwebsitespace.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    },
+    {
+      "name": "St. Peter Claver Parish Bingo",
+      "city": "Simi Valley",
+      "address": "5649 Pittman St, Simi Valley, CA 93063",
+      "addressSourceUrl": "https://www.saintpeterclaver.org/copy-of-blood-drive",
+      "region": "Southern California",
+      "website": "https://www.saintpeterclaver.org/copy-of-blood-drive",
+      "sourceUrls": [
+        "https://www.saintpeterclaver.org/copy-of-blood-drive",
+        "https://localbingohalls.com/stpeterclaver/",
+        "https://container.parishesonline.com/bulletins/05/0691/20251116B.pdf"
+      ],
+      "signup": null,
+      "evidence": "Official bingo page confirms weekly parish-center games and contact 8055262781; no promotional SMS invitation. Official page uses parish office address 5649 Pittman; local directory gives 2380 Stow for same parish campus. Treat as one venue, entrance address unresolved.",
+      "confidence": "high",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Every Thursday in Parish Center; doors 5 pm, games 6:30 pm; regular games pay $250.",
+        "sourceUrl": "https://www.saintpeterclaver.org/copy-of-blood-drive",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://www.saintpeterclaver.org/copy-of-blood-drive",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "published_recurring"
+    },
+    {
+      "name": "Huntington Beach Elks Lodge #1959 Bingo",
+      "city": "Huntington Beach",
+      "address": "7711 Talbert Ave, Huntington Beach, CA 92648",
+      "addressSourceUrl": "https://hbelks.com/",
+      "region": "Southern California",
+      "website": "https://hbelks.com/",
+      "sourceUrls": [
+        "https://hbelks.com/",
+        "https://hbelks.com/contact/",
+        "https://hb1959.com/wp-content/uploads/2022/07/08-22-Derrick.pdf",
+        "https://hb1959.com/wp-content/uploads/2022/12/Derrick-January-2023.pdf",
+        "https://localbingohalls.com/huntingtonbeachelks/"
+      ],
+      "signup": null,
+      "evidence": "Official archived lodge newsletters establish Wednesday bingo and current lodge site confirms location. Contact form has name/email/phone/message, not SMS subscription. Current weekly schedule not confirmed on modern site; retain as follow-up lead.",
+      "confidence": "medium",
+      "schedule": {
+        "days": [
+          "Wednesday"
+        ],
+        "details": "Historical August 2022 official flyer: doors 9 am, early bird 10:30 am, regular 11 am. Do not present as confirmed2026 schedule.",
+        "sourceUrl": "https://hb1959.com/wp-content/uploads/2022/07/08-22-Derrick.pdf",
+        "verifiedAt": "2026-09-11",
+        "evidenceStatus": "historical"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://hbelks.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    },
+    {
+      "name": "American Legion Post 741 Bingo",
+      "city": "Camarillo",
+      "address": "7 Veterans Way, Camarillo, CA 93010",
+      "addressSourceUrl": "https://camlegion.org/flyers",
+      "region": "Southern California",
+      "website": "https://camlegion.org/flyers",
+      "sourceUrls": [
+        "https://camlegion.org/flyers"
+      ],
+      "signup": null,
+      "evidence": "Search-indexed official Flyers page advertises every-other-Sunday bingo; direct page snapshot displayed a poker-run flyer instead. Location verified on official page. Recurrence and current bingo flyer need follow-up; no SMS route verified.",
+      "confidence": "medium",
+      "schedule": {
+        "days": [
+          "Sunday"
+        ],
+        "details": "Every other Sunday per indexed official page; exact dates and time not verified.",
+        "sourceUrl": "https://camlegion.org/flyers",
+        "verifiedAt": "2026-09-11",
+        "evidenceStatus": "search_index_only"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://camlegion.org/flyers",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    },
+    {
+      "name": "San Jacinto Community Center Bingo",
+      "city": "San Jacinto",
+      "address": "625 S Pico Ave, San Jacinto, CA 92583",
+      "addressSourceUrl": "https://www.sanjacintoca.gov/community/parks_facilities/san_jacinto_community_center",
+      "region": "Southern California",
+      "website": "https://www.sanjacintoca.gov/community/parks_facilities/san_jacinto_community_center",
+      "sourceUrls": [
+        "https://www.sanjacintoca.gov/community/parks_facilities/san_jacinto_community_center"
+      ],
+      "signup": null,
+      "evidence": "City lists bingo among free programs for adults 60+. No game weekday or SMS invitation published; general center opening hours deliberately not used as bingo schedule.",
+      "confidence": "high",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://www.sanjacintoca.gov/community/parks_facilities/san_jacinto_community_center",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "program_listed_schedule_unknown"
+    },
+    {
+      "name": "Park Avenue Community Center / Escondido Senior Center Bingo",
+      "city": "Escondido",
+      "address": "210 Park Avenue, Escondido, CA 92025",
+      "addressSourceUrl": "https://www.escondido.gov/facilities/facility/details/Park-Avenue-Community-Center-3",
+      "region": "Southern California",
+      "website": "https://www.escondido.gov/facilities/facility/details/Park-Avenue-Community-Center-3",
+      "sourceUrls": [
+        "https://www.escondido.gov/facilities/facility/details/Park-Avenue-Community-Center-3"
+      ],
+      "signup": null,
+      "evidence": "City lists auditorium bingo in its50+ senior center. Exact session/prize structure and current schedule not verified; no bingo SMS invitation. City website account notifications are not a bingo SMS program.",
+      "confidence": "medium",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://www.escondido.gov/facilities/facility/details/Park-Avenue-Community-Center-3",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    },
+    {
+      "name": "San Marcos Senior Center Bingo",
+      "city": "San Marcos",
+      "address": "111 Richmar Ave, San Marcos, CA 92069",
+      "addressSourceUrl": "https://www.sanmarcosca.gov/Parks-Recreation/Senior-Center",
+      "region": "Southern California",
+      "website": "https://www.sanmarcosca.gov/Parks-Recreation/Senior-Center",
+      "sourceUrls": [
+        "https://www.sanmarcosca.gov/Parks-Recreation/Senior-Center",
+        "https://www.sanmarcosca.gov/files/assets/city/v/2/parks-amp-recreation/_documents/recreation-guide/2026-winterspring-rec-guide.pdf",
+        "https://www.sanmarcosca.gov/files/assets/city/v/1/parks-amp-recreation/senior-center/documents/september-newsletter.pdf",
+        "https://lp.constantcontactpages.com/sl/OCWgQWs/seniors"
+      ],
+      "signup": null,
+      "evidence": "2026 city recreation guide lists bingo temporarily at Richmar Center during senior-center renovation January–March. Current senior-center page has email newsletter, no SMS offer. Current bingo room/session needs verification; do not treat temporary alternate as a second hall. September newsletter returned 403; linked email signup timed out, so current session remains unresolved.",
+      "confidence": "medium",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://www.sanmarcosca.gov/Parks-Recreation/Senior-Center",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    },
+    {
+      "name": "Yucca Valley Senior Club Bingo / Desert Willow Center",
+      "city": "Yucca Valley",
+      "address": "57088 Twentynine Palms Hwy, Yucca Valley, CA 92284",
+      "addressSourceUrl": "https://www.yucca-valley.org/Home/Components/Calendar/Event/2321/18?direct=true&npage=151&sortn=EDate&toggle=allpast",
+      "region": "Southern California",
+      "website": "https://www.yucca-valley.org/Home/Components/Calendar/Event/2321/18?direct=true&npage=151&sortn=EDate&toggle=allpast",
+      "sourceUrls": [
+        "https://www.yucca-valley.org/Home/Components/Calendar/Event/2321/18?direct=true&npage=151&sortn=EDate&toggle=allpast",
+        "https://www.yucca-valley.org/home/showpublisheddocument/9722/639131468353230000"
+      ],
+      "signup": null,
+      "evidence": "City's May 2026 newsletter lists Friday Senior Club Bingo; older city event confirms venue. No promotional SMS instruction verified. Do not confuse town hall57090 with bingo center57088.",
+      "confidence": "medium",
+      "schedule": {
+        "days": [
+          "Friday"
+        ],
+        "details": "May 2026 newsletter lists Friday 12–4 pm Senior Club Bingo. This is a dated monthly schedule, not confirmed September.",
+        "sourceUrl": "https://www.yucca-valley.org/home/showpublisheddocument/9722/639131468353230000",
+        "verifiedAt": "2026-09-11",
+        "evidenceStatus": "dated_may_2026"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://www.yucca-valley.org/Home/Components/Calendar/Event/2321/18?direct=true&npage=151&sortn=EDate&toggle=allpast",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    },
+    {
+      "name": "Westminster Senior Center Bingo",
+      "city": "Westminster",
+      "address": "8200 Westminster Blvd, Westminster, CA 92683",
+      "addressSourceUrl": "https://www.westminster-ca.gov/Home/Components/Calendar/Event/2056/16?curm=1&cury=2026",
+      "region": "Southern California",
+      "website": "https://www.westminster-ca.gov/Home/Components/Calendar/Event/2056/16?curm=1&cury=2026",
+      "sourceUrls": [
+        "https://www.westminster-ca.gov/Home/Components/Calendar/Event/2056/16?curm=1&cury=2026"
+      ],
+      "signup": null,
+      "evidence": "Official city calendar documents Luck of the New Year Bingo Jan 8, 2026. Event lead only; ongoing cash-hall schedule not established. No verified SMS opt-in.",
+      "confidence": "medium",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "One dated event: January 8, 2026,1–3 pm. Recurring schedule not verified.",
+        "sourceUrl": "https://www.westminster-ca.gov/Home/Components/Calendar/Event/2056/16?curm=1&cury=2026",
+        "verifiedAt": "2026-09-11",
+        "evidenceStatus": "single_past_event"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked material.",
+        "sourceUrl": "https://www.westminster-ca.gov/Home/Components/Calendar/Event/2056/16?curm=1&cury=2026",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "lead_needs_current_confirmation"
+    }
+  ],
+  "updates": [
+    {
+      "hallId": "mcalister",
+      "name": "McAlister Institute Bingo",
+      "city": "El Cajon",
+      "address": "1365 N Johnson Ave, Suites 109–110, El Cajon, CA 92020",
+      "addressSourceUrl": "https://mcalisterinc.org/bingo/",
+      "website": "https://mcalisterinc.org/bingo/",
+      "checkedUrls": [
+        "https://mcalisterinc.org/bingo/"
+      ],
+      "signup": null,
+      "evidence": "Official bingo page and footer/contact information inspected. Three weekly sessions and exact suites confirmed.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Friday/Saturday doors 2 pm, early bird 6:10 pm, main 6:30 pm. Sunday doors 10 am, early bird 1 pm, main 1:30 pm.",
+        "sourceUrl": "https://mcalisterinc.org/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://mcalisterinc.org/bingo/",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "vai-o-le-ola",
+      "name": "Vai O Le Ola Bingo",
+      "city": "Lakewood",
+      "address": "5420 Clark Ave, Lakewood, CA 90712",
+      "addressSourceUrl": "https://vaioleola.org/bingo-program",
+      "website": "https://vaioleola.org/bingo-program",
+      "checkedUrls": [
+        "https://vaioleola.org/bingo-program"
+      ],
+      "signup": null,
+      "evidence": "Official bingo program, committee and footer inspected. Email contacts only; no SMS opt-in.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Thursday night; doors 4 pm, games 6:30 pm.",
+        "sourceUrl": "https://vaioleola.org/bingo-program",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://vaioleola.org/bingo-program",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-a043d4b841db",
+      "name": "St. Bernard School Bingo",
+      "city": "Bellflower",
+      "address": "9647 Beach St, Bellflower, CA 90706",
+      "addressSourceUrl": "https://www.stbernardcatholicschool.com/bingo.html",
+      "website": "https://www.stbernardcatholicschool.com/bingo.html",
+      "checkedUrls": [
+        "https://www.stbernardcatholicschool.com/bingo.html",
+        "https://www.airmenu.com/bingomenow?cookielocalok=&locale=en"
+      ],
+      "signup": null,
+      "evidence": "Bingo page links Purchase BingoMeNow; follows to general AirMenu/BingoMeNow portal. Portal web extraction stops at loading/cookie message, so no hall-specific SMS consent verified.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Friday"
+        ],
+        "details": "Every Friday; doors 4 pm, games 6 pm.",
+        "sourceUrl": "https://www.stbernardcatholicschool.com/bingo.html",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "BingoMeNow / AirMenu",
+          "url": "https://www.airmenu.com/bingomenow?cookielocalok=&locale=en",
+          "evidence": "Official bingo page explicitly links Purchase BingoMeNow Here."
+        }
+      ],
+      "presales": {
+        "status": "available",
+        "platform": "BingoMeNow / AirMenu",
+        "url": "https://www.airmenu.com/bingomenow?cookielocalok=&locale=en",
+        "details": "Operator advertises pre-purchase. Linked portal requires JavaScript/cookies; current inventory and checkout not verified.",
+        "sourceUrl": "https://www.stbernardcatholicschool.com/bingo.html",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-ff15b1082f3b",
+      "name": "Bell-Jeff / Burbank Social Bingo",
+      "city": "Burbank",
+      "address": "465 E Olive Ave, Burbank, CA 91501",
+      "addressSourceUrl": "https://www.burbankbingo.com/contact.html",
+      "website": "https://www.burbankbingo.com/",
+      "checkedUrls": [
+        "https://www.burbankbingo.com/",
+        "https://www.burbankbingo.com/contact.html",
+        "https://www.burbankbingo.com/games.html",
+        "https://order.toasttab.com/online/srb-church-bell-jeff-hs-520-e-orange-grove-ave",
+        "https://www.toasttab.com/srb-church-bell-jeff-hs-520-e-orange-grove-ave/rewardsSignup"
+      ],
+      "signup": null,
+      "evidence": "Home, contact, rules and raw home HTML inspected. Image-wrapped Pre-Order Sep 8 link points to Toast ordering; separate loyalty image points to rewardsSignup. Web text extraction omitted both links. Order page returned 403; rewardsSignup HTML is a JavaScript shell, so SMS consent was not verified. Game times are 6 pm and 6:45 pm but weekday was not verified.",
+      "notes": "Buried image links require follow-up in an interactive browser. No promotional SMS opt-in verified.",
+      "schedule": null,
+      "platforms": [
+        {
+          "name": "Toast",
+          "url": "https://order.toasttab.com/online/srb-church-bell-jeff-hs-520-e-orange-grove-ave",
+          "evidence": "Official bingo home links its pre-sale bingo image under Pre-Order Sep 8 to this ordering page."
+        },
+        {
+          "name": "Toast Loyalty",
+          "url": "https://www.toasttab.com/srb-church-bell-jeff-hs-520-e-orange-grove-ave/rewardsSignup",
+          "evidence": "Official loyalty image links to rewardsSignup. A rewards form is not itself verified promotional SMS consent."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "Toast",
+        "url": "https://order.toasttab.com/online/srb-church-bell-jeff-hs-520-e-orange-grove-ave",
+        "details": "Actual operator-linked bingo preorder target discovered in image link. Heading is Sep 8, now past; checkout returned 403. Current purchase availability and contents unverified.",
+        "sourceUrl": "https://www.burbankbingo.com/",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-9df567758c37",
+      "name": "Platinum Bingo",
+      "city": "Placentia",
+      "address": "901 N Bradford Ave, Placentia, CA 92870",
+      "addressSourceUrl": "https://platinumbingo.net/",
+      "website": "https://platinumbingo.net/",
+      "checkedUrls": [
+        "https://platinumbingo.net/",
+        "https://platinumbingo.net/visit/"
+      ],
+      "signup": null,
+      "evidence": "Full home/footer and Visit/contact page: telephone seat reservations only, no SMS program. Three sessions one venue; near-city SEO pages are not additional halls.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Tuesday",
+          "Sunday"
+        ],
+        "details": "Tuesday 11 am–2 pm and 6–10 pm; Sunday 3–7:30 pm.",
+        "sourceUrl": "https://platinumbingo.net/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "Reserve Your Seat directs callers to 7144988221; no verified paid online bingo checkout.",
+        "sourceUrl": "https://platinumbingo.net/",
+        "verifiedAt": "2026-09-11"
+      },
+      "duplicateHallIds": [
+        "area-placentia-platinum-bingo"
+      ]
+    },
+    {
+      "hallId": "hall-59336e924e1d",
+      "name": "Japanese-American Cultural Center of Vista",
+      "city": "Vista",
+      "address": "150 Cedar Rd B, Vista, CA 92083",
+      "addressSourceUrl": "https://jaccofvista.com/bingo/",
+      "website": "https://jaccofvista.com/bingo/",
+      "checkedUrls": [
+        "https://jaccofvista.com/bingo/"
+      ],
+      "signup": null,
+      "evidence": "Official public weekly bingo page and footer inspected. Contact number for information only.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Every Thursday 5–10 pm; holiday schedules may vary.",
+        "sourceUrl": "https://jaccofvista.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://jaccofvista.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "duarte-elks",
+      "name": "Duarte Elks Bingo",
+      "city": "Duarte",
+      "address": "2436 Huntington Dr, Duarte, CA",
+      "addressSourceUrl": "https://www.duarteelks.org/Bingo.html",
+      "website": "https://www.duarteelks.org/Bingo.html",
+      "checkedUrls": [
+        "https://www.duarteelks.org/Bingo.html"
+      ],
+      "signup": null,
+      "evidence": "Official bingo return announcement says restarted August 19, 2025. Page and footer provide no subscription mechanism.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "Every Tuesday night; game time not published in extracted text.",
+        "sourceUrl": "https://www.duarteelks.org/Bingo.html",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://www.duarteelks.org/Bingo.html",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "arcadia-elks",
+      "name": "Arcadia Elks Bingo",
+      "city": "Arcadia",
+      "address": "27 W Huntington Ave, Arcadia, CA 91006",
+      "addressSourceUrl": "https://arcadiaelks.org/bingo",
+      "website": "https://arcadiaelks.org/bingo",
+      "checkedUrls": [
+        "https://arcadiaelks.org/bingo"
+      ],
+      "signup": null,
+      "evidence": "Bingo page and address section inspected. Latest menu directed to Facebook group, no text subscription.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Thursday; doors 3:30 pm, flash4:30 pm, bingo6 pm.",
+        "sourceUrl": "https://arcadiaelks.org/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://arcadiaelks.org/bingo",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-55ec7628337d",
+      "name": "Santa Ana Elks Bingo",
+      "city": "Santa Ana",
+      "address": "1751 S Elks Lane, Santa Ana, CA 92705",
+      "addressSourceUrl": "https://www.saelks.com/bingo",
+      "website": "https://www.saelks.com/bingo",
+      "checkedUrls": [
+        "https://www.saelks.com/bingo",
+        "https://www.saelks.com/contact-3"
+      ],
+      "signup": null,
+      "evidence": "Bingo and contact pages checked. Contact form offers name/email/message, no SMS checkbox. Bingo is Monday despite generic footer showing lodge closed Mondays; preserve explicit bingo schedule.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Monday"
+        ],
+        "details": "Every Monday; exact game time not verified.",
+        "sourceUrl": "https://www.saelks.com/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://www.saelks.com/bingo",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "garden-grove-elks",
+      "name": "Garden Grove Elks Bingo",
+      "city": "Garden Grove",
+      "address": "11551 Trask Ave, Garden Grove, CA 92843",
+      "addressSourceUrl": "https://elks1952.org/bingo/",
+      "website": "https://elks1952.org/bingo/",
+      "checkedUrls": [
+        "https://elks1952.org/bingo/",
+        "https://elks1952.org/contact-us/"
+      ],
+      "signup": null,
+      "evidence": "Bingo, footer and Contact Us checked. Public Tuesday game; feedback/email routes do not constitute SMS signup.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "Every Tuesday; doors 3:30 pm, first game 6 pm.",
+        "sourceUrl": "https://elks1952.org/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://elks1952.org/bingo/",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "simi-valley-elks",
+      "name": "Simi Valley Elks Bingo",
+      "city": "Simi Valley",
+      "address": "1561 Kuehner Drive, Simi Valley, CA 93063",
+      "addressSourceUrl": "https://simivalleyelks.com/bingo",
+      "website": "https://simivalleyelks.com/bingo",
+      "checkedUrls": [
+        "https://simivalleyelks.com/bingo",
+        "https://simivalleyelks.com/contact-lodge",
+        "https://www.simivalley.org/home/showpublisheddocument/31882/639130712770800000"
+      ],
+      "signup": null,
+      "evidence": "Bingo and lodge-contact pages checked; email/Facebook contact only. City May 2026 newsletter flyer provides Wednesday weekday missing from operator page.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Wednesday"
+        ],
+        "details": "Wednesday 6:30 pm; operator doors 4 pm, pregame pull-tabs6 pm. Weekday from city May 2026 flyer.",
+        "sourceUrl": "https://www.simivalley.org/home/showpublisheddocument/31882/639130712770800000",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://simivalleyelks.com/bingo",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-a7878962c2ce",
+      "name": "Knights of Columbus Council 5803 Bingo",
+      "city": "Simi Valley",
+      "address": "4191 Cochran Street, Simi Valley, CA 93063",
+      "addressSourceUrl": "https://kc5803.org/bingo",
+      "website": "https://kc5803.org/bingo",
+      "checkedUrls": [
+        "https://kc5803.org/bingo",
+        "https://www.flocknote.com/kcsimi",
+        "https://kc5803.org/bingosept26"
+      ],
+      "signup": null,
+      "evidence": "Bingo page links Flocknote, but destination returns 403; no bingo group or SMS route verified. Marathon purchase form exists but explicitly not accepting responses. Actual bingo at Shepherd of the Valley, not council mailing address.",
+      "notes": "Flocknote inaccessible; do not equate absence of visible signup with no SMS program.",
+      "schedule": {
+        "days": [
+          "Saturday"
+        ],
+        "details": "Saturdays; doors 3 pm, early bird 4:45 pm, regular 5:30 pm; special marathon September 19, 2026.",
+        "sourceUrl": "https://kc5803.org/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "eCatholic",
+          "url": "https://kc5803.org/bingosept26",
+          "evidence": "Own marathon form offers $100/$150/$190 buy-ins and Proceed to Payment, powered by eCatholic."
+        },
+        {
+          "name": "Flocknote",
+          "url": "https://www.flocknote.com/kcsimi",
+          "evidence": "Link in official header; 403 prevented group/subscription inspection."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "eCatholic",
+        "url": "https://kc5803.org/bingosept26",
+        "details": "September 19, 2026 marathon buy-in form shows payment flow but says This form is not accepting responses at this time; not currently verified available.",
+        "sourceUrl": "https://kc5803.org/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "duplicateHallIds": [
+        "simi-knights"
+      ]
+    },
+    {
+      "hallId": "hall-24cc54a80d65",
+      "name": "CRI-Help Bingo",
+      "city": "North Hollywood",
+      "address": "8330 Lankershim Avenue, North Hollywood, CA 91604",
+      "addressSourceUrl": "https://cri-help.org/news-events/bingo.html",
+      "website": "https://cri-help.org/news-events/bingo.html",
+      "checkedUrls": [
+        "https://cri-help.org/news-events/bingo.html",
+        "https://www.airmenu.com/?cookielocalok=&layout=1541605322417&locale=en&mainEnterprise=1541605322417&r=1600783415263&returnURL=https%3A%2F%2Fwww.airmenu.com%2Fbingomenow%3Flocale%3Den%26cookielocalok%235",
+        "https://signup.e2ma.net/signup/2010882/1980502/"
+      ],
+      "signup": null,
+      "evidence": "Bingo page, footer, Pre-Buy-In link and newsletter link followed. Explicit updates are email; e2ma returns empty extracted form; AirMenu loading-only prevents SMS consent inspection.",
+      "notes": "Address copied as published, including ZIP 91604; postal accuracy not independently resolved.",
+      "schedule": {
+        "days": [
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Friday 6 pm (doors 4 pm); Saturday/Sunday 1 pm (doors 11 am).",
+        "sourceUrl": "https://cri-help.org/news-events/bingo.html",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "AirMenu / BingoMeNow",
+          "url": "https://www.airmenu.com/?cookielocalok=&layout=1541605322417&locale=en&mainEnterprise=1541605322417&r=1600783415263&returnURL=https%3A%2F%2Fwww.airmenu.com%2Fbingomenow%3Flocale%3Den%26cookielocalok%235",
+          "evidence": "Official PRE-BUY-IN link points to a hall-specific AirMenu layout and BingoMeNow returnURL."
+        }
+      ],
+      "presales": {
+        "status": "available",
+        "platform": "AirMenu / BingoMeNow",
+        "url": "https://www.airmenu.com/?cookielocalok=&layout=1541605322417&locale=en&mainEnterprise=1541605322417&r=1600783415263&returnURL=https%3A%2F%2Fwww.airmenu.com%2Fbingomenow%3Flocale%3Den%26cookielocalok%235",
+        "details": "Explicit official Pre-Buy-In link. Current app inventory/check-out not verified because portal extraction only shows loading/cookie message.",
+        "sourceUrl": "https://cri-help.org/news-events/bingo.html",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-56202ac4dd90",
+      "name": "Woman's Club of Downey Bingo",
+      "city": "Downey",
+      "address": "9813 Paramount Blvd, Downey, CA 90240",
+      "addressSourceUrl": "https://womansclubofdowney.org/bingo",
+      "website": "https://womansclubofdowney.org/bingo",
+      "checkedUrls": [
+        "https://womansclubofdowney.org/bingo"
+      ],
+      "signup": null,
+      "evidence": "Bingo page includes schedule, address, contact and sponsor list; no SMS subscription instruction.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Every Thursday except federal holidays; early bird noon, regular 12:30 pm, finishes3–3:30 pm; doors 10:30 am.",
+        "sourceUrl": "https://womansclubofdowney.org/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No advance bingo purchase route verified on checked pages.",
+        "sourceUrl": "https://womansclubofdowney.org/bingo",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "area-bosco-tech-bingo",
+      "name": "Bosco Tech Bingo",
+      "city": "Rosemead",
+      "address": "1151 San Gabriel Blvd, Rosemead, CA 91770",
+      "addressSourceUrl": "https://www.boscotech.edu/giving/bingo",
+      "website": "https://www.boscotech.edu/giving/bingo",
+      "checkedUrls": [
+        "https://www.boscotech.edu/giving/bingo",
+        "https://app.bingomenow.com/",
+        "https://www.airmenu.com/bingomenow"
+      ],
+      "signup": null,
+      "evidence": "Official bingo page has direct pre-buy instruction, Bingo Contact and school footer; no SMS route. BingoMeNow redirects to AirMenu which could not be fully inspected.",
+      "notes": "No promotional SMS opt-in verified on the checked public material; ordinary contact numbers are not enrollment routes.",
+      "schedule": {
+        "days": [
+          "Sunday"
+        ],
+        "details": "Typically Sundays; dates/times subject to weather and special events; official Facebook carries weekly changes.",
+        "sourceUrl": "https://www.boscotech.edu/giving/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "BingoMeNow / AirMenu",
+          "url": "https://app.bingomenow.com/",
+          "evidence": "Official operator says pre-buy bingo game cards and games via BingoMeNow app."
+        }
+      ],
+      "presales": {
+        "status": "available",
+        "platform": "BingoMeNow / AirMenu",
+        "url": "https://app.bingomenow.com/",
+        "details": "Explicit official prebuy offer; portal inventory/checkout not inspected.",
+        "sourceUrl": "https://www.boscotech.edu/giving/bingo",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "hall-20f21eae092e",
+      "name": "Fantasy Springs Resort Casino Bingo",
+      "city": "Indio",
+      "address": "84-245 Indio Springs Pkwy, Indio, CA 92203-3499",
+      "addressSourceUrl": "https://www.fantasyspringsresort.com/bingo/",
+      "website": "https://www.fantasyspringsresort.com/bingo/",
+      "checkedUrls": [
+        "https://www.fantasyspringsresort.com/bingo/",
+        "https://www.fantasyspringsresort.com/sms-sign-up/"
+      ],
+      "signup": {
+        "method": "web_form",
+        "keyword": null,
+        "destination": "https://www.fantasyspringsresort.com/sms-sign-up/",
+        "sourceUrl": "https://www.fantasyspringsresort.com/sms-sign-up/",
+        "note": "Property-wide recurring marketing; form requires DOB and Player ID. Preserve existing FANTASY→30721 evidence and enrollment; this is an alternative form."
+      },
+      "evidence": "Deep Quick Links Text Sign Up opens explicit recurring marketing form requiring mobile, name, email, DOB and Player ID. Alternate to already-known FANTASY keyword; not a newly discovered venue campaign.",
+      "notes": "Verified alternative recurring SMS form. Preserve the existing FANTASY to 30721 route and enrollment state.",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Monday–Saturday matinee 2:30 pm/main 6:30 pm; Sunday matinee11 am/main 2 pm; no reservations.",
+        "sourceUrl": "https://www.fantasyspringsresort.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "Official bingo page explicitly says No Reservations; no online bingo purchase route verified.",
+        "sourceUrl": "https://www.fantasyspringsresort.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      }
+    },
+    {
+      "hallId": "house-bingo-lax",
+      "name": "House Bingo LAX",
+      "city": "Inglewood",
+      "address": "685 S La Brea Ave, Inglewood, CA 90301",
+      "addressSourceUrl": "https://www.housebingolax.com/",
+      "website": "https://www.housebingolax.com/",
+      "checkedUrls": [
+        "https://www.housebingolax.com/",
+        "https://www.airmenu.com/bingohouseinglewood?cookielocalok=&locale=en",
+        "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "LAX",
+        "destination": "70503",
+        "sourceUrl": "https://www.bingo4fun.com/viewer.html?open_file=CAApr26Web_compressed.pdf",
+        "note": "Preserve previously verified April 2026 advertisement and confirmed enrollment. This follow-up did not discover another SMS route; homepage signup is email-only."
+      },
+      "schedule": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "September 2026 program listing: Monday and Wednesday–Sunday, doors 4 pm, early birds 6 pm, main 6:30 pm; closed Tuesdays. Operator homepage conflicts: doors 3 pm, early birds 6:30 pm, main 7–10 pm. Weekdays corroborated by September winner caption; confirm exact time before travel.",
+        "sourceUrl": "https://www.bingo4fun.com/viewer.html?open_file=CASep26Web_compressed.pdf",
+        "verifiedAt": "2026-09-11",
+        "evidenceStatus": "published_september_2026_with_operator_time_conflict"
+      },
+      "platforms": [
+        {
+          "name": "BingoMeNow / AirMenu",
+          "url": "https://www.airmenu.com/bingohouseinglewood?cookielocalok=&locale=en",
+          "evidence": "Official Reserve Seats button links to hall-specific /bingohouseinglewood portal; destination title is BingoMeNow."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "BingoMeNow / AirMenu",
+        "url": "https://www.airmenu.com/bingohouseinglewood?cookielocalok=&locale=en",
+        "details": "Official hall publishes $75/$125/$200 buy-ins and links Reserve Seats to its own portal. Portal extraction only shows loading/cookies, so paid advance buy-in and current inventory were not verified.",
+        "sourceUrl": "https://www.housebingolax.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "published_recurring",
+      "evidence": "Current operator site supplies address, bingo game times, buy-in prices and hall-specific reservation link. September publication confirms six bingo days and different times. Old Opening Soon blocks remain alongside We Are Open Now on the home page.",
+      "notes": "Retain confirmed enrollment. Do not confuse email-only website forms with an additional SMS route or imply a completed purchase flow."
+    },
+    {
+      "hallId": "bd-bingo-industry",
+      "name": "BD Industry Bingo",
+      "city": "City of Industry",
+      "address": "Industry Hills Expo Center Pavilion, 16200 Temple Ave, City of Industry, CA 91744",
+      "addressSourceUrl": "https://www.cityofindustry.org/AgendaCenter/ViewFile/Agenda/_01232025-10",
+      "website": "https://bluedevils.org/bingo/industry/",
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/industry/",
+        "https://www.cityofindustry.org/AgendaCenter/ViewFile/Agenda/_01232025-10",
+        "https://www.industryexpocenter.com/"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "Industry",
+        "destination": "70503",
+        "sourceUrl": "https://bluedevils.org/bingo/industry/",
+        "note": "Official reopening-update SMS route reverified; one to two texts weekly. Preserve confirmed enrollment."
+      },
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "Operator says bingo operations have ceased during Pavilion remodeling. No current bingo ticket or advance buy-in offered on this page. Global account/cart controls are unrelated and do not establish bingo presales.",
+        "sourceUrl": "https://bluedevils.org/bingo/industry/",
+        "verifiedAt": "2026-09-11"
+      },
+      "operatingStatus": "temporarily_suspended",
+      "evidence": "Official page still says operations have ceased for the foreseeable future and gives only a tentative fall 2026 relaunch. The city ADA plan identifies Expo Center street address; operator identifies Pavilion as the bingo room. No current operating weekdays established.",
+      "notes": "SMS subscription can remain active while hall operations are suspended. Tentative fall 2026 is not a verified reopening. Venue homepage was inaccessible; city primary source supports address."
+    }
+  ],
+  "methodNotes": [
+    "Google was actually inspected in a browser for Southern California bingo SMS text signup; most city queries used web search tool, not an asserted Google engine.",
+    "BingoMeNow corporate homepage advertises a demo/contact SMS form and platform SMS capability. These do not establish individual-hall promotional subscriptions. https://bingomenow.com/ and /stay-open-re-open/ inspected.",
+    "BSeenNow domain attempts failed. BingoMeNow app redirects to AirMenu; web text only showed loading/cookie message. Further browser creation returned IAB visibility unsupported in subagent, so no hall consent flow claim.",
+    "Search snippets and historical publications are explicitly marked. No form submitted, account created, ticket purchased, or outbound message sent.",
+    "New records are location-based and include community/event leads, not 28 confirmed current cash halls. Null schedule is intentional when only general hours exist.",
+    "Presales available means explicit operator-advertised purchase route, not successful checkout validation; portal limitations are retained.",
+    "Burbank home raw HTML exposed image-wrapped Toast preorder and loyalty signup links omitted by web extraction. Checkout returned 403; loyalty signup was a JavaScript shell. No SMS route inferred.",
+    "Focused follow-up added House Bingo LAX and BD Industry. Industry remains suspended; House September schedule conflicts with older-looking homepage times. Three Southern crawler candidates were reviewed; none yielded a new hall SMS campaign."
+  ],
+  "summary": {
+    "newVenueLeads": 12,
+    "existingVenuesRescanned": 18,
+    "cityCoverage": 30,
+    "newVenuesWithVerifiedSms": 2,
+    "additionalFormForExistingCampaign": 1,
+    "publishedScheduleRecords": 25,
+    "operatorAdvertisedPresales": 3,
+    "additionalUnresolvedPresales": 3
+  },
+  "followUpCandidateReview": [
+    {
+      "candidate": "BL Publishing contact SMS form",
+      "sourceUrl": "https://www.blpublishing.net/contactpage",
+      "finding": "Live page has SMS consent for publisher sponsor/advertiser enquiries, not a hall bingo subscription. It appears under several halls because crawler followed publisher navigation; do not apply it to those halls.",
+      "status": "excluded_wrong_campaign"
+    },
+    {
+      "candidate": "Norco citywide email/text alerts",
+      "sourceUrl": "https://www.norco.ca.us/departments/communications/sign-up-for-email-text-alerts",
+      "finding": "Automated snapshot describes city news and community alerts; live verification returned 403. No bingo-specific selection verified. Not assigned to Rose M. Eldridge Senior Center.",
+      "status": "inaccessible_scope_unverified"
+    },
+    {
+      "candidate": "Cypress Friday contact text",
+      "sourceUrl": "https://cypressbingohall.com/friday/",
+      "finding": "Automated snapshot labels 657-698-5197 as questions by text/call and RSVP, not a promotional opt-in. Follow-up fetch timed out. Earlier contact-only classification retained.",
+      "status": "no_verified_subscription"
+    }
+  ]
+}

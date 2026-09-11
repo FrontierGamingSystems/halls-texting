@@ -1,26 +1,124 @@
 {
-  "version": "2026-09-11-links-2",
+  "version": "2026-09-11-links-4-promotions",
   "links": [
-    {"url":"https://login.bseennow.net/p?c=523eCz","hallIds":["scout-bd-bingo-concord-blue-devils-aquanuts"],"evidence":"Opened Friday Highlights; GET TICKETS HERE links to bluedevils.org/bingo/concord/."},
-    {"url":"https://login.bseennow.net/p?c=LU4X9w","hallIds":["bd-bingo-suisun-city"],"evidence":"Opened page headed BD SUISUN; buy-in link is bluedevils.org/bingo/suisun-city/."},
-    {"url":"https://login.bseennow.net/b/jZa","finalUrl":"https://login.bseennow.net/p?c=3k1n5R","hallIds":["area-24th-street-bingo"],"evidence":"Followed short link; destination titled 24th Street Bingo and links to 24thstreet.bingo/."},
-    {"url":"https://login.bseennow.net/p?c=3k1n5R","hallIds":["area-24th-street-bingo"],"evidence":"Page title and hall website identify 24th Street Bingo."},
-    {"url":"https://tinyurl.com/spnhrca7","finalUrl":"https://login.bseennow.net/p?c=L4b10X","hallIds":["milpitas-charity"],"evidence":"Followed TinyURL and visually read Milpitas Charity Bingo on the destination flyer."},
-    {"url":"https://login.bseennow.net/p?c=L4b10X","hallIds":["milpitas-charity"],"evidence":"Destination flyer visibly names Milpitas Charity Bingo."},
-    {"url":"https://login.bseennow.net/b/jY6","finalUrl":"https://www.canva.com/design/DAHQsF9EobM/lP8K6p2zmdDzUDg3DOiG1A/view","hallIds":["aquamaids"],"evidence":"Link from named Aquamaids message redirects to its 8:10 Friday program flyer; preserves exact campaign mapping."}
+    {
+      "url": "https://login.bseennow.net/p?c=523eCz",
+      "hallIds": [
+        "scout-bd-bingo-concord-blue-devils-aquanuts"
+      ],
+      "evidence": "Opened Friday Highlights; GET TICKETS HERE links to bluedevils.org/bingo/concord/."
+    },
+    {
+      "url": "https://login.bseennow.net/p?c=LU4X9w",
+      "hallIds": [
+        "bd-bingo-suisun-city"
+      ],
+      "evidence": "Opened page headed BD SUISUN; buy-in link is bluedevils.org/bingo/suisun-city/."
+    },
+    {
+      "url": "https://login.bseennow.net/b/jZa",
+      "finalUrl": "https://login.bseennow.net/p?c=3k1n5R",
+      "hallIds": [
+        "area-24th-street-bingo"
+      ],
+      "evidence": "Followed short link; destination titled 24th Street Bingo and links to 24thstreet.bingo/."
+    },
+    {
+      "url": "https://login.bseennow.net/p?c=3k1n5R",
+      "hallIds": [
+        "area-24th-street-bingo"
+      ],
+      "evidence": "Page title and hall website identify 24th Street Bingo."
+    },
+    {
+      "url": "https://tinyurl.com/spnhrca7",
+      "finalUrl": "https://login.bseennow.net/p?c=L4b10X",
+      "hallIds": [
+        "milpitas-charity"
+      ],
+      "evidence": "Followed TinyURL and visually read Milpitas Charity Bingo on the destination flyer."
+    },
+    {
+      "url": "https://login.bseennow.net/p?c=L4b10X",
+      "hallIds": [
+        "milpitas-charity"
+      ],
+      "evidence": "Destination flyer visibly names Milpitas Charity Bingo."
+    },
+    {
+      "url": "https://login.bseennow.net/b/jY6",
+      "finalUrl": "https://www.canva.com/design/DAHQsF9EobM/lP8K6p2zmdDzUDg3DOiG1A/view",
+      "hallIds": [
+        "aquamaids"
+      ],
+      "evidence": "Link from named Aquamaids message redirects to its 8:10 Friday program flyer; preserves exact campaign mapping."
+    }
   ],
   "messages": {
-    "84471e74d7cb080e9caa66aabd3f4aaa":{"hallIds":["area-bd-bingo-sacramento-at-mandarins-event-center"],"evidence":"Audited enrollment: Sacramento keyword at09:25:14Z, this prompt at09:25:20Z, YES and Sacramento welcome followed."},
-    "57fde4df49dd255788d2e39a01ebd3d0":{"hallIds":["bd-bingo-industry"],"evidence":"Audited enrollment: Industry keyword at09:39:32Z, this prompt at09:39:40Z, YES and Industry welcome followed."},
-    "d9992b462649e6fa8e0381d7e19c4737":{"hallIds":["house-bingo-lax"],"evidence":"Audited enrollment: LAX keyword, Home at Last prompt, YES and House8ingo welcome in the same enrollment sequence."},
-    "5e09e727a11b142be1b814a7b9e7855b":{"hallIds":["area-24th-street-bingo"],"evidence":"Personalization request six seconds after 24th Street welcome; reviewed against enrollment history.","actionStatus":"Name and ZIP sent"},
-    "30980a0fb9bfa5744955ceb4a9a2a6db":{"hallIds":["scout-salinas-park-n-play-bingo"],"evidence":"Named Salinas profile prompt. Requested name sent from dedicated number.","actionStatus":"Name sent"},
-    "9ed98d199e88b5f0c1f972d192621c7b":{"hallIds":["hall-707ecd62e7a8"],"evidence":"Welcome followed BINGO signup to verified Fresno program number15598621040; name sent.","actionStatus":"Name sent"}
+    "84471e74d7cb080e9caa66aabd3f4aaa": {
+      "hallIds": [
+        "area-bd-bingo-sacramento-at-mandarins-event-center"
+      ],
+      "evidence": "Audited enrollment: Sacramento keyword at09:25:14Z, this prompt at09:25:20Z, YES and Sacramento welcome followed."
+    },
+    "57fde4df49dd255788d2e39a01ebd3d0": {
+      "hallIds": [
+        "bd-bingo-industry"
+      ],
+      "evidence": "Audited enrollment: Industry keyword at09:39:32Z, this prompt at09:39:40Z, YES and Industry welcome followed."
+    },
+    "d9992b462649e6fa8e0381d7e19c4737": {
+      "hallIds": [
+        "house-bingo-lax"
+      ],
+      "evidence": "Audited enrollment: LAX keyword, Home at Last prompt, YES and House8ingo welcome in the same enrollment sequence."
+    },
+    "5e09e727a11b142be1b814a7b9e7855b": {
+      "hallIds": [
+        "area-24th-street-bingo"
+      ],
+      "evidence": "Personalization request six seconds after 24th Street welcome; reviewed against enrollment history.",
+      "actionStatus": "Name and ZIP sent"
+    },
+    "30980a0fb9bfa5744955ceb4a9a2a6db": {
+      "hallIds": [
+        "scout-salinas-park-n-play-bingo"
+      ],
+      "evidence": "Named Salinas profile prompt. Requested name sent from dedicated number.",
+      "actionStatus": "Name sent"
+    },
+    "9ed98d199e88b5f0c1f972d192621c7b": {
+      "hallIds": [
+        "hall-707ecd62e7a8"
+      ],
+      "evidence": "Welcome followed BINGO signup to verified Fresno program number15598621040; name sent.",
+      "actionStatus": "Name sent"
+    }
   },
   "dedicatedSenders": {
-    "15598621040":{"hallIds":["hall-707ecd62e7a8"],"evidence":"Verified Fresno bingo enrollment number; welcome and lgbtqfresno.com/events follow-up received."},
-    "17076812030":{"hallIds":["scout-napa-bingo-emporium"],"evidence":"Official Napa Bingo text-list number; successful welcome received."},
-    "18447611844":{"hallIds":["scout-salinas-park-n-play-bingo"],"evidence":"Verified Salinas Park n Play text-list number; successful named welcome received."},
-    "19256661233":{"hallIds":["daub-4-kids"],"evidence":"Official Daub4Kids opt-in number; successful named welcome received."}
+    "15598621040": {
+      "hallIds": [
+        "hall-707ecd62e7a8"
+      ],
+      "evidence": "Verified Fresno bingo enrollment number; welcome and lgbtqfresno.com/events follow-up received."
+    },
+    "17076812030": {
+      "hallIds": [
+        "scout-napa-bingo-emporium"
+      ],
+      "evidence": "Official Napa Bingo text-list number; successful welcome received."
+    },
+    "18447611844": {
+      "hallIds": [
+        "scout-salinas-park-n-play-bingo"
+      ],
+      "evidence": "Verified Salinas Park n Play text-list number; successful named welcome received."
+    },
+    "19256661233": {
+      "hallIds": [
+        "daub-4-kids"
+      ],
+      "evidence": "Official Daub4Kids opt-in number; successful named welcome received."
+    }
   }
 }

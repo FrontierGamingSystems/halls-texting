@@ -1,0 +1,1990 @@
+{
+  "checkedAt": "2026-09-11",
+  "scope": "Northern California, Sacramento metro, Central Valley and foothills: second-pass city discovery and SMS, schedule and presale verification. Null signup means no verified route in checked material; it does not prove that no SMS program exists.",
+  "methodology": {
+    "searchEngines": "Web search tool for city and site searches; actual Google browser searches for Chico and Sacramento.",
+    "googleUrls": [
+      "https://www.google.com/search?q=Chico+California+bingo+halls",
+      "https://www.google.com/search?q=Sacramento+California+bingo+halls"
+    ],
+    "limits": "Bounded pass. Not every social post, PDF or image could be opened. No enrollments, contact messages, purchases or reservation submissions. Search-index text is distinguished from live browser evidence. Not_found presales means no bingo-specific online purchase route found on checked pages, not proof none exists."
+  },
+  "cityCoverage": [
+    {
+      "city": "Stockton",
+      "queries": [
+        "Stockton bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.winnersbingostockton.com/",
+        "https://www.winnersbingostockton.com/buyin",
+        "https://pdlyouthfoundation.net/",
+        "https://plus.bingomenow.com/?event=1743540718224x207618677636857860&nav=EventDetail"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Tracy",
+      "queries": [
+        "Tracy bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.winnersbingotracy.com/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Sacramento",
+      "queries": [
+        "Sacramento bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://optimistsbc.com/",
+        "https://optimistsbc.com/mondays",
+        "https://optimistsbc.com/tuesdays",
+        "https://optimistsbc.com/wednesdays",
+        "https://optimistsbc.com/thursdays",
+        "https://optimistsbc.com/fridays",
+        "https://optimistsbc.com/saturdays",
+        "https://optimistsbc.com/sundays"
+      ],
+      "notes": "Actual Google browser city search plus web-tool official-site verification. Other query strings are summarized topics, not a verbatim query log."
+    },
+    {
+      "city": "Citrus Heights",
+      "queries": [
+        "Citrus Heights bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://optimistgo.com/home",
+        "https://optimistgo.com/fridays",
+        "https://optimistgo.com/labor-day",
+        "https://grandoaksbingo.com/",
+        "https://grandoaksbingo.com/bingo-hours/",
+        "https://grandoaksbingo.com/wp-content/uploads/2026/08/image-1-pdf.jpg"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Bakersfield",
+      "queries": [
+        "Bakersfield bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://bakersfieldbingohall.com/",
+        "https://bakersfieldbingohall.com/contact/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Vacaville",
+      "queries": [
+        "Vacaville bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.vacavalleybingo.com/",
+        "https://www.vacavalleybingo.com/hours"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Oroville",
+      "queries": [
+        "Oroville bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.goldcountrycasino.com/bingo/",
+        "https://www.goldcountrycasino.com/contact/",
+        "https://www.goldcountrycasino.com/players-club/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Redding",
+      "queries": [
+        "Redding bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://winriver.com/bingo/",
+        "https://winriver.com/the-river-club/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Colusa",
+      "queries": [
+        "Colusa bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.colusacasino.com/bingo/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Lemoore",
+      "queries": [
+        "Lemoore bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.tachipalace.com/casino/bingo/",
+        "https://www.tachipalace.com/casino/premiere-club/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Fresno",
+      "queries": [
+        "Fresno bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.ffp509.org/events",
+        "https://www.ffp509.org/contact",
+        "https://www.lgbtqfresno.com/event/fresno-charity-bingo/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Merced",
+      "queries": [
+        "Merced bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1240"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Roseville",
+      "queries": [
+        "Roseville bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.rosevilleeagles.com/bingo/",
+        "https://www.elks2248.com/event-registration",
+        "https://www.elks2248.com/events/bingo-dinner-4th-tuesday-of-the-month-2026-09-22-16-00",
+        "https://www.elks2248.com/events/bingo-dinner-2nd-tuesday-of-the-month-2026-10-13-16-00"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Chico",
+      "queries": [
+        "Chico bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+        "https://vfw1555.org/uploads/Bingo.jpg",
+        "https://www.chicorec.gov/senior-luncheons",
+        "https://www.chicorec.gov/lakeside-pavilion",
+        "https://www.rec.us/sections/78c72a20-3648-43e9-9bb1-bd0e5b79bd8c",
+        "https://chicoeagles.org/hall-rentall/",
+        "https://chicoeagles.org/sample-page/",
+        "https://chicoeagles.org/",
+        "https://www.facebook.com/cjandmary/",
+        "https://www.farmersbrewing.com/events"
+      ],
+      "notes": "Actual Google browser city search plus web-tool official-site verification. Other query strings are summarized topics, not a verbatim query log."
+    },
+    {
+      "city": "Auburn",
+      "queries": [
+        "Auburn bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.auburnseniorcenter.com/activities",
+        "https://www.auburnseniorcenter.com/about-us",
+        "https://na0.icarol.info/resourceview2.aspx?agencynum=65629515&org=2265",
+        "https://www.auburnkofc.com/",
+        "https://www.stteresaauburn.com/knights",
+        "https://stteresaauburn.com/contact-us",
+        "https://sjauburncatholic.com/events/knights-of-columbus-bingo-night",
+        "https://bingoauburn.com/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Modesto",
+      "queries": [
+        "Modesto bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.princetoneventcenter.org/bingo",
+        "https://www.princetoneventcenter.org/about-us2",
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1282",
+        "https://www.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=1282"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Manteca",
+      "queries": [
+        "Manteca bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://oneloveco.org/monday-manteca-bingo",
+        "https://oneloveco.org/lander"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Lodi",
+      "queries": [
+        "Lodi bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://oneloveco.org/friday-lodi-bingo-1",
+        "https://oneloveco.org/lander",
+        "https://loelcenter.org/programs/games/",
+        "https://loelcenter.org/contact/",
+        "https://thelodiitalianclub.org/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Lincoln",
+      "queries": [
+        "Lincoln bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://lincolncommunityfoundation.org/bingo/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Wheatland",
+      "queries": [
+        "Wheatland bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://casino.hardrock.com/sacramento/casino/bingo",
+        "https://casino.hardrock.com/sacramento/contact-us",
+        "https://casino.hardrock.com/sacramento/-/media/project/shrss/hri/casinos/hard-rock/sacramento/2026-promotions/september/bingo-september---1920x1080.jpg?h=422&rev=f011351f6d274175bfa724c207cf1b3f&w=750"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Jamestown",
+      "queries": [
+        "Jamestown bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://chickenranchcasinoresort.com/bingo",
+        "https://chickenranchcasinoresort.com/chicken-ranch-casino",
+        "https://chickenranchcasinoresort.com/players-club",
+        "https://www.eventbrite.com/e/axe-the-tax-bingo-at-chicken-ranch-casino-tickets-1999962229867?aff=ebdsoporgprofile",
+        "https://www.eventbrite.com/e/1998786064926?aff=oddtdtcreator"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Jackson",
+      "queries": [
+        "Jackson bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://jacksoncasino.com/bingo/",
+        "https://jacksoncasino.com/contact/",
+        "https://jacksoncasino.com/dreamcatchers/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Paradise",
+      "queries": [
+        "Paradise bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://business.paradisechamber.com/events/details/bingo-08-19-2026-40822",
+        "https://makeitparadise.org/weekly-updates/town-of-paradise-weekly-update-12-18-2024/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Shingle Springs",
+      "queries": [
+        "Shingle Springs bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+        "https://www.placervilleelks.org/",
+        "https://www.placervilleelks.org/images/banner3/bingo%20banner.jpg"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Clovis",
+      "queries": [
+        "Clovis bingo halls; official hall name/site searches (search topics summarized)"
+      ],
+      "checkedUrls": [
+        "https://summerfoxbrewing.com/calendar/public-calendar/"
+      ],
+      "notes": "Web-tool city/site discovery and direct official-page checks. Search topics summarized; no claim that Google browser was used for this city."
+    },
+    {
+      "city": "Turlock",
+      "queries": [
+        "Turlock California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Atwater",
+      "queries": [
+        "Atwater California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Los Banos",
+      "queries": [
+        "Los Banos California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Madera",
+      "queries": [
+        "Madera California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Marysville",
+      "queries": [
+        "Marysville California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Red Bluff",
+      "queries": [
+        "Red Bluff California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Sonora",
+      "queries": [
+        "Sonora California bingo (regional city-search topic)"
+      ],
+      "checkedUrls": [],
+      "notes": "Regional search included city; no additional sufficiently verified distinct venue added. Legacy directory leads were not promoted. Sonora-area Chicken Ranch is correctly recorded under Jamestown."
+    },
+    {
+      "city": "Rancho Cordova",
+      "queries": [
+        "Focused official-site follow-up for existing active SMS hall"
+      ],
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/sacramento/",
+        "https://bdbingosacramento.ticketspice.com/labor-day-after-party-tuesday-sept-8",
+        "https://bdbingosacramento.ticketspice.com/35-thursday-sept-10"
+      ],
+      "notes": "Direct official-page and linked checkout verification; no new Google search claimed."
+    },
+    {
+      "city": "Concord",
+      "queries": [
+        "Focused official-site follow-up for existing active SMS hall"
+      ],
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/concord/",
+        "https://login.bseennow.net/p?c=z0ULbw",
+        "https://bluedevils.ticketspice.com/triple-5k-saturday",
+        "https://bluedevils.ticketspice.com/funky-friday"
+      ],
+      "notes": "Direct official-page and linked checkout verification; no new Google search claimed."
+    },
+    {
+      "city": "Pleasanton",
+      "queries": [
+        "Focused official-site follow-up for existing active SMS hall"
+      ],
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/pleasanton/",
+        "https://pleasantonotb.com/bingo/"
+      ],
+      "notes": "Direct official-page and linked checkout verification; no new Google search claimed."
+    },
+    {
+      "city": "Suisun City",
+      "queries": [
+        "Focused official-site follow-up for existing active SMS hall"
+      ],
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/suisun-city/",
+        "https://login.bseennow.net/p?c=q6h5ne",
+        "https://bdbingo-suisun.ticketspice.com/fall-in-love-with-sunday-session-91326",
+        "https://bdbingo-suisun.ticketspice.com/friday-night-strip-session-91126-mega-mini-ap"
+      ],
+      "notes": "Direct official-page and linked checkout verification; no new Google search claimed."
+    }
+  ],
+  "newHalls": [
+    {
+      "name": "Hard Rock Hotel & Casino Sacramento Bingo",
+      "city": "Wheatland",
+      "address": "3317 Forty Mile Road, Wheatland, CA 95692",
+      "region": "Sacramento Valley",
+      "website": "https://casino.hardrock.com/sacramento/casino/bingo",
+      "addressSourceUrl": "https://casino.hardrock.com/sacramento/casino/bingo",
+      "sourceUrls": [
+        "https://casino.hardrock.com/sacramento/casino/bingo",
+        "https://casino.hardrock.com/sacramento/contact-us",
+        "https://casino.hardrock.com/sacramento/-/media/project/shrss/hri/casinos/hard-rock/sacramento/2026-promotions/september/bingo-september---1920x1080.jpg?h=422&rev=f011351f6d274175bfa724c207cf1b3f&w=750"
+      ],
+      "checkedUrls": [
+        "https://casino.hardrock.com/sacramento/casino/bingo",
+        "https://casino.hardrock.com/sacramento/contact-us",
+        "https://casino.hardrock.com/sacramento/-/media/project/shrss/hri/casinos/hard-rock/sacramento/2026-promotions/september/bingo-september---1920x1080.jpg?h=422&rev=f011351f6d274175bfa724c207cf1b3f&w=750"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
+        ],
+        "details": "September 2026 flyer: Monday–Thursday 1pm and 5pm. Labor Day September 7 special at 1pm, doors 11am.",
+        "sourceUrl": "https://casino.hardrock.com/sacramento/-/media/project/shrss/hri/casinos/hard-rock/sacramento/2026-promotions/september/bingo-september---1920x1080.jpg?h=422&rev=f011351f6d274175bfa724c207cf1b3f&w=750",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://casino.hardrock.com/sacramento/casino/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo, contact/footer and September flyer checked; flyer visually read in actual browser.",
+      "confidence": "high",
+      "notes": "No verified SMS enrollment. Responsible-gaming SUPPORT 53342 is excluded. Unity rewards and general Ticketmaster entertainment are not bingo presales."
+    },
+    {
+      "name": "Chicken Ranch Casino Bingo (OG Casino)",
+      "city": "Jamestown",
+      "address": "16929 Chicken Ranch Road, Jamestown, CA 95327",
+      "region": "Sierra Foothills",
+      "website": "https://chickenranchcasinoresort.com/bingo",
+      "addressSourceUrl": "https://www.eventbrite.com/e/axe-the-tax-bingo-at-chicken-ranch-casino-tickets-1999962229867?aff=ebdsoporgprofile",
+      "sourceUrls": [
+        "https://chickenranchcasinoresort.com/bingo",
+        "https://chickenranchcasinoresort.com/chicken-ranch-casino",
+        "https://chickenranchcasinoresort.com/players-club",
+        "https://www.eventbrite.com/e/axe-the-tax-bingo-at-chicken-ranch-casino-tickets-1999962229867?aff=ebdsoporgprofile",
+        "https://www.eventbrite.com/e/1998786064926?aff=oddtdtcreator"
+      ],
+      "checkedUrls": [
+        "https://chickenranchcasinoresort.com/bingo",
+        "https://chickenranchcasinoresort.com/chicken-ranch-casino",
+        "https://chickenranchcasinoresort.com/players-club",
+        "https://www.eventbrite.com/e/axe-the-tax-bingo-at-chicken-ranch-casino-tickets-1999962229867?aff=ebdsoporgprofile",
+        "https://www.eventbrite.com/e/1998786064926?aff=oddtdtcreator"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Wednesday–Saturday 6:30pm, doors 4pm and sales 5pm; Sunday 1:30pm, doors 11am and sales noon. September 27 Axe the Tax special 1:30pm.",
+        "sourceUrl": "https://chickenranchcasinoresort.com/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "Eventbrite",
+          "url": "https://www.eventbrite.com/e/axe-the-tax-bingo-at-chicken-ranch-casino-tickets-1999962229867?aff=ebdsoporgprofile",
+          "evidence": "Official bingo page GET TICKETS links to Chicken Ranch's September 27 Axe the Tax bingo event with purchase button and price."
+        }
+      ],
+      "presales": {
+        "status": "available",
+        "platform": "Eventbrite",
+        "url": "https://www.eventbrite.com/e/axe-the-tax-bingo-at-chicken-ranch-casino-tickets-1999962229867?aff=ebdsoporgprofile",
+        "details": "September 27, 2026 Axe the Tax Bingo at OG Casino; $23.11 displayed with Get tickets button. No purchase made. September 4 linked event has ended.",
+        "sourceUrl": "https://chickenranchcasinoresort.com/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo page is current September 11 and links hall-specific Eventbrite events. September 27 event inspected live: operator, exact OG address, $23.11 and Get tickets button.",
+      "confidence": "high",
+      "notes": "Bingo remains at OG Casino. Main resort footer's 9100 People of the Mountain Road is not the bingo hall address. Players-card kiosk is not SMS consent. Event page door-time fields conflict (10am description / 11am highlights), so call event's published operator if needed."
+    },
+    {
+      "name": "Jackson Rancheria Casino Resort Bingo (Dalton Hall)",
+      "city": "Jackson",
+      "address": "12222 New York Ranch Road, Jackson, CA 95642",
+      "region": "Sierra Foothills",
+      "website": "https://jacksoncasino.com/bingo/",
+      "addressSourceUrl": "https://jacksoncasino.com/contact/",
+      "sourceUrls": [
+        "https://jacksoncasino.com/bingo/",
+        "https://jacksoncasino.com/contact/",
+        "https://jacksoncasino.com/dreamcatchers/"
+      ],
+      "checkedUrls": [
+        "https://jacksoncasino.com/bingo/",
+        "https://jacksoncasino.com/contact/",
+        "https://jacksoncasino.com/dreamcatchers/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Saturday",
+          "Sunday",
+          "Monday",
+          "Tuesday"
+        ],
+        "details": "Saturday–Tuesday evening bingo 5:30pm; Saturday–Sunday matinee noon (doors 10:30am). Evening door time conflicts within page: 4pm schedule versus 4:30pm FAQ. September 18 special Glow Show at 6pm is additional.",
+        "sourceUrl": "https://jacksoncasino.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://jacksoncasino.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo schedule locates bingo in Dalton Hall; contact page verifies address and has generic marketing-consent checkbox, but does not identify SMS channel.",
+      "confidence": "high",
+      "notes": "Generic contact form includes phone field and promotions consent, but no explicit SMS disclosure/channel verified; not recorded as SMS enrollment. Pricing menu is not an online checkout."
+    },
+    {
+      "name": "Chico Eagles Aerie 218 Thursday Bingo",
+      "city": "Chico",
+      "address": "1940 Mulberry Street, Chico, CA 95928",
+      "region": "North State",
+      "website": "https://chicoeagles.org/hall-rentall/",
+      "addressSourceUrl": "https://chicoeagles.org/sample-page/",
+      "sourceUrls": [
+        "https://chicoeagles.org/hall-rentall/",
+        "https://chicoeagles.org/sample-page/",
+        "https://chicoeagles.org/",
+        "https://www.facebook.com/cjandmary/"
+      ],
+      "checkedUrls": [
+        "https://chicoeagles.org/hall-rentall/",
+        "https://chicoeagles.org/sample-page/",
+        "https://chicoeagles.org/",
+        "https://www.facebook.com/cjandmary/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Every Thursday per hall FAQ. Operator Facebook search result says doors 5pm, games 6pm, open to public ages 18+; that time was indexed, not independently read in a current post.",
+        "sourceUrl": "https://chicoeagles.org/hall-rentall/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://chicoeagles.org/hall-rentall/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Primary Eagles FAQ verifies Thursday bingo; contact page verifies hall address; discovered via actual Google city search.",
+      "confidence": "high",
+      "notes": "No verified SMS signup in home/FAQ/contact. Events endpoint timed out; social-post inspection limited."
+    },
+    {
+      "name": "Auburn Knights of Columbus Council 6149 Bingo at St. Teresa",
+      "city": "Auburn",
+      "address": "11600 Atwood Road, Auburn, CA 95603",
+      "region": "Sierra Foothills",
+      "website": "https://www.auburnkofc.com/",
+      "addressSourceUrl": "https://stteresaauburn.com/contact-us",
+      "sourceUrls": [
+        "https://www.auburnkofc.com/",
+        "https://www.stteresaauburn.com/knights",
+        "https://stteresaauburn.com/contact-us",
+        "https://sjauburncatholic.com/events/knights-of-columbus-bingo-night",
+        "https://bingoauburn.com/"
+      ],
+      "checkedUrls": [
+        "https://www.auburnkofc.com/",
+        "https://www.stteresaauburn.com/knights",
+        "https://stteresaauburn.com/contact-us",
+        "https://sjauburncatholic.com/events/knights-of-columbus-bingo-night",
+        "https://bingoauburn.com/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Wednesday"
+        ],
+        "details": "Weekly Wednesday bingo at St. Teresa; published July 1, 2026 recurring event block 5–8:30pm, game start unverified.",
+        "sourceUrl": "https://sjauburncatholic.com/events/knights-of-columbus-bingo-night",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://www.auburnkofc.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Council links bingo site; St. Teresa parish confirms weekly bingo; parish event supplies Wednesday recurrence and host, and host contact page supplies correct address.",
+      "confidence": "high",
+      "notes": "Dedicated bingoauburn.com returned empty content. Host/council sources confirm venue; SMS enrollment unavailable there. Avoid typo 116100 Atwood in secondary bingo directories."
+    },
+    {
+      "name": "Paradise Veterans Memorial Hall Bingo",
+      "city": "Paradise",
+      "address": "6550 Skyway, Paradise, CA 95969",
+      "region": "North State",
+      "website": "https://business.paradisechamber.com/events/details/bingo-08-19-2026-40822",
+      "addressSourceUrl": "https://makeitparadise.org/weekly-updates/town-of-paradise-weekly-update-12-18-2024/",
+      "sourceUrls": [
+        "https://business.paradisechamber.com/events/details/bingo-08-19-2026-40822",
+        "https://makeitparadise.org/weekly-updates/town-of-paradise-weekly-update-12-18-2024/"
+      ],
+      "checkedUrls": [
+        "https://business.paradisechamber.com/events/details/bingo-08-19-2026-40822",
+        "https://makeitparadise.org/weekly-updates/town-of-paradise-weekly-update-12-18-2024/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Wednesday"
+        ],
+        "details": "Every Wednesday per 2026 chamber listing; doors 4pm, event block 4–7pm; $20 buy-in.",
+        "sourceUrl": "https://business.paradisechamber.com/events/details/bingo-08-19-2026-40822",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://business.paradisechamber.com/events/details/bingo-08-19-2026-40822",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Current chamber calendar supports recurring bingo, with Town of Paradise update corroborating exact venue address.",
+      "confidence": "medium",
+      "notes": "Local chamber event evidence rather than direct current operator page. Older town item lists different hours; 2026 calendar preferred. Email reminders and organizer contact phone are not SMS opt-in."
+    },
+    {
+      "name": "Roseville Elks Lodge 2248 Bingo & Dinner",
+      "city": "Roseville",
+      "address": "3000 Brady Lane, Roseville, CA 95747",
+      "region": "Sacramento Metro",
+      "website": "https://www.elks2248.com/event-registration",
+      "addressSourceUrl": "https://www.elks2248.com/events/bingo-dinner-4th-tuesday-of-the-month-2026-09-22-16-00",
+      "sourceUrls": [
+        "https://www.elks2248.com/event-registration",
+        "https://www.elks2248.com/events/bingo-dinner-4th-tuesday-of-the-month-2026-09-22-16-00",
+        "https://www.elks2248.com/events/bingo-dinner-2nd-tuesday-of-the-month-2026-10-13-16-00"
+      ],
+      "checkedUrls": [
+        "https://www.elks2248.com/event-registration",
+        "https://www.elks2248.com/events/bingo-dinner-4th-tuesday-of-the-month-2026-09-22-16-00",
+        "https://www.elks2248.com/events/bingo-dinner-2nd-tuesday-of-the-month-2026-10-13-16-00"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "Second and fourth Tuesday; bingo 6pm. Members only. Event list confirms recurrence; September 22 event gives time.",
+        "sourceUrl": "https://www.elks2248.com/events/bingo-dinner-4th-tuesday-of-the-month-2026-09-22-16-00",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "Official event offers RSVP; no bingo buy-in checkout verified. Other lodge dinners' Zeffy links were not treated as bingo purchases.",
+        "sourceUrl": "https://www.elks2248.com/events/bingo-dinner-4th-tuesday-of-the-month-2026-09-22-16-00",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official recurring event list and September 22 event inspected in actual browser; address and members-only condition explicit.",
+      "confidence": "high",
+      "notes": "Member event, not unrestricted public cash-bingo hall. No SMS opt-in found."
+    },
+    {
+      "name": "Placerville Elks Lodge 1712 Bingo",
+      "city": "Shingle Springs",
+      "address": "3821 Quest Court, Shingle Springs, CA 95682",
+      "region": "Sierra Foothills",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+      "addressSourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+      "sourceUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+        "https://www.placervilleelks.org/",
+        "https://www.placervilleelks.org/images/banner3/bingo%20banner.jpg"
+      ],
+      "checkedUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+        "https://www.placervilleelks.org/",
+        "https://www.placervilleelks.org/images/banner3/bingo%20banner.jpg"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Sunday",
+          "Friday"
+        ],
+        "details": "September 2026 official events: Sunday September 6 early bird bingo 1pm; Friday September 4 Burger Night/Musical Bingo 5pm. Recurrence not verified from these dated listings.",
+        "sourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1712",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "National Elks lodge's current September calendar verifies both dated bingo events and Shingle Springs address.",
+      "confidence": "high",
+      "notes": "Past September events verify recent operation; do not infer weekly Sunday/Friday recurrence. Banner image fetched but not visually interpreted. RV booking links are not bingo presales."
+    },
+    {
+      "name": "Farmers Brewing Chico Bottomless Bingo Night",
+      "city": "Chico",
+      "address": "1950 Market Place, Chico, CA 95928",
+      "region": "North State",
+      "website": "https://www.farmersbrewing.com/events",
+      "addressSourceUrl": "https://www.farmersbrewing.com/events",
+      "sourceUrls": [
+        "https://www.farmersbrewing.com/events"
+      ],
+      "checkedUrls": [
+        "https://www.farmersbrewing.com/events"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Thursday"
+        ],
+        "details": "Every Thursday 6–9pm; bingo free. Drink promotions are separate.",
+        "sourceUrl": "https://www.farmersbrewing.com/events",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://www.farmersbrewing.com/events",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official Chico taproom event list states recurring bingo, free admission and exact Chico location.",
+      "confidence": "high",
+      "category": "recreational_brewery",
+      "notes": "Recreational taproom bingo, not a traditional cash bingo hall. Online shop and workshop ticket links are unrelated to free bingo. No SMS signup found."
+    },
+    {
+      "name": "Summer Fox Brewing Clovis Bingo Night",
+      "city": "Clovis",
+      "address": "2700 Clovis Avenue #104, Clovis, CA 93612",
+      "region": "Central Valley",
+      "website": "https://summerfoxbrewing.com/calendar/public-calendar/",
+      "addressSourceUrl": "https://summerfoxbrewing.com/calendar/public-calendar/",
+      "sourceUrls": [
+        "https://summerfoxbrewing.com/calendar/public-calendar/"
+      ],
+      "checkedUrls": [
+        "https://summerfoxbrewing.com/calendar/public-calendar/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "September 2026 Tuesdays September 1, 8, 15, 22 and 29, 7–9pm.",
+        "sourceUrl": "https://summerfoxbrewing.com/calendar/public-calendar/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale route found in checked material.",
+        "sourceUrl": "https://summerfoxbrewing.com/calendar/public-calendar/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official event calendar specifically assigns bingo to Clovis location; Fresno location has trivia on Wednesdays.",
+      "confidence": "high",
+      "category": "recreational_brewery",
+      "notes": "Recreational brewery event, not confirmed cash-prize hall. No SMS enrollment or bingo ticket checkout found."
+    }
+  ],
+  "updates": [
+    {
+      "hallId": "area-24th-street-bingo",
+      "name": "24th Street Bingo",
+      "city": "Sacramento",
+      "address": "2350 Florin Road, Sacramento, CA 95822",
+      "addressSourceUrl": "https://24thstreet.bingo/",
+      "website": "https://24thstreet.bingo/",
+      "checkedUrls": [
+        "https://24thstreet.bingo/",
+        "https://www.airmenu.com/twenty4thstreet?cookielocalok=&locale=en",
+        "https://login.bseennow.net/p?c=k1kt54"
+      ],
+      "signup": {
+        "method": "web_form",
+        "url": "https://login.bseennow.net/p?c=k1kt54",
+        "sourceUrl": "https://24thstreet.bingo/",
+        "note": "Official Get Text Updates links to BSeenNow VIP messaging list; separate footer email newsletter is not SMS."
+      },
+      "signupStatus": "verified_existing",
+      "schedule": {
+        "days": [
+          "Sunday",
+          "Monday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "details": "Official bingo-session tiles list Sunday, Monday, Wednesday, Thursday, Friday and Saturday. Tuesday closed. Exact game start times were not readable in the page; general 3pm opening hours are not reported as bingo start times.",
+        "sourceUrl": "https://24thstreet.bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "AirMenu",
+          "url": "https://www.airmenu.com/twenty4thstreet?cookielocalok=&locale=en",
+          "evidence": "Official Save Your Seat and Reservation links use this hall-specific AirMenu URL."
+        },
+        {
+          "name": "BSeenNow",
+          "url": "https://login.bseennow.net/p?c=k1kt54",
+          "evidence": "Official Get Text Updates link leads to VIP messaging opt-in."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "AirMenu",
+        "url": "https://www.airmenu.com/twenty4thstreet?cookielocalok=&locale=en",
+        "sourceUrl": "https://24thstreet.bingo/",
+        "details": "Official hall advertises seat reservation through AirMenu. Destination requires cookies and remained a loading shell in web retrieval; browser surface unavailable. Hall-specific booking platform verified, but current paid buy-in inventory/checkout not verified.",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Current official website and linked signup/sales pages checked on September 11, 2026.",
+      "notes": "Flyer image URLs were present but could not be opened; exact session times remain unverified. AirMenu is not BingoMeNow."
+    },
+    {
+      "hallId": "area-bd-bingo-sacramento-at-mandarins-event-center",
+      "name": "BD Bingo Sacramento at Mandarins Event Center",
+      "city": "Rancho Cordova",
+      "address": "9792 Business Park Drive, Rancho Cordova, CA 95827",
+      "addressSourceUrl": "https://bluedevils.org/bingo/sacramento/",
+      "website": "https://bluedevils.org/bingo/sacramento/",
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/sacramento/",
+        "https://bdbingosacramento.ticketspice.com/labor-day-after-party-tuesday-sept-8",
+        "https://bdbingosacramento.ticketspice.com/35-thursday-sept-10"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "Sacramento",
+        "destination": "70503",
+        "subscriptionKey": "70503:sacramento",
+        "sourceUrl": "https://bluedevils.org/bingo/sacramento/",
+        "note": "Official page explicitly publishes keyword and destination."
+      },
+      "signupStatus": "verified_existing",
+      "schedule": {
+        "days": [
+          "Tuesday",
+          "Thursday"
+        ],
+        "details": "Tuesday and Thursday games 6:30pm, doors 4:30pm. September 8 and 10 notices specifically cancel drive-in bingo because of high temperatures; do not interpret as permanent closure or cancellation of every indoor session.",
+        "sourceUrl": "https://bluedevils.org/bingo/sacramento/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "TicketSpice",
+          "url": "https://bdbingosacramento.ticketspice.com/35-thursday-sept-10",
+          "evidence": "Official Tuesday/Thursday ticket links go to hall-specific bingo buy-in pages; both inspected."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "TicketSpice",
+        "url": "https://bdbingosacramento.ticketspice.com/35-thursday-sept-10",
+        "sourceUrl": "https://bluedevils.org/bingo/sacramento/",
+        "details": "Both linked September 8 and September 10 online registrations are closed. September 10 page says seats remain at hall, doors4:30/game6:30. No currently open future online sale verified.",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Current official website and linked signup/sales pages checked on September 11, 2026.",
+      "notes": "Existing SMS route reconfirmed. TicketSpice established; current presale availability is not inferred from a closed event."
+    },
+    {
+      "hallId": "bd-bingo-suisun-city",
+      "name": "BD Bingo Suisun City",
+      "city": "Suisun City",
+      "address": "200 Marina Center, Building 601, Suisun City, CA 94585",
+      "addressSourceUrl": "https://bluedevils.org/bingo/suisun-city/",
+      "website": "https://bluedevils.org/bingo/suisun-city/",
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/suisun-city/",
+        "https://login.bseennow.net/p?c=q6h5ne",
+        "https://bdbingo-suisun.ticketspice.com/fall-in-love-with-sunday-session-91326",
+        "https://bdbingo-suisun.ticketspice.com/friday-night-strip-session-91126-mega-mini-ap"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "Suisun",
+        "destination": "70503",
+        "subscriptionKey": "70503:suisun",
+        "sourceUrl": "https://login.bseennow.net/p?c=q6h5ne",
+        "note": "Current official text-service link publishes Suisun to70503."
+      },
+      "signupStatus": "verified_existing",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Monday, Wednesday, Friday, Saturday and Sunday games 6pm, doors4pm. Closed Tuesday and Thursday. Ages18+.",
+        "sourceUrl": "https://bluedevils.org/bingo/suisun-city/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "TicketSpice",
+          "url": "https://bdbingo-suisun.ticketspice.com/fall-in-love-with-sunday-session-91326",
+          "evidence": "Official Sunday tickets link opens September13 buy-in and reserved-seat sales page."
+        },
+        {
+          "name": "BSeenNow",
+          "url": "https://login.bseennow.net/p?c=q6h5ne",
+          "evidence": "Official text-service link; keyword/destination explicitly published."
+        }
+      ],
+      "presales": {
+        "status": "available",
+        "platform": "TicketSpice",
+        "url": "https://bdbingo-suisun.ticketspice.com/fall-in-love-with-sunday-session-91326",
+        "sourceUrl": "https://bluedevils.org/bingo/suisun-city/",
+        "details": "September13 Sunday session page advertises $45 regular buy-in, general admission purchase, or a chosen seat with $5 reservation charge. Hall also lists Friday September11 and other session ticket links. No transaction performed.",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Current official website and linked signup/sales pages checked on September 11, 2026.",
+      "notes": "Platform page was readable; embedded seat-map inventory not tested. Three guests per table; extra seats may not be bought merely to reserve a whole table."
+    },
+    {
+      "hallId": "scout-bd-bingo-concord-blue-devils-aquanuts",
+      "name": "BD Bingo Concord (Blue Devils / Aquanuts)",
+      "city": "Concord",
+      "address": "4065 Nelson Avenue, Concord, CA 94520",
+      "addressSourceUrl": "https://bluedevils.org/bingo/concord/",
+      "website": "https://bluedevils.org/bingo/concord/",
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/concord/",
+        "https://login.bseennow.net/p?c=z0ULbw",
+        "https://bluedevils.ticketspice.com/triple-5k-saturday",
+        "https://bluedevils.ticketspice.com/funky-friday"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "Concord",
+        "destination": "70503",
+        "subscriptionKey": "70503:concord",
+        "sourceUrl": "https://login.bseennow.net/p?c=z0ULbw",
+        "note": "Official BSeenNow text-service link reconfirms Concord to70503."
+      },
+      "signupStatus": "verified_existing",
+      "schedule": {
+        "days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Tuesday daytime11am (doors10am) and Aquanuts evening6pm; Wednesday6pm; Thursday11am and6pm; Friday/Saturday6pm; Sunday matinee12:30pm (doors10:30am) and Aquanuts6pm. Evening doors4pm. Additional Labor Day Monday September7 special was2pm; no general weekly Monday recurrence inferred.",
+        "sourceUrl": "https://bluedevils.org/bingo/concord/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "TicketSpice",
+          "url": "https://bluedevils.ticketspice.com/triple-5k-saturday",
+          "evidence": "Official Saturday ticket link opens hall-specific $60 buy-in checkout with ticket/date selection and billing fields."
+        },
+        {
+          "name": "BSeenNow",
+          "url": "https://login.bseennow.net/p?c=z0ULbw",
+          "evidence": "Official text-service link publishes Concord keyword and70503."
+        }
+      ],
+      "presales": {
+        "status": "available",
+        "platform": "TicketSpice",
+        "url": "https://bluedevils.ticketspice.com/triple-5k-saturday",
+        "sourceUrl": "https://bluedevils.org/bingo/concord/",
+        "details": "Saturday $60 buy-in checkout renders date/ticket selection and credit-card billing. Official pages also offer other evening/matinee sales. Tuesday and Thursday daytime sessions explicitly have no online presales. Specific future date inventory not selected.",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Current official website and linked signup/sales pages checked on September 11, 2026.",
+      "notes": "Official HTML read directly after web text fetch exceeded size limit. Aquanuts and BD sessions share one hall. Checkout SMS consent is order/event-related; preserve direct keyword as the enrollment route."
+    },
+    {
+      "hallId": "scout-bd-bingo-pleasanton-alameda-county-fairgrounds",
+      "name": "BD Bingo Pleasanton (Alameda County Fairgrounds)",
+      "city": "Pleasanton",
+      "address": "Alameda County Fairgrounds, 2100 Valley Avenue, Pleasanton, CA 94566",
+      "addressSourceUrl": "https://bluedevils.org/bingo/pleasanton/",
+      "website": "https://bluedevils.org/bingo/pleasanton/",
+      "checkedUrls": [
+        "https://bluedevils.org/bingo/pleasanton/",
+        "https://pleasantonotb.com/bingo/"
+      ],
+      "signup": {
+        "method": "keyword",
+        "keyword": "Pleasanton",
+        "destination": "70503",
+        "subscriptionKey": "70503:pleasanton",
+        "sourceUrl": "https://pleasantonotb.com/bingo/",
+        "note": "Venue page reconfirms keyword; contains older calendar copy, so successful enrollment is still untested."
+      },
+      "signupStatus": "verified_existing",
+      "schedule": {
+        "days": [
+          "Tuesday",
+          "Saturday"
+        ],
+        "details": "Tuesday and Saturday games6:30pm, doors5pm. Current operator page lists indoor games only.",
+        "sourceUrl": "https://bluedevils.org/bingo/pleasanton/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "sourceUrl": "https://bluedevils.org/bingo/pleasanton/",
+        "details": "Current operator explicitly states all sales on site, accepting cash and debit/credit cards. No online bingo presale offered in checked material.",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Current official website and linked signup/sales pages checked on September 11, 2026.",
+      "notes": "Operator HTML read directly after web fetch exceeded size limit. Older OTB page mentions Sunday return and Thursday game copy; current operator's Tuesday/Saturday program used for schedule."
+    },
+    {
+      "hallId": "scout-winners-bingo-stockton",
+      "name": "Winners Bingo Stockton",
+      "city": "Stockton",
+      "website": "https://www.winnersbingostockton.com/",
+      "address": "1658 S Airport Way, Stockton, CA 95206",
+      "addressSourceUrl": "https://www.winnersbingostockton.com/",
+      "checkedUrls": [
+        "https://www.winnersbingostockton.com/",
+        "https://www.winnersbingostockton.com/buyin",
+        "https://pdlyouthfoundation.net/",
+        "https://plus.bingomenow.com/?event=1743540718224x207618677636857860&nav=EventDetail"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Monday–Wednesday 6pm; Thursday noon and 6pm; Friday 6pm; Saturday–Sunday 5:30pm.",
+        "sourceUrl": "https://www.winnersbingostockton.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "BingoMeNow",
+          "url": "https://plus.bingomenow.com/?event=1743540718224x207618677636857860&nav=EventDetail",
+          "evidence": "Official Winners homepage buy-in link opens hall-specific event, not merely a vendor logo."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "BingoMeNow",
+        "url": "https://plus.bingomenow.com/?event=1743540718224x207618677636857860&nav=EventDetail",
+        "details": "Verified hall-specific purchase platform, but linked February 21 anniversary event currently says Sales Closed; no available future sale confirmed.",
+        "sourceUrl": "https://www.winnersbingostockton.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official schedule/address and BUYIN HERE link checked. BingoMeNow event rendered in browser as Winners 10 Year Anniversary, Saturday February 21, 3pm, Sales Closed. PDL newsletter asks for email.",
+      "notes": "Thursday–Monday PDL and Tuesday–Wednesday Grapettes share the same venue. Some image links timed out; no SMS route in rendered page or platform event."
+    },
+    {
+      "hallId": "scout-winners-bingo-tracy-uneed2",
+      "name": "Winners Bingo Tracy (Uneed2)",
+      "city": "Tracy",
+      "website": "https://www.winnersbingotracy.com/",
+      "address": "1005 E Pescadero Ave Ste 167, Tracy, CA 95304",
+      "addressSourceUrl": "https://www.winnersbingotracy.com/",
+      "checkedUrls": [
+        "https://www.winnersbingotracy.com/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Monday and Friday 7pm (doors 5pm); Saturday and Sunday noon (doors 10am).",
+        "sourceUrl": "https://www.winnersbingotracy.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.winnersbingotracy.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official site identifies UNEED2 Bingo, address and sessions. Published WINNERS offer instructions are email, not text.",
+      "notes": "No SMS route verified. PDL's separate coming-soon Tracy reference is not a new physical hall."
+    },
+    {
+      "hallId": "area-optimist-bingo-sacramento",
+      "name": "Optimist Bingo Sacramento",
+      "city": "Sacramento",
+      "website": "https://optimistsbc.com/",
+      "address": "3399 Arden Way, Sacramento, CA 95825",
+      "addressSourceUrl": "https://optimistsbc.com/",
+      "checkedUrls": [
+        "https://optimistsbc.com/",
+        "https://optimistsbc.com/mondays",
+        "https://optimistsbc.com/tuesdays",
+        "https://optimistsbc.com/wednesdays",
+        "https://optimistsbc.com/thursdays",
+        "https://optimistsbc.com/fridays",
+        "https://optimistsbc.com/saturdays",
+        "https://optimistsbc.com/sundays"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Search-indexed official homepage advertises daily bingo; Monday 10:30am, Tuesday/Thursday 6pm; other daily pages advertise evening sessions. Live-site confirmation unavailable; timing conflicts exist in Wednesday indexed material.",
+        "sourceUrl": "https://optimistsbc.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Live site unavailable; indexed historical presale promotions do not supply a verified checkout.",
+        "sourceUrl": "https://optimistsbc.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Indexed official pages expose daily schedules and an insider club. Live domain failed DNS/HTTP checks, preventing form inspection.",
+      "notes": "Do not classify insider club as SMS without seeing channel and form. Address and schedule are indexed official evidence, not live confirmation."
+    },
+    {
+      "hallId": "area-optimist-bingo-at-grand-oaks",
+      "name": "Optimist Bingo at Grand Oaks",
+      "city": "Citrus Heights",
+      "website": "https://optimistgo.com/home",
+      "address": "7919 Auburn Boulevard, Citrus Heights, CA 95610",
+      "addressSourceUrl": "https://optimistgo.com/home",
+      "checkedUrls": [
+        "https://optimistgo.com/home",
+        "https://optimistgo.com/fridays",
+        "https://optimistgo.com/labor-day"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Friday"
+        ],
+        "details": "Indexed official pages advertise Monday and Friday evenings 6pm (doors 3pm), plus Friday matinee 10am (doors 8am). Live confirmation unavailable.",
+        "sourceUrl": "https://optimistgo.com/home",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Live domain unavailable; no actionable purchase route verified.",
+        "sourceUrl": "https://optimistgo.com/home",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official indexed homepage and Friday page checked; live domain failed. Insider-club channel/form could not be verified.",
+      "notes": "Same physical location as Grand Oaks Bingo. Indexed Optimist times differ from current Grand Oaks hall-wide flyer; preserve operator/date distinction."
+    },
+    {
+      "hallId": "hall-fa2629627fdb",
+      "name": "Grand Oaks Bingo",
+      "city": "Citrus Heights",
+      "website": "https://grandoaksbingo.com/",
+      "address": "7919 Auburn Boulevard, Citrus Heights, CA 95610",
+      "addressSourceUrl": "https://grandoaksbingo.com/",
+      "checkedUrls": [
+        "https://grandoaksbingo.com/",
+        "https://grandoaksbingo.com/bingo-hours/",
+        "https://grandoaksbingo.com/wp-content/uploads/2026/08/image-1-pdf.jpg"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Evening regular bingo daily 6:30pm; first games M/W/Th/F/Sa 6pm and Tu/Su 5:30pm. Matinees Tue/Sat 10:30am; Fri first 10am, regular 10:30am; Sun first 11am, regular noon. Saturday late night 10pm; no Friday late night.",
+        "sourceUrl": "https://grandoaksbingo.com/wp-content/uploads/2026/08/image-1-pdf.jpg",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://grandoaksbingo.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Homepage, hours and August 2026 schedule image visually inspected in browser. No SMS instructions on checked flyer/pages.",
+      "notes": "Shared venue with Optimist GO sessions, not a new hall. Current hall-wide flyer takes precedence over older indexed general summaries."
+    },
+    {
+      "hallId": "hall-fc8fcf81d1f9",
+      "name": "Bakersfield Bingo Hall",
+      "city": "Bakersfield",
+      "website": "https://bakersfieldbingohall.com/",
+      "address": "4704 New Horizon Blvd, Bakersfield, CA 93313",
+      "addressSourceUrl": "https://bakersfieldbingohall.com/",
+      "checkedUrls": [
+        "https://bakersfieldbingohall.com/",
+        "https://bakersfieldbingohall.com/contact/"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Thursday"
+        ],
+        "details": "Homepage states Monday and Thursday: early birds 5pm, regular 6pm, doors 2pm.",
+        "sourceUrl": "https://bakersfieldbingohall.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Unrelated casino content on site and contact challenge; trustworthy bingo checkout not verified.",
+        "sourceUrl": "https://bakersfieldbingohall.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Hall details coexist with unrelated Dutch online-casino SEO content on domain; contact page challenge prevented inspection.",
+      "notes": "Website content integrity is questionable. Address/session text observed, but current operator confirmation is limited; no enrollment or checkout should be inferred from unrelated content."
+    },
+    {
+      "hallId": "hall-00f44ce4b4a7",
+      "name": "Vaca Valley Bingo",
+      "city": "Vacaville",
+      "website": "https://www.vacavalleybingo.com/",
+      "address": "190 Bella Vista Road, Vacaville, CA 95687",
+      "addressSourceUrl": "https://www.vacavalleybingo.com/",
+      "checkedUrls": [
+        "https://www.vacavalleybingo.com/",
+        "https://www.vacavalleybingo.com/hours"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Nine sessions: Monday/Tuesday/Thursday/Friday 6:30pm (doors 4:30pm); Wednesday 11am (doors 9:30am) and 6:30pm; Saturday 6pm (doors 4pm) and 11pm late night (entry after 9:30pm); Sunday 2pm (doors noon).",
+        "sourceUrl": "https://www.vacavalleybingo.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.vacavalleybingo.com/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Actual browser homepage and hours inspected. Newsletter signup heading rendered without an actionable form/link.",
+      "notes": "Newsletter channel unresolved; do not label as SMS. Pace Solano, Vaca High, Vanden and Scarlet Brigade share the venue; not four new halls."
+    },
+    {
+      "hallId": "hall-ea7485fb80ac",
+      "name": "Gold Country Casino Bingo",
+      "city": "Oroville",
+      "website": "https://www.goldcountrycasino.com/bingo/",
+      "address": "4020 Olive Highway, Oroville, CA 95966",
+      "addressSourceUrl": "https://www.goldcountrycasino.com/bingo/",
+      "checkedUrls": [
+        "https://www.goldcountrycasino.com/bingo/",
+        "https://www.goldcountrycasino.com/contact/",
+        "https://www.goldcountrycasino.com/players-club/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Sunday"
+        ],
+        "details": "Wednesday–Friday 6pm (doors 3pm; sales 3:30pm); Sunday 2pm (doors 11am; sales 11:30am).",
+        "sourceUrl": "https://www.goldcountrycasino.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.goldcountrycasino.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo page carries September 10 jackpots, weekly schedule and address. Contact/player-club pages checked; footer newsletter is email.",
+      "notes": "No verified SMS route. Casino player rewards membership is not assumed to be promotional SMS enrollment."
+    },
+    {
+      "hallId": "hall-9737e2170690",
+      "name": "Win-River Resort and Casino Bingo",
+      "city": "Redding",
+      "website": "https://winriver.com/bingo/",
+      "address": "2100 Redding Rancheria Road, Redding, CA",
+      "addressSourceUrl": "https://winriver.com/bingo/",
+      "checkedUrls": [
+        "https://winriver.com/bingo/",
+        "https://winriver.com/the-river-club/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://winriver.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo and River Club pages checked. Monthly schedule PDFs were linked but not fully inspected.",
+      "notes": "Schedule left null because session days were not verified from the linked monthly documents. Privacy references to SMS permissions are not an enrollment route. Entertainment ticket links are not bingo buy-ins."
+    },
+    {
+      "hallId": "hall-cc725ab79145",
+      "name": "Colusa Casino Resort Bingo",
+      "city": "Colusa",
+      "website": "https://www.colusacasino.com/bingo/",
+      "address": "3770 Highway45, Colusa, CA 95932",
+      "addressSourceUrl": "https://www.colusacasino.com/bingo/",
+      "checkedUrls": [
+        "https://www.colusacasino.com/bingo/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Wednesday",
+          "Thursday",
+          "Saturday",
+          "Sunday"
+        ],
+        "details": "Wednesday and Thursday 6pm (doors 3:30pm); Saturday and Sunday noon (doors 9:30am).",
+        "sourceUrl": "https://www.colusacasino.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.colusacasino.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo page/footer supplies schedule and 3770 HWY 45 address.",
+      "notes": "Responsible-gaming SUPPORT short code is a helpline, not hall marketing. Bus reservation text contacts also are not bingo SMS opt-in."
+    },
+    {
+      "hallId": "hall-f1e1278ba062",
+      "name": "Tachi Palace Casino Resort Yokut Hall",
+      "city": "Lemoore",
+      "website": "https://www.tachipalace.com/casino/bingo/",
+      "address": null,
+      "addressSourceUrl": "https://www.tachipalace.com/casino/bingo/",
+      "checkedUrls": [
+        "https://www.tachipalace.com/casino/bingo/",
+        "https://www.tachipalace.com/casino/premiere-club/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday"
+        ],
+        "details": "Tuesday–Saturday 6:25pm (doors 3pm); closed for bingo Sunday and Monday. Third-floor Yokut Hall.",
+        "sourceUrl": "https://www.tachipalace.com/casino/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "available",
+        "platform": "In person",
+        "url": null,
+        "details": "Anniversary bingo tickets advertised for purchase in Yokut Hall 3:30–9:30pm on bingo days. No online bingo checkout verified; general Etix entertainment links are not bingo tickets.",
+        "sourceUrl": "https://www.tachipalace.com/casino/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official page supplies days, address and anniversary advance-ticket instructions. Premiere Club registration is in person.",
+      "notes": "No SMS enrollment route verified. Presales availability here means the published in-person advance sale only."
+    },
+    {
+      "hallId": "area-american-legion-fresno-federal-post-509-bingo",
+      "name": "American Legion Fresno Federal Post 509 Bingo",
+      "city": "Fresno",
+      "website": "https://www.ffp509.org/events",
+      "address": "3509 N. First Street, Fresno, CA 93726",
+      "addressSourceUrl": "https://www.ffp509.org/events",
+      "checkedUrls": [
+        "https://www.ffp509.org/events",
+        "https://www.ffp509.org/contact"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Wednesday"
+        ],
+        "details": "Every Wednesday 6pm; doors 4pm. Ages 21+.",
+        "sourceUrl": "https://www.ffp509.org/events",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.ffp509.org/events",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official events and contact pages confirm cash bingo and address.",
+      "notes": "Same hall as hall-ec3a979a2988. Contact form is not an SMS subscription."
+    },
+    {
+      "hallId": "hall-4518bf8e83e1",
+      "name": "Fresno Charity Bingo",
+      "city": "Fresno",
+      "website": "https://www.lgbtqfresno.com/event/fresno-charity-bingo/",
+      "address": "3880 N 10th Street, Fresno, CA",
+      "addressSourceUrl": "https://www.lgbtqfresno.com/event/fresno-charity-bingo/",
+      "checkedUrls": [
+        "https://www.lgbtqfresno.com/event/fresno-charity-bingo/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Monday"
+        ],
+        "details": "Published event September 21, 2026: games 6:30pm, doors 4pm. This source verifies the dated Monday event, not a permanent weekly schedule.",
+        "sourceUrl": "https://www.lgbtqfresno.com/event/fresno-charity-bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.lgbtqfresno.com/event/fresno-charity-bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official event lists Zoe Eden Hall, 3880 N 10th Street, cash packs from $39.",
+      "notes": "Do not transfer the separately verified Queer Collective BINGO keyword to this venue. No exact SMS route or online ticket checkout found."
+    },
+    {
+      "hallId": "merced-elks",
+      "name": "Merced Elks Lodge #1240 Bingo",
+      "city": "Merced",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+      "address": "1910 M Street, Merced, CA 95340",
+      "addressSourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+      "checkedUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1240"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "Every Tuesday; early bird 6:30pm, doors 4:30pm; $20 buy-in.",
+        "sourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official Elks lodge homepage verifies address and bingo.",
+      "notes": "Duplicate of hall-70d12489d18e; one physical hall. No SMS instructions found."
+    },
+    {
+      "hallId": "hall-1b0b594657d0",
+      "name": "Roseville Eagles Aerie1582 Bingo",
+      "city": "Roseville",
+      "website": "https://www.rosevilleeagles.com/bingo/",
+      "address": "210 Lincoln Street entrance; 124 Vernon Street mailing address, Roseville, CA 95678",
+      "addressSourceUrl": "https://www.rosevilleeagles.com/bingo/",
+      "checkedUrls": [
+        "https://www.rosevilleeagles.com/bingo/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Sunday"
+        ],
+        "details": "Third Sunday of each month; start time not verified from rendered page. Members and invited guests.",
+        "sourceUrl": "https://www.rosevilleeagles.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.rosevilleeagles.com/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo page and email updates form checked.",
+      "notes": "One venue with entrance and mailing address. Newsletter form asks name and email only; no verified SMS subscription."
+    },
+    {
+      "hallId": "hall-1fdbce55d414",
+      "name": "Chico VFW1555 and Auxiliary Bingo",
+      "city": "Chico",
+      "website": "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+      "address": "554 Rio Lindo Avenue, Chico, CA 95926",
+      "addressSourceUrl": "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+      "checkedUrls": [
+        "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+        "https://vfw1555.org/uploads/Bingo.jpg"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Saturday"
+        ],
+        "details": "Second Saturday: Post bingo. Fourth Saturday: Auxiliary bingo. Game start time not verified.",
+        "sourceUrl": "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://vfw1555.org/di/vfw/v2/default.asp?pid=76952",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official post page confirms two monthly sessions and 554 Rio Lindo Avenue address. Linked bingo image fetched but not visually read.",
+      "notes": "Post and Auxiliary share a venue. Office hours excluded from bingo schedule. No SMS instructions verified."
+    },
+    {
+      "hallId": "hall-e9a096efec38",
+      "name": "Chico CARD Senior Luncheon Bingo",
+      "city": "Chico",
+      "website": "https://www.chicorec.gov/senior-luncheons",
+      "address": "Lakeside Pavilion, 2565 California Park Drive, Chico, CA 95928",
+      "addressSourceUrl": "https://www.chicorec.gov/lakeside-pavilion",
+      "checkedUrls": [
+        "https://www.chicorec.gov/senior-luncheons",
+        "https://www.chicorec.gov/lakeside-pavilion",
+        "https://www.rec.us/sections/78c72a20-3648-43e9-9bb1-bd0e5b79bd8c"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "2026 listed senior luncheon/bingo dates September 15, October 13, November 10 and December 8, noon–2pm; age 50+, advance registration required.",
+        "sourceUrl": "https://www.chicorec.gov/senior-luncheons",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [
+        {
+          "name": "Rec",
+          "url": "https://www.rec.us/sections/78c72a20-3648-43e9-9bb1-bd0e5b79bd8c",
+          "evidence": "Official CARD September 15 Register Online link."
+        }
+      ],
+      "presales": {
+        "status": "unclear",
+        "platform": "Rec",
+        "url": "https://www.rec.us/sections/78c72a20-3648-43e9-9bb1-bd0e5b79bd8c",
+        "details": "Official page requires $5 advance registration and links Rec; registration endpoint returned no readable checkout, so current availability not confirmed.",
+        "sourceUrl": "https://www.chicorec.gov/senior-luncheons",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "CARD lists lunch/bingo sessions and registration link; park page confirms Lakeside Pavilion address.",
+      "notes": "Monthly senior recreation, not a conventional cash-prize hall. No SMS form verified."
+    },
+    {
+      "hallId": "hall-f27b369fbabe",
+      "name": "Auburn Senior Center Penny Bingo",
+      "city": "Auburn",
+      "website": "https://www.auburnseniorcenter.com/activities",
+      "address": "11960 Heritage Oak Place, Suite 15, Auburn, CA 95603",
+      "addressSourceUrl": "https://na0.icarol.info/resourceview2.aspx?agencynum=65629515&org=2265",
+      "checkedUrls": [
+        "https://www.auburnseniorcenter.com/activities",
+        "https://www.auburnseniorcenter.com/about-us",
+        "https://na0.icarol.info/resourceview2.aspx?agencynum=65629515&org=2265"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Friday"
+        ],
+        "details": "Penny Bingo Fridays 1–3pm in Dance Hall.",
+        "sourceUrl": "https://www.auburnseniorcenter.com/activities",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.auburnseniorcenter.com/activities",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Actual browser confirms Penny Bingo, omitted by web text extraction. Site newsletter is email only. 211 Connecting Point record updated March 6, 2026 supplies exact center address.",
+      "notes": "Address is recent local resource-directory evidence, not verified on primary website. No SMS signup found."
+    },
+    {
+      "hallId": "scout-modesto-bingo-at-princeton-event-center",
+      "name": "Modesto Bingo at Princeton Event Center",
+      "city": "Modesto",
+      "website": "https://www.princetoneventcenter.org/bingo",
+      "address": "1640 Princeton Ave, Modesto, CA 95350",
+      "addressSourceUrl": "https://www.princetoneventcenter.org/bingo",
+      "checkedUrls": [
+        "https://www.princetoneventcenter.org/bingo",
+        "https://www.princetoneventcenter.org/about-us2"
+      ],
+      "signup": {
+        "method": "web_form",
+        "url": "https://www.princetoneventcenter.org/bingo",
+        "keyword": null,
+        "destination": null,
+        "sourceUrl": "https://www.princetoneventcenter.org/bingo",
+        "note": "Previously known route reconfirmed: use 11-digit number beginning with 1 and Opt-In START consent. Published sender 209-961-1069 is not a verified keyword destination."
+      },
+      "signupStatus": "verified_existing",
+      "schedule": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Thursday",
+          "Friday",
+          "Sunday"
+        ],
+        "details": "Monday, Tuesday, Thursday, Friday and Sunday 6:30pm; doors 3pm.",
+        "sourceUrl": "https://www.princetoneventcenter.org/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.princetoneventcenter.org/bingo",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo page has the existing SMS & BINGO Message form and session schedule.",
+      "notes": "No new opt-in route; preserve existing form. Do not invent a keyword for sender number."
+    },
+    {
+      "hallId": "scout-modesto-elks-lodge-1282-bingo",
+      "name": "Modesto Elks Lodge #1282 Bingo",
+      "city": "Modesto",
+      "website": "https://www.elks.org/lodges/home.cfm?lodgenumber=1282",
+      "address": "645 Charity Way, Modesto, CA 95356",
+      "addressSourceUrl": null,
+      "checkedUrls": [
+        "https://www.elks.org/lodges/home.cfm?lodgenumber=1282",
+        "https://www.elks.org/lodges/lodgefacilities.cfm?LodgeNumber=1282"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://www.elks.org/lodges/home.cfm?lodgenumber=1282",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official lodge homepage/facilities checked; no current bingo schedule verified.",
+      "notes": "Existing address retained from directory, not independently reverified this pass. Current bingo sessions unresolved; not evidence of closure. No SMS route found."
+    },
+    {
+      "hallId": "scout-monday-manteca-bingo-emory-hall",
+      "name": "Monday Manteca Bingo (Emory Hall)",
+      "city": "Manteca",
+      "website": "https://oneloveco.org/monday-manteca-bingo",
+      "address": "1028 W Yosemite Ave, Manteca, CA 95337",
+      "addressSourceUrl": null,
+      "checkedUrls": [
+        "https://oneloveco.org/monday-manteca-bingo",
+        "https://oneloveco.org/lander"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Former official domain now parked; no current checkout can be verified.",
+        "sourceUrl": "https://oneloveco.org/lander",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Actual browser redirects to GoDaddy parked-domain page, despite residual indexed bingo pages.",
+      "notes": "Prior 1028 W Yosemite address retained but not currently confirmed. Monday session not promoted to current verified schedule from legacy URL alone."
+    },
+    {
+      "hallId": "scout-friday-lodi-bingo-eagles-lodge",
+      "name": "Friday Lodi Bingo (Eagles Lodge)",
+      "city": "Lodi",
+      "website": "https://oneloveco.org/friday-lodi-bingo-1",
+      "address": "217 E Lodi Ave (Aerie 848), Lodi, CA 95240",
+      "addressSourceUrl": null,
+      "checkedUrls": [
+        "https://oneloveco.org/friday-lodi-bingo-1",
+        "https://oneloveco.org/lander"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Former operator website parked; no current bingo purchase route verified.",
+        "sourceUrl": "https://oneloveco.org/lander",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Indexed legacy page says Friday flash 5pm/main 6pm/doors 3:30 and text-or-call for information. Live parent domain is parked.",
+      "notes": "Indexed contact 209-800-9414 is an information contact, not verified marketing opt-in. Prior address retained; current sessions need operator confirmation."
+    },
+    {
+      "hallId": "scout-loel-senior-center-bingo",
+      "name": "LOEL Senior Center Bingo",
+      "city": "Lodi",
+      "website": "https://loelcenter.org/programs/games/",
+      "address": "105 S Washington St, Lodi, CA 95240",
+      "addressSourceUrl": "https://loelcenter.org/programs/games/",
+      "checkedUrls": [
+        "https://loelcenter.org/programs/games/",
+        "https://loelcenter.org/contact/"
+      ],
+      "signup": null,
+      "signupStatus": "not_verified",
+      "schedule": {
+        "days": [
+          "Tuesday"
+        ],
+        "details": "First and third Tuesday 1–3:45pm; doors 12:30pm, early game 1pm.",
+        "sourceUrl": "https://loelcenter.org/programs/games/",
+        "verifiedAt": "2026-09-11"
+      },
+      "platforms": [],
+      "presales": {
+        "status": "not_found",
+        "platform": null,
+        "url": null,
+        "details": "No bingo-specific online presale checkout found on the checked pages.",
+        "sourceUrl": "https://loelcenter.org/programs/games/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official games and contact pages supply schedule and 105 S Washington Street address.",
+      "notes": "No verified SMS enrollment route in checked material."
+    },
+    {
+      "hallId": "scout-lodi-italian-club-bingo",
+      "name": "Lodi Italian Club Bingo",
+      "city": "Lodi",
+      "website": "https://thelodiitalianclub.org/",
+      "address": "1041 S Miwok Dr, Lodi, CA 95240",
+      "addressSourceUrl": null,
+      "checkedUrls": [
+        "https://thelodiitalianclub.org/"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Official page unavailable to inspection.",
+        "sourceUrl": "https://thelodiitalianclub.org/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Website failed fetch safety check; current bingo, signup and presales not verified.",
+      "notes": "Existing address retained as previously recorded, not reverified. Unavailable is not evidence that no SMS program exists."
+    },
+    {
+      "hallId": "hall-075d679a1483",
+      "name": "Lincoln Community Foundation Monthly Bingo",
+      "city": "Lincoln",
+      "website": "https://lincolncommunityfoundation.org/bingo/",
+      "address": "McBean Park Pavilion,65 McBean Park Drive, Lincoln, CA 95648",
+      "addressSourceUrl": null,
+      "checkedUrls": [
+        "https://lincolncommunityfoundation.org/bingo/"
+      ],
+      "signup": null,
+      "signupStatus": "unavailable",
+      "schedule": null,
+      "platforms": [],
+      "presales": {
+        "status": "unclear",
+        "platform": null,
+        "url": null,
+        "details": "Official page timed out; no current presale verified.",
+        "sourceUrl": "https://lincolncommunityfoundation.org/bingo/",
+        "verifiedAt": "2026-09-11"
+      },
+      "evidence": "Official bingo endpoint timed out.",
+      "notes": "Existing McBean Park Pavilion address retained; session recurrence not reverified. Prior monthly label is not enough to assign day."
+    }
+  ],
+  "deduplicationNotes": [
+    "Merced Elks records merced-elks and hall-70d12489d18e describe the same lodge at 1910 M Street; merge rather than count twice.",
+    "Fresno Federal Post 509 records area-american-legion-fresno-federal-post-509-bingo and hall-ec3a979a2988 describe the same hall.",
+    "Grand Oaks and Optimist GO share 7919 Auburn Boulevard; Optimist sessions are a subset of hall use, not a newly discovered venue.",
+    "Winners Stockton PDL and Grapettes sessions share 1658 S Airport Way; Vaca Valley's several charity operators share one hall.",
+    "Roseville Eagles street entrance and Vernon mailing address are the same venue. Chico VFW Post and Auxiliary sessions are one venue."
+  ],
+  "summary": {
+    "newHalls": 10,
+    "existingRecordsRescanned": 30,
+    "distinctCitiesWithHallChecks": 29,
+    "citySearchCoverage": 36,
+    "newVerifiedSmsRoutes": 0,
+    "existingSmsRoutesReconfirmed": 6,
+    "verifiedBingoMeNowHalls": [
+      "Winners Bingo Stockton"
+    ],
+    "availableOnlinePresales": [
+      "Chicken Ranch Casino Bingo (OG Casino): Eventbrite September 27, 2026",
+      "BD Bingo Concord: TicketSpice buy-in checkout",
+      "BD Bingo Suisun City: TicketSpice September 13 buy-in"
+    ],
+    "availableInPersonPresales": [
+      "Tachi Palace: anniversary tickets in Yokut Hall"
+    ],
+    "notes": "Eight new traditional/casino/lodge bingo venues plus two clearly labeled recreational brewery events. Signup null is not a verified absence."
+  }
+}

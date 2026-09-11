@@ -4,6 +4,7 @@ import directory from './directory.json';
 import {classify} from './classifier';
 import type {Hall,Message,Snapshot} from './types';
 import crypto from 'node:crypto';
+import {messageKind} from './message-kind';
 import {identify,actionStatus,linksIn,linkKey,attributionVersion,verifiedLinks} from './attribution';
 import {resolveLink} from './resolve-links';
 
@@ -21,7 +22,7 @@ type RawSMS={smsid:string;source:string;destination:string;message:string;timest
 export function normalizeMessage(m:RawSMS):Message{
  const receivedAt=new Date(Number(m.timestamp)*1000).toISOString();
  const result=classify({from:m.source,to:m.destination,body:m.message,receivedAt,messageId:m.smsid},{halls});
- const kind=/reply was sent to|reply ["']?yes|birthdate|\(DOB\)|reply with your full name|welcome|thank you for (joining|subscribing)|you are now (signed|a member)|thank.*reminder/i.test(m.message)?'subscription':'promotion';
+ const kind=messageKind(m.message);
  return {id:m.smsid,sender:m.source,body:m.message,receivedAt,day:pacificDay(new Date(receivedAt)),hallId:result.hallId,candidates:JSON.stringify(result.candidateHallIds),status:result.status,kind};
 }
 const messageSelect='SELECT id,sender,body,received_at AS receivedAt,day,hall_id AS hallId,candidates,status,kind FROM messages';
@@ -30,7 +31,7 @@ async function associate(rows:Message[]){
  for(const m of rows){
   let result=identify(m,halls);
   if(!result.hallIds.length){const extra=[];for(const link of linksIn(m.body).slice(0,4))extra.push(await resolveLink(link,halls));result=identify(m,halls,extra);}
-  const statements=[db.prepare('DELETE FROM message_halls WHERE message_id=?').bind(m.id),db.prepare('UPDATE messages SET hall_id=?,candidates=?,status=?,kind=? WHERE id=?').bind(result.hallIds.length===1?result.hallIds[0]:null,JSON.stringify(result.hallIds),result.hallIds.length>1?'shared_list':result.hallIds.length?'classified':'needs_review',/reply was sent to/i.test(m.body)?'subscription':m.kind,m.id)];
+  const statements=[db.prepare('DELETE FROM message_halls WHERE message_id=?').bind(m.id),db.prepare('UPDATE messages SET hall_id=?,candidates=?,status=?,kind=? WHERE id=?').bind(result.hallIds.length===1?result.hallIds[0]:null,JSON.stringify(result.hallIds),result.hallIds.length>1?'shared_list':result.hallIds.length?'classified':'needs_review',messageKind(m.body),m.id)];
   for(const id of result.hallIds)statements.push(db.prepare('INSERT INTO message_halls(message_id,hall_id,evidence) VALUES(?,?,?)').bind(m.id,id,result.evidence));
   await db.batch(statements);
  }
@@ -73,10 +74,10 @@ export async function sync(){
 }
 export async function snapshot(day:string):Promise<Snapshot>{
  await seed();await reconcile();const db=getBinding();
- const [h,m,s]=await Promise.all([db.prepare('SELECT record FROM halls ORDER BY name').all<{record:string}>(),db.prepare('SELECT id,sender,body,received_at AS receivedAt,day,hall_id AS hallId,candidates,status,kind FROM messages WHERE day=? ORDER BY received_at DESC').bind(day).all<Message>(),db.prepare('SELECT value FROM sync_state WHERE key=?').bind('last_sync').first<{value:string}>()]);
- const summaryRows=await db.prepare('SELECT mh.hall_id AS hallId, COUNT(*) AS count, MAX(m.received_at) AS latestAt FROM message_halls mh JOIN messages m ON m.id=mh.message_id GROUP BY mh.hall_id').all<{hallId:string;count:number;latestAt:string}>();
- const latest=await db.prepare('SELECT m.id,m.sender,m.body,m.received_at AS receivedAt,m.day,m.hall_id AS hallId,m.candidates,m.status,m.kind,mh.hall_id AS forHall FROM message_halls mh JOIN messages m ON m.id=mh.message_id WHERE m.id=(SELECT mm.id FROM message_halls xx JOIN messages mm ON mm.id=xx.message_id WHERE xx.hall_id=mh.hall_id ORDER BY mm.received_at DESC,mm.id DESC LIMIT 1)').all<Message&{forHall:string}>();
- const unassigned=await db.prepare('SELECT COUNT(*) AS count FROM messages WHERE id NOT IN (SELECT message_id FROM message_halls)').first<{count:number}>();
+ const [h,m,s]=await Promise.all([db.prepare('SELECT record FROM halls ORDER BY name').all<{record:string}>(),db.prepare('SELECT id,sender,body,received_at AS receivedAt,day,hall_id AS hallId,candidates,status,kind FROM messages WHERE kind=\'promotion\' AND day=? ORDER BY received_at DESC').bind(day).all<Message>(),db.prepare('SELECT value FROM sync_state WHERE key=?').bind('last_sync').first<{value:string}>()]);
+ const summaryRows=await db.prepare('SELECT mh.hall_id AS hallId, COUNT(*) AS count, MAX(m.received_at) AS latestAt FROM message_halls mh JOIN messages m ON m.id=mh.message_id WHERE m.kind=\'promotion\' GROUP BY mh.hall_id').all<{hallId:string;count:number;latestAt:string}>();
+ const latest=await db.prepare('SELECT m.id,m.sender,m.body,m.received_at AS receivedAt,m.day,m.hall_id AS hallId,m.candidates,m.status,m.kind,mh.hall_id AS forHall FROM message_halls mh JOIN messages m ON m.id=mh.message_id WHERE m.kind=\'promotion\' AND m.id=(SELECT mm.id FROM message_halls xx JOIN messages mm ON mm.id=xx.message_id WHERE xx.hall_id=mh.hall_id AND mm.kind=\'promotion\' ORDER BY mm.received_at DESC,mm.id DESC LIMIT 1)').all<Message&{forHall:string}>();
+ const unassigned=await db.prepare('SELECT COUNT(*) AS count FROM messages WHERE kind=\'promotion\' AND id NOT IN (SELECT message_id FROM message_halls)').first<{count:number}>();
  return {halls:h.results.map(x=>JSON.parse(x.record)),messages:await enrich(m.results),lastSync:s?.value||null,connected:!!(env.TD_API_KEY||process.env.TD_API_KEY),cityCount:directory.cityCoverage.length,summaries:summaryRows.results.map(x=>({hallId:x.hallId,count:x.count,latest:latest.results.find(m=>m.forHall===x.hallId)||null})),unassignedCount:unassigned?.count||0};
 }
 async function enrich(rows:Message[]){
@@ -85,7 +86,8 @@ async function enrich(rows:Message[]){
 }
 export async function history(hallId:string,offset=0){
  await seed();await reconcile();const db=getBinding();
- const rows=await db.prepare(messageSelect+' WHERE id IN (SELECT message_id FROM message_halls WHERE hall_id=?) ORDER BY received_at DESC,id DESC LIMIT 101 OFFSET ?').bind(hallId,offset).all<Message>();
+ const rows=await db.prepare(messageSelect+' WHERE kind=\'promotion\' AND id IN (SELECT message_id FROM message_halls WHERE hall_id=?) ORDER BY received_at DESC,id DESC LIMIT 101 OFFSET ?').bind(hallId,offset).all<Message>();
  return {messages:await enrich(rows.results.slice(0,100)),hasMore:rows.results.length>100};
 }
+
 

@@ -1,23 +1,27 @@
-# California Bingo Text Monitor
+# California Bingo Hall and Text Monitor
 
-Private hall inbox, directory and daily regional SMS feed for Frontier Gaming Systems. Hall cards show the all-time received message count and latest text, sort newest first, and open paginated history with clickable links and identification evidence.
+Shared hall cards, published schedules, advance-sales links and regional promotional SMS history for Frontier Gaming Systems. Source: [FrontierGamingSystems/halls-texting](https://github.com/FrontierGamingSystems/halls-texting). Database: the dedicated **Bingo Halls and Texting** Supabase project.
 
-The owner-only Sites deployment uses Cloudflare D1 for hall research and incoming messages. Tossable Digits supplies messages for the dedicated number. Runtime TD_API_KEY is a server-side secret; TD_NUMBER identifies the collection number.
+Cards sort by the latest promotional message and open **View details** with website, exact address when verified, bingo weekdays and times, texting/sales platforms, advance purchase links, evidence sources, and message history. Signup confirmations and operational replies are retained privately but excluded from counts, previews, history and public database reads. Promotional messages remain visible when they contain STOP footers.
 
-The page retrieves new messages on opening and every minute while visible, preserving missed messages on the next visit. This version does not run an unattended background schedule. Email forwarding continues independently through Tossable Digits to texting@frontiergamingsystems.com.
+The September 11 research pass added 33 listings to the previous 296. It manually updated 81 existing records, recorded 93 published schedules, and checked 107 city-search entries. Automated rescanning attempted all 296 original records and fetched 833 pages, including likely signup, calendar and sales pages. Detailed source evidence and caveats are in research/; excerpts from the automated scan are candidates, not verified claims. The 329 listings include historical, paused, community and event-only leads and are not a complete statewide census.
 
-Subscription evidence and enrollment status are different fields. Non-responsive signups are marked possibly inactive, not verified closed. Source research is incomplete and does not prove a statewide census. Some casino lists cover the entire property; the Fresno community program is prize bingo.
+Two newly verified casino-wide SMS routes, Chumash and Agua Caliente, were contacted. Both require a YES plus birthdate reply and remain pending, along with Fantasy Springs and Table Mountain. No birthdate was invented. Confirmed SMS enrollment does not prove a venue currently operates: Industry's published suspension is recorded separately.
 
-Incoming messages are deduplicated by provider ID, stored with original text and timestamp, and assigned using hall names, audited enrollment sequences, verified dedicated numbers and exact campaign links. Shared short code 70503, shared service domains, generic terms pages and recipient identifiers never identify a hall by themselves. New unidentified links are resolved server-side with bounded reads; image-only or ambiguous content remains for review. The message_halls table supports shared subscriptions: Vanguard texts without a location appear under both Santa Clara and Redwood City. Display dates use America/Los_Angeles.
+## Runtime and database
 
-Attribution rules are versioned in lib/attribution-rules.json. A new version reassigns existing messages on the next authenticated load or sync. Reviewed mappings include Concord, Suisun, 24th Street, Milpitas and Aquamaids campaign destinations. Name replies and ZIP95377 were sent; Fantasy Springs and Table Mountain still require a birthdate.
+The application runs on Cloudflare Workers via Sites/vinext. Supabase is its configured primary database; the prior D1 implementation remains as a migration fallback when Supabase configuration is absent. Tables store hall records, original incoming messages, many-to-many hall associations, sync state and campaign-link mappings. Server-only credentials are never bundled for the browser.
 
-## Local development
+The owner can collect new messages by opening or refreshing the app. Other visitors read collected promotions without signing in. The page refreshes every minute while visible; an unattended background collection schedule is not configured. Tossable Digits email forwarding runs independently. The public app has no SMS sending endpoint.
 
-Use Node22.13+ and the supplied lockfile. Set .env from .env.example, then run npm run install:ci and npm run dev. Local auth uses the starter's loopback-only sign-in simulator. Never commit .env or .sites-runtime.
+The parser uses hall names, verified dedicated numbers, audited enrollment sequences and hall-specific campaign links. A shared shortcode or platform domain alone never identifies a hall. Unresolved links receive bounded server-side reads; uncertain or image-only pages remain for review. Shared Vanguard messages appear under both locations only when no single location is specified. Times are shown in America/Los_Angeles.
 
-Schema lives in db/schema.ts. Generate migrations with npm run db:generate. Apply local migrations through Wrangler using the generated dist/server/wrangler.json and .wrangler/state. Hosted migrations are applied by Sites.
+## Development
 
-## Validation
+Use Node 22.13+ and the supplied lockfile. Copy .env.example to .env, configure server credentials, run npm run install:ci, then npm run dev. Do not commit .env or .sites-runtime.
 
-Real SMS retrieval and D1 insertion tested; repeated retrieval added zero duplicate messages. Current attribution audit covers38 incoming messages across17 hall cards, including shared Vanguard messages. Hall history counts agree with card counts. Generic BSeenNow terms and Fresno event-directory links are regression checked against false assignment. Anonymous API access returns401 and cross-origin sync returns403. Type checking and production build passed. Browser UI QA was not requested. WebMCP hall opening is implemented but no supported contract-validation context was available.
+npm test validates PostgreSQL ingestion, duplicate handling, public read-only permissions, shared-location counts and operational-message filtering. npx tsc --noEmit and npm run build check the application. The GitHub validation workflow runs these checks on pushes and pull requests.
+
+See [Supabase deployment](supabase/README.md) for schema and connection setup. Runtime secrets are TD_API_KEY, TD_NUMBER, BINGO_SYNC_KEY, SUPABASE_URL, and SUPABASE_SERVICE_ROLE_KEY (the existing secret API key is accepted under this name). Keep all credentials out of source control. Hosted Sites publication uses the existing .openai/hosting.json project; never create a replacement Site for this checkout.
+
+Validation performed locally and against the live Supabase project: 329 hall rows imported, 42 incoming messages retained, 9 promotions publicly readable, no unassigned promotions, and anonymous ingestion/private-state requests denied. The database tests also verify repeated ingestion adds no duplicates. Browser visual QA was not requested; WebMCP contract validation was unavailable.

@@ -3,7 +3,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "California Bingo Text Monitor | Frontier",
-  description: "Private bingo SMS feed and California hall directory.",
+  description: "California bingo promotions, hall schedules and advance-sales directory.",
+  robots: {index:false,follow:false},
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

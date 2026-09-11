@@ -4,10 +4,12 @@ import {classify} from './classifier';
 import type {Hall} from './types';
 
 const platforms=['login.bseennow.net','bseennow.net','tinyurl.com','www.tinyurl.com','mcpn.us','www.canva.com','canva.com','www.airmenu.com','airmenu.com','app.bingomenow.com','www.bingomenow.com','bingomenow.com','bcmeow.net'];
-export async function resolveLink(raw:string,halls:Hall[]):Promise<Attribution>{
+type CachedLink={final_url:string;hall_ids:string;evidence:string;checked_at:string};
+export type LinkCache={get:(url:string)=>Promise<CachedLink|null>;set:(row:CachedLink&{url:string})=>Promise<void>};
+export async function resolveLink(raw:string,halls:Hall[],cache?:LinkCache):Promise<Attribution>{
  const key=linkKey(raw);if(!key)return {hallIds:[],evidence:'Shared terms page; not a hall identifier.'};
- const db=getBinding();
- const prior=await db.prepare('SELECT final_url,hall_ids,evidence,checked_at FROM link_mappings WHERE url=?').bind(key).first<{final_url:string;hall_ids:string;evidence:string;checked_at:string}>();
+ const db=cache?null:getBinding();
+ const prior=cache?await cache.get(key):await db!.prepare('SELECT final_url,hall_ids,evidence,checked_at FROM link_mappings WHERE url=?').bind(key).first<CachedLink>();
  if(prior&&(JSON.parse(prior.hall_ids).length||Date.now()-Date.parse(prior.checked_at)<86400000))return {hallIds:JSON.parse(prior.hall_ids),evidence:prior.evidence};
  const allowed=new Set(platforms);
  for(const h of halls){try{const u=new URL(h.website||'');if(u.protocol==='https:')allowed.add(u.hostname);}catch{}}
@@ -30,6 +32,7 @@ export async function resolveLink(raw:string,halls:Hall[]):Promise<Attribution>{
    break;
   }
  }catch{evidence='Link needs review; destination was unavailable, unsupported, or could not be safely read.';}
- await db.prepare('INSERT INTO link_mappings(url,final_url,hall_ids,evidence,checked_at) VALUES(?,?,?,?,?) ON CONFLICT(url) DO UPDATE SET final_url=excluded.final_url,hall_ids=excluded.hall_ids,evidence=excluded.evidence,checked_at=excluded.checked_at').bind(key,finalUrl,JSON.stringify(hallIds),evidence,new Date().toISOString()).run();
+ const row={url:key,final_url:finalUrl,hall_ids:JSON.stringify(hallIds),evidence,checked_at:new Date().toISOString()};
+ if(cache)await cache.set(row);else await db!.prepare('INSERT INTO link_mappings(url,final_url,hall_ids,evidence,checked_at) VALUES(?,?,?,?,?) ON CONFLICT(url) DO UPDATE SET final_url=excluded.final_url,hall_ids=excluded.hall_ids,evidence=excluded.evidence,checked_at=excluded.checked_at').bind(key,finalUrl,row.hall_ids,evidence,row.checked_at).run();
  return {hallIds,evidence};
 }
