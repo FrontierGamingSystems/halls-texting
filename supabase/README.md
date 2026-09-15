@@ -12,4 +12,10 @@ Public users can read hall details and promotional messages. Signup and service 
 
 Run `npm test` to validate the migration against an embedded PostgreSQL engine, including anonymous permission failures, duplicate ingestion, shared hall counts and operational-message filtering. This does not replace a live project smoke test after connection.
 
-Reference: [Supabase row-level security](https://supabase.com/docs/guides/database/postgres/row-level-security), [database migrations](https://supabase.com/docs/guides/local-development/database-migrations).
+## Background collection
+
+The existing project has the active `bingo-sms-sync` Cron job, scheduled every five minutes. It calls the current Sites deployment's protected `POST /api/monitor` endpoint and reads its existing key from Vault secret `bingo_monitor_sync_key`. No computer or browser must remain open. Setup is recorded in [schedule-sync.sql](schedule-sync.sql); use its stable job name to update rather than duplicate the job. Keep secret values outside SQL files and source control.
+
+The initial Supabase HTTP test returned 200 and advanced `bingo_state.last_sync`. Check `cron.job_run_details`, `net._http_response`, and `last_sync` for ongoing health: a successful Cron SQL result only establishes that the HTTP request was queued. A separate failure notification is not configured. Keep the Supabase project, deployment, and texting account active.
+
+Reference: [Supabase row-level security](https://supabase.com/docs/guides/database/postgres/row-level-security), [database migrations](https://supabase.com/docs/guides/local-development/database-migrations), [Cron](https://supabase.com/docs/guides/cron/quickstart).
